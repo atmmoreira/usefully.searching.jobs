@@ -1,2 +1,2 @@
 # sitesdomundo
-Lista de Sites 
+Lista de Sites para profissionais trabalharem remotamente ou enviarem curriculos.
