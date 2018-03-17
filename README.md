@@ -135,7 +135,6 @@
 
 # Irlanda
 
-* [http://www.dubaiexpolive.com ( Oportunidades antigas mas tem email e site das empresas ) ](http://www.dubaiexpolive.com )
 * [http://www.irishjobs.ie](http://www.irishjobs.ie)
 * [http://www.itshappeninghere.ie](http://www.itshappeninghere.ie)
 * [http://www.jobs.ie](http://www.jobs.ie)
