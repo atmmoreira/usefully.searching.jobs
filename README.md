@@ -3,6 +3,7 @@
 
 # MUNDO
 
+* [http://authenticjobs.com](http://authenticjobs.com)
 * [http://www.angel.co](http://www.angel.co)
 * [http://www.authenticjobs.com](http://www.authenticjobs.com)
 * [http://www.careers.google.com](http://www.careers.google.com)
@@ -83,6 +84,7 @@
 * [http://www.roberthalf.com](http://www.roberthalf.com)
 * [http://www.seasonalemployment.com](http://www.seasonalemployment.com)
 * [http://www.simplyhired.com](http://www.simplyhired.com)
+* [http://www.smashingmagazine.com/jobs/](http://www.smashingmagazine.com/jobs/)
 
 # Canadá
 
