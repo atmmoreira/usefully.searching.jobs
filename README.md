@@ -32,6 +32,7 @@
 * [http://www.stackoverflow.com/jobs](http://www.stackoverflow.com/jobs)
 * [http://www.thedrum.com/jobs](http://www.thedrum.com/jobs)
 * [http://www.themuse.com/jobs](http://www.themuse.com/jobs)
+* [http://www.toptal.com](http://www.toptal.com)
 * [http://www.upwork.com](http://www.upwork.com)
 * [http://www.virtualvocations.com/jobs](http://www.virtualvocations.com/jobs)
 * [http://www.weworkremotely.com](http://www.weworkremotely.com)
