@@ -71,13 +71,14 @@
 
 # Estados Unidos
 
-* [https://codepen.io/jobs](https://codepen.io/jobs)
-* [http://www.seasonalemployment.com](http://www.seasonalemployment.com)
-* [http://www.roberthalf.com](http://www.roberthalf.com)
-* [http://www.jobstoclick.com](http://www.jobstoclick.com)
-* [http://www.jobmonkeyjobs.com/candidate](http://www.jobmonkeyjobs.com/candidate)
-* [http://www.getgraphicdesignjobs.com](http://www.getgraphicdesignjobs.com)
+* [http://www.collegerecruiter.com/](http://www.collegerecruiter.com/)
 * [http://www.computerjobs.com](http://www.computerjobs.com)
+* [http://www.getgraphicdesignjobs.com](http://www.getgraphicdesignjobs.com)
+* [http://www.jobmonkeyjobs.com/candidate](http://www.jobmonkeyjobs.com/candidate)
+* [http://www.jobstoclick.com](http://www.jobstoclick.com)
+* [http://www.roberthalf.com](http://www.roberthalf.com)
+* [http://www.seasonalemployment.com](http://www.seasonalemployment.com)
+* [https://codepen.io/jobs](https://codepen.io/jobs)
 
 # Canadá
 
