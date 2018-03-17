@@ -78,6 +78,7 @@
 * [http://www.jobstoclick.com](http://www.jobstoclick.com)
 * [http://www.roberthalf.com](http://www.roberthalf.com)
 * [http://www.seasonalemployment.com](http://www.seasonalemployment.com)
+* [http://www.simplyhired.com](http://www.simplyhired.com)
 * [https://codepen.io/jobs](https://codepen.io/jobs)
 
 # Canadá
