@@ -78,6 +78,7 @@
 * [http://www.getgraphicdesignjobs.com](http://www.getgraphicdesignjobs.com)
 * [http://www.jobmonkeyjobs.com/candidate](http://www.jobmonkeyjobs.com/candidate)
 * [http://www.jobstoclick.com](http://www.jobstoclick.com)
+* [http://www.krop.com](http://www.krop.com)
 * [http://www.roberthalf.com](http://www.roberthalf.com)
 * [http://www.seasonalemployment.com](http://www.seasonalemployment.com)
 * [http://www.simplyhired.com](http://www.simplyhired.com)
