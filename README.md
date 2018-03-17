@@ -3,41 +3,41 @@
 
 # MUNDO
 
-* [http://www.angel.co](http://www.angel.co)
-* [http://www.authenticjobs.com](http://www.authenticjobs.com)
-* [http://www.careers.google.com](http://www.careers.google.com)
-* [http://www.cybercoders.com](http://www.cybercoders.com)
-* [http://www.dribbble.com/jobs](http://www.dribbble.com/jobs)
-* [http://www.flexjobs.com](http://www.flexjobs.com)
-* [http://www.freelancer.com](http://www.freelancer.com)
-* [http://www.freelancermap.com](http://www.freelancermap.com)
-* [http://www.gun.io/#hacker ( Verificar funcionamento )](http://www.gun.io/#hacker)
-* [http://www.guru.com/d/jobs](http://www.guru.com/d/jobs/)
-* [http://www.idealist.org](http://www.idealist.org)
-* [http://www.indeed.com.br/about](http://www.indeed.com.br/about)
-* [http://www.jobs.github.com](http://www.jobs.github.com/positions?description=&location=)
-* [http://www.jobspresso.co](http://www.jobspresso.co)
-* [http://www.jsremotely.com](http://www.jsremotely.com)
-* [http://www.landing.jobs](http://www.landing.jobs)
-* [http://www.larajobs.com](http://www.larajobs.com)
-* [http://www.monster.com](http://www.monster.com)
-* [http://www.nodesk.co/remote-work](http://www.nodesk.co/remote-work)
-* [http://www.outsourcely.com/remote-workers](http://www.outsourcely.com/remote-workers)
-* [http://www.powertofly.com/jobs](http://www.powertofly.com/jobs)
-* [http://www.remote.co/remote-jobs](http://www.remote.co/remote-jobs)
-* [http://www.remoteok.io](http://www.remoteok.io)
-* [http://www.remoteworking.co](http://www.remoteworking.co)
-* [http://www.remotive.io/find-a-remote-job](http://www.remotive.io/find-a-remote-job)
-* [http://www.skipthedrive.com](http://www.skipthedrive.com)
-* [http://www.stackoverflow.com/jobs](http://www.stackoverflow.com/jobs)
-* [http://www.thedrum.com/jobs](http://www.thedrum.com/jobs)
-* [http://www.themuse.com/jobs](http://www.themuse.com/jobs)
-* [http://www.upwork.com](http://www.upwork.com)
-* [http://www.virtualvocations.com/jobs](http://www.virtualvocations.com/jobs)
-* [http://www.weworkremotely.com](http://www.weworkremotely.com)
-* [http://www.wfh.io](http://www.wfh.io)
-* [http://www.workingnomads.co/jobs](http://www.workingnomads.co/jobs)
-* [http://www.ziprecruiter.com](http://www.ziprecruiter.com)
+* [http://www.angel.co](http://www.angel.co){:target="_blank"}
+* [http://www.authenticjobs.com](http://www.authenticjobs.com){:target="_blank"}
+* [http://www.careers.google.com](http://www.careers.google.com){:target="_blank"}
+* [http://www.cybercoders.com](http://www.cybercoders.com){:target="_blank"}
+* [http://www.dribbble.com/jobs](http://www.dribbble.com/jobs){:target="_blank"}
+* [http://www.flexjobs.com](http://www.flexjobs.com){:target="_blank"}
+* [http://www.freelancer.com](http://www.freelancer.com){:target="_blank"}
+* [http://www.freelancermap.com](http://www.freelancermap.com){:target="_blank"}
+* [http://www.gun.io/#hacker ( Verificar funcionamento )](http://www.gun.io/#hacker){:target="_blank"}
+* [http://www.guru.com/d/jobs](http://www.guru.com/d/jobs/){:target="_blank"}
+* [http://www.idealist.org](http://www.idealist.org){:target="_blank"}
+* [http://www.indeed.com.br/about](http://www.indeed.com.br/about){:target="_blank"}
+* [http://www.jobs.github.com](http://www.jobs.github.com/positions?description=&location=){:target="_blank"}
+* [http://www.jobspresso.co](http://www.jobspresso.co){:target="_blank"}
+* [http://www.jsremotely.com](http://www.jsremotely.com){:target="_blank"}
+* [http://www.landing.jobs](http://www.landing.jobs){:target="_blank"}
+* [http://www.larajobs.com](http://www.larajobs.com){:target="_blank"}
+* [http://www.monster.com](http://www.monster.com){:target="_blank"}
+* [http://www.nodesk.co/remote-work](http://www.nodesk.co/remote-work){:target="_blank"}
+* [http://www.outsourcely.com/remote-workers](http://www.outsourcely.com/remote-workers){:target="_blank"}
+* [http://www.powertofly.com/jobs](http://www.powertofly.com/jobs){:target="_blank"}
+* [http://www.remote.co/remote-jobs](http://www.remote.co/remote-jobs){:target="_blank"}
+* [http://www.remoteok.io](http://www.remoteok.io){:target="_blank"}
+* [http://www.remoteworking.co](http://www.remoteworking.co){:target="_blank"}
+* [http://www.remotive.io/find-a-remote-job](http://www.remotive.io/find-a-remote-job){:target="_blank"}
+* [http://www.skipthedrive.com](http://www.skipthedrive.com){:target="_blank"}
+* [http://www.stackoverflow.com/jobs](http://www.stackoverflow.com/jobs){:target="_blank"}
+* [http://www.thedrum.com/jobs](http://www.thedrum.com/jobs){:target="_blank"}
+* [http://www.themuse.com/jobs](http://www.themuse.com/jobs){:target="_blank"}
+* [http://www.upwork.com](http://www.upwork.com){:target="_blank"}
+* [http://www.virtualvocations.com/jobs](http://www.virtualvocations.com/jobs){:target="_blank"}
+* [http://www.weworkremotely.com](http://www.weworkremotely.com){:target="_blank"}
+* [http://www.wfh.io](http://www.wfh.io){:target="_blank"}
+* [http://www.workingnomads.co/jobs](http://www.workingnomads.co/jobs){:target="_blank"}
+* [http://www.ziprecruiter.com](http://www.ziprecruiter.com){:target="_blank"}
 
 |--------------------------------------------------------------------------
 | Brasil
