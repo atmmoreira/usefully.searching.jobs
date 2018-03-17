@@ -71,6 +71,8 @@
 
 # Estados Unidos
 
+* [http://aquent.com/find-work](http://aquent.com/find-work)
+* [http://codepen.io/jobs](https://codepen.io/jobs)
 * [http://www.collegerecruiter.com/](http://www.collegerecruiter.com/)
 * [http://www.computerjobs.com](http://www.computerjobs.com)
 * [http://www.getgraphicdesignjobs.com](http://www.getgraphicdesignjobs.com)
@@ -79,7 +81,6 @@
 * [http://www.roberthalf.com](http://www.roberthalf.com)
 * [http://www.seasonalemployment.com](http://www.seasonalemployment.com)
 * [http://www.simplyhired.com](http://www.simplyhired.com)
-* [https://codepen.io/jobs](https://codepen.io/jobs)
 
 # Canadá
 
