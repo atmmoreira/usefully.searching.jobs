@@ -73,6 +73,7 @@
 
 * [http://aquent.com/find-work](http://aquent.com/find-work)
 * [http://codepen.io/jobs](https://codepen.io/jobs)
+* [http://localsolo.com/worldwide/jobs/](http://localsolo.com/worldwide/jobs/)
 * [http://www.collegerecruiter.com/](http://www.collegerecruiter.com/)
 * [http://www.computerjobs.com](http://www.computerjobs.com)
 * [http://www.getgraphicdesignjobs.com](http://www.getgraphicdesignjobs.com)
