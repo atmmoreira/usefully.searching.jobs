@@ -1,52 +1,43 @@
 # SITES DO MUNDO
 ### SITES PARA PROFISSIONAIS DE TI ( TRABALHOS FIXOS E REMOTO ).
 
-
-
 # MUNDO
 
-	[www.angel.co](www.angel.co)
-
-
-	[ OK ] - www.angel.co
-	[ OK ] - www.authenticjobs.com
-	[ OK ] - www.careers.google.com
-	[ OK ] - www.cybercoders.com
-	[ OK ] - www.dribbble.com/jobs
-	[ OK ] - www.flexjobs.com
-	[ OK ] - www.freelancer.com
-	[ OK ] - www.freelancermap.com
-	[ OK ] - www.gun.io/#hacker ( Verificar funcionamento )
-	[ OK ] - www.guru.com/d/jobs/
-	[ OK ] - www.idealist.org
-	[ OK ] - www.indeed.com.br/about
-	[ OK ] - www.jobs.github.com/positions?description=&location=
-	[ OK ] - www.jobspresso.co
-	[ OK ] - www.jsremotely.com
-	[ OK ] - www.landing.jobs
-	[ OK ] - www.larajobs.com
-	[ OK ] - www.monster.com
-	[ OK ] - www.nodesk.co/remote-work
-	[ OK ] - www.outsourcely.com/remote-workers
-	[ OK ] - www.powertofly.com/jobs
-	[ OK ] - www.remote.co/remote-jobs
-	[ OK ] - www.remoteok.io/
-	[ OK ] - www.remoteworking.co
-	[ OK ] - www.remotive.io/find-a-remote-job
-	[ OK ] - www.skipthedrive.com
-	[ OK ] - www.skipthedrive.com
-	[ OK ] - www.stackoverflow.com/jobs
-	[ OK ] - www.thedrum.com/jobs
-	[ OK ] - www.themuse.com/jobs
-	[ OK ] - www.upwork.com
-	[ OK ] - www.virtualvocations.com
-	[ OK ] - www.virtualvocations.com/jobs
-	[ OK ] - www.weworkremotely.com
-	[ OK ] - www.weworkremotely.com
-	[ OK ] - www.wfh.io
-	[ OK ] - www.workingnomads.co/jobs
-	[ OK ] - www.workingnomads.co/jobs
-	[ OK ] - www.ziprecruiter.com
+* [www.angel.co](www.angel.co)
+* [www.authenticjobs.com](www.authenticjobs.com)
+* [www.careers.google.com](www.careers.google.com)
+* [www.cybercoders.com](www.cybercoders.com)
+* [www.dribbble.com/jobs](www.dribbble.com/jobs)
+* [www.flexjobs.com](www.flexjobs.com)
+* [www.freelancer.com](www.freelancer.com)
+* [www.freelancermap.com](www.freelancermap.com)
+* [www.gun.io/#hacker ( Verificar funcionamento )](www.gun.io/#hacker)
+* [www.guru.com/d/jobs](www.guru.com/d/jobs/)
+* [www.idealist.org](www.idealist.org)
+* [www.indeed.com.br/about](www.indeed.com.br/about)
+* [www.jobs.github.com](www.jobs.github.com/positions?description=&location=)
+* [www.jobspresso.co](www.jobspresso.co)
+* [www.jsremotely.com](www.jsremotely.com)
+* [www.landing.jobs](www.landing.jobs)
+* [www.larajobs.com](www.larajobs.com)
+* [www.monster.com](www.monster.com)
+* [www.nodesk.co/remote-work](www.nodesk.co/remote-work)
+* [www.outsourcely.com/remote-workers](www.outsourcely.com/remote-workers)
+* [www.powertofly.com/jobs](www.powertofly.com/jobs)
+* [www.remote.co/remote-jobs](www.remote.co/remote-jobs)
+* [www.remoteok.io](www.remoteok.io)
+* [www.remoteworking.co](www.remoteworking.co)
+* [www.remotive.io/find-a-remote-job](www.remotive.io/find-a-remote-job)
+* [www.skipthedrive.com](www.skipthedrive.com)
+* [www.stackoverflow.com/jobs](www.stackoverflow.com/jobs)
+* [www.thedrum.com/jobs](www.thedrum.com/jobs)
+* [www.themuse.com/jobs](www.themuse.com/jobs)
+* [www.upwork.com](www.upwork.com)
+* [www.virtualvocations.com/jobs](www.virtualvocations.com/jobs)
+* [www.weworkremotely.com](www.weworkremotely.com)
+* [www.wfh.io](www.wfh.io)
+* [www.workingnomads.co/jobs](www.workingnomads.co/jobs)
+* [www.ziprecruiter.com](www.ziprecruiter.com)
 
 |--------------------------------------------------------------------------
 | Brasil
