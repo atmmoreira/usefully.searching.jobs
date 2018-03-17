@@ -23,6 +23,7 @@
 * [http://www.monster.com](http://www.monster.com)
 * [http://www.nodesk.co/remote-work](http://www.nodesk.co/remote-work)
 * [http://www.outsourcely.com/remote-workers](http://www.outsourcely.com/remote-workers)
+* [http://www.peopleperhour.com/freelance-jobs](http://www.peopleperhour.com/freelance-jobs)
 * [http://www.powertofly.com/jobs](http://www.powertofly.com/jobs)
 * [http://www.remote.co/remote-jobs](http://www.remote.co/remote-jobs)
 * [http://www.remoteok.io](http://www.remoteok.io)
