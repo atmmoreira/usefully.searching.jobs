@@ -66,6 +66,7 @@
 * [http://www.trampos.co](http://www.trampos.co)
 * [http://www.vagas.com.br](http://www.vagas.com.br)
 * [http://www.vagasnanet.com.br](http://www.vagasnanet.com.br)
+* [https://www.vagacolaborativa.com.br](https://www.vagacolaborativa.com.br)
 
 # New Zeland
 
