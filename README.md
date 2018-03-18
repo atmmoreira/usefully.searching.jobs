@@ -22,7 +22,6 @@
 * [http://www.jobs.github.com](http://www.jobs.github.com/positions?description=&location=)
 * [http://www.jobspresso.co](http://www.jobspresso.co)
 * [http://www.jsremotely.com](http://www.jsremotely.com)
-* [http://www.landing.jobs](http://www.landing.jobs)
 * [http://www.larajobs.com](http://www.larajobs.com)
 * [http://www.monster.com](http://www.monster.com)
 * [http://www.news.ycombinator.com/jobs)](http://news.ycombinator.com/jobs)
@@ -100,6 +99,7 @@
 # Europa
 
 * [http://europeremotely.com](http://europeremotely.com)
+* [http://www.landing.jobs](http://www.landing.jobs)
 
 # Espanha
 
@@ -110,17 +110,21 @@
 
 # Estados Unidos
 
+* [http://www.icrunchdata.com/jobs](http://icrunchdata.com/jobs)
+* [http://www.jobs.codeforamerica.org](http://jobs.codeforamerica.org)
 * [http://www.aquent.com/find-work](http://aquent.com/find-work)
 * [http://www.codepen.io/jobs](https://codepen.io/jobs)
 * [http://www.collegerecruiter.com/](http://www.collegerecruiter.com/)
 * [http://www.computerjobs.com](http://www.computerjobs.com)
 * [http://www.coroflot.com/design-jobs](http://www.coroflot.com/design-jobs)
+* [http://www.crunchboard.com](http://www.crunchboard.com)
 * [http://www.dice.com](http://www.dice.com)
 * [http://www.getgraphicdesignjobs.com](http://www.getgraphicdesignjobs.com)
 * [http://www.hired.com/jobs](http://hired.com/jobs)
 * [http://www.idealist.org](http://www.idealist.org)
 * [http://www.jobmonkeyjobs.com/candidate](http://www.jobmonkeyjobs.com/candidate)
 * [http://www.jobstoclick.com](http://www.jobstoclick.com)
+* [http://www.kaggle.com/jobs](http://www.kaggle.com/jobs)
 * [http://www.krop.com](http://www.krop.com)
 * [http://www.localsolo.com/worldwide/jobs/](http://localsolo.com/worldwide/jobs/)
 * [http://www.portlandtech.org](http://portlandtech.org)
