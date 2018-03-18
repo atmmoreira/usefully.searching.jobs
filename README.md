@@ -106,21 +106,26 @@
 
 # Estados Unidos
 
-* [http://aquent.com/find-work](http://aquent.com/find-work)
-* [http://codepen.io/jobs](https://codepen.io/jobs)
-* [http://hired.com/jobs](http://hired.com/jobs)
-* [http://localsolo.com/worldwide/jobs/](http://localsolo.com/worldwide/jobs/)
+* [http://www.aquent.com/find-work](http://aquent.com/find-work)
+* [http://www.codepen.io/jobs](https://codepen.io/jobs)
 * [http://www.collegerecruiter.com/](http://www.collegerecruiter.com/)
 * [http://www.computerjobs.com](http://www.computerjobs.com)
 * [http://www.coroflot.com/design-jobs](http://www.coroflot.com/design-jobs)
+* [http://www.dice.com](http://www.dice.com)
 * [http://www.getgraphicdesignjobs.com](http://www.getgraphicdesignjobs.com)
+* [http://www.hired.com/jobs](http://hired.com/jobs)
+* [http://www.idealist.org](http://www.idealist.org)
 * [http://www.jobmonkeyjobs.com/candidate](http://www.jobmonkeyjobs.com/candidate)
 * [http://www.jobstoclick.com](http://www.jobstoclick.com)
 * [http://www.krop.com](http://www.krop.com)
+* [http://www.localsolo.com/worldwide/jobs/](http://localsolo.com/worldwide/jobs/)
+* [http://www.portlandtech.org](http://portlandtech.org)
+* [http://www.powertofly.com/jobs](http://powertofly.com/jobs)
 * [http://www.roberthalf.com](http://www.roberthalf.com)
 * [http://www.seasonalemployment.com](http://www.seasonalemployment.com)
 * [http://www.simplyhired.com](http://www.simplyhired.com)
 * [http://www.smashingmagazine.com/jobs/](http://www.smashingmagazine.com/jobs/)
+* [http://www.underdog.io](http://underdog.io)
 
 # Inglaterra
 
