@@ -1,17 +1,20 @@
 # SITES DO MUNDO
 ### SITES PARA PROFISSIONAIS DE TI ( TRABALHOS FIXOS E REMOTO ).
 
-# MUNDO
+# Mundo
 
-* [http://authenticjobs.com](http://authenticjobs.com)
 * [http://www.angel.co](http://www.angel.co)
-* [http://www.authenticjobs.com](http://www.authenticjobs.com)
+* [http://www.authenticjobs.com](http://authenticjobs.com)
+* [http://www.behance.net/joblist](http://www.behance.net/joblist)
 * [http://www.careers.google.com](http://www.careers.google.com)
+* [http://www.cryptocurrencyjobs.co](http://cryptocurrencyjobs.co)
 * [http://www.cybercoders.com](http://www.cybercoders.com)
 * [http://www.dribbble.com/jobs](http://www.dribbble.com/jobs)
+* [http://www.f6s.com/jobs](http://www.f6s.com/jobs)
 * [http://www.flexjobs.com](http://www.flexjobs.com)
 * [http://www.freelancer.com](http://www.freelancer.com)
 * [http://www.freelancermap.com](http://www.freelancermap.com)
+* [http://www.growthhackers.com/jobs](http://growthhackers.com/jobs)
 * [http://www.gun.io/#hacker ( Verificar funcionamento )](http://www.gun.io/#hacker)
 * [http://www.guru.com/d/jobs](http://www.guru.com/d/jobs/)
 * [http://www.idealist.org](http://www.idealist.org)
@@ -22,16 +25,22 @@
 * [http://www.landing.jobs](http://www.landing.jobs)
 * [http://www.larajobs.com](http://www.larajobs.com)
 * [http://www.monster.com](http://www.monster.com)
-* [http://www.nodesk.co/remote-work](http://www.nodesk.co/remote-work)
+* [http://www.news.ycombinator.com/jobs)](http://news.ycombinator.com/jobs)
+* [http://www.nodesk.co/remote-companies/](http://nodesk.co/remote-companies/)
+* [http://www.nodesk.co/remote-jobs/](http://nodesk.co/remote-jobs/)
+* [http://www.onsite.io](http://onsite.io)
 * [http://www.outsourcely.com/remote-workers](http://www.outsourcely.com/remote-workers)
 * [http://www.peopleperhour.com/freelance-jobs](http://www.peopleperhour.com/freelance-jobs)
 * [http://www.powertofly.com/jobs](http://www.powertofly.com/jobs)
-* [http://www.remote.co/remote-jobs](http://www.remote.co/remote-jobs)
+* [http://www.remote.co](http://remote.co)
 * [http://www.remoteok.io](http://www.remoteok.io)
 * [http://www.remoteworking.co](http://www.remoteworking.co)
-* [http://www.remotive.io/find-a-remote-job](http://www.remotive.io/find-a-remote-job)
+* [http://www.remotive.io](http://remotive.io)
 * [http://www.skipthedrive.com](http://www.skipthedrive.com)
 * [http://www.stackoverflow.com/jobs](http://www.stackoverflow.com/jobs)
+* [http://www.startus.cc/jobs](http://www.startus.cc/jobs)
+* [http://www.talent.hubstaff.com/search/jobs](http://talent.hubstaff.com/search/jobs)
+* [http://www.techmeabroad.com](http://techmeabroad.com)
 * [http://www.thedrum.com/jobs](http://www.thedrum.com/jobs)
 * [http://www.themuse.com/jobs](http://www.themuse.com/jobs)
 * [http://www.toptal.com](http://www.toptal.com)
@@ -41,8 +50,6 @@
 * [http://www.wfh.io](http://www.wfh.io)
 * [http://www.workingnomads.co/jobs](http://www.workingnomads.co/jobs)
 * [http://www.ziprecruiter.com](http://www.ziprecruiter.com)
-* [http://nodesk.co/remote-companies/](http://nodesk.co/remote-companies/)
-* [http://nodesk.co/remote-jobs/](http://nodesk.co/remote-jobs/)
 
 # Austrália
 
@@ -101,6 +108,7 @@
 
 * [http://aquent.com/find-work](http://aquent.com/find-work)
 * [http://codepen.io/jobs](https://codepen.io/jobs)
+* [http://hired.com/jobs](http://hired.com/jobs)
 * [http://localsolo.com/worldwide/jobs/](http://localsolo.com/worldwide/jobs/)
 * [http://www.collegerecruiter.com/](http://www.collegerecruiter.com/)
 * [http://www.computerjobs.com](http://www.computerjobs.com)
