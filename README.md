@@ -1,7 +1,7 @@
 # SITES DO MUNDO
 ### SITES PARA PROFISSIONAIS DE TI ( TRABALHOS FIXOS E REMOTO ).
 
-:red_circle:
+/play trombone
 
 # MUNDO
 
