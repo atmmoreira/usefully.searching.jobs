@@ -41,6 +41,10 @@
 * [http://www.wfh.io](http://www.wfh.io)
 * [http://www.workingnomads.co/jobs](http://www.workingnomads.co/jobs)
 * [http://www.ziprecruiter.com](http://www.ziprecruiter.com)
+* [http://nodesk.co/remote-companies/](http://nodesk.co/remote-companies/)
+* [http://nodesk.co/remote-jobs/](http://nodesk.co/remote-jobs/)
+
+
 
 # Brasil
 
