@@ -104,6 +104,7 @@
 * [http://localsolo.com/worldwide/jobs/](http://localsolo.com/worldwide/jobs/)
 * [http://www.collegerecruiter.com/](http://www.collegerecruiter.com/)
 * [http://www.computerjobs.com](http://www.computerjobs.com)
+* [http://www.coroflot.com/design-jobs](http://www.coroflot.com/design-jobs)
 * [http://www.getgraphicdesignjobs.com](http://www.getgraphicdesignjobs.com)
 * [http://www.jobmonkeyjobs.com/candidate](http://www.jobmonkeyjobs.com/candidate)
 * [http://www.jobstoclick.com](http://www.jobstoclick.com)
