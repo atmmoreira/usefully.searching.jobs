@@ -97,6 +97,10 @@
 * [http://www.laborum.cl](http://www.laborum.cl)
 * [http://www.workib.cl](http://www.workib.cl)
 
+# Europa
+
+* [http://europeremotely.com](http://europeremotely.com)
+
 # Espanha
 
 * [http://empleate.gob.es](http://empleate.gob.es)
