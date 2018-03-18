@@ -1,6 +1,11 @@
 # SITES DO MUNDO
 ### SITES PARA PROFISSIONAIS DE TI ( TRABALHOS FIXOS E REMOTO ).
 
+>>> from markdown import Markdown
+
+>>> markdown = Markdown(extensions=['fontawesome_markdown']
+>>> markdown.convert('i :fa-coffee:')
+
 # MUNDO
 
 * [http://authenticjobs.com](http://authenticjobs.com)
@@ -43,8 +48,6 @@
 * [http://www.ziprecruiter.com](http://www.ziprecruiter.com)
 * [http://nodesk.co/remote-companies/](http://nodesk.co/remote-companies/)
 * [http://nodesk.co/remote-jobs/](http://nodesk.co/remote-jobs/)
-
-
 
 # Brasil
 
