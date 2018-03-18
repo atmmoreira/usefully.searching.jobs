@@ -1,7 +1,15 @@
 # SITES DO MUNDO
 ### SITES PARA PROFISSIONAIS DE TI ( TRABALHOS FIXOS E REMOTO ).
 
-/play trombone
+var md = require('markdown-it');
+var fa = require('markdown-it-fontawesome');
+
+md().use(fa);
+
+Hello World! :fa-flag:
+
+- [:fa-google: Google](https://www.google.com/)
+- [:fa-github: GitHub](https://github.com/)
 
 # MUNDO
 
