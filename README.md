@@ -44,6 +44,11 @@
 * [http://nodesk.co/remote-companies/](http://nodesk.co/remote-companies/)
 * [http://nodesk.co/remote-jobs/](http://nodesk.co/remote-jobs/)
 
+# Austrália
+
+* [http://www.adzuna.com.au](http://www.adzuna.com.au)
+* [http://www.seek.com.au](http://www.seek.com.au)
+
 # Brasil
 
 * [http://www.apinfo.com/apinfo](http://www.apinfo.com/apinfo)
@@ -67,27 +72,6 @@
 * [http://www.vagacolaborativa.com.br](http://www.vagacolaborativa.com.br)
 * [http://www.vagas.com.br](http://www.vagas.com.br)
 * [http://www.vagasnanet.com.br](http://www.vagasnanet.com.br)
-
-# New Zeland
-
-* [http://www.seek.co.nz](http://www.seek.co.nz)
-* [http://www.trademe.co.nz](http://www.trademe.co.nz)
-
-# Estados Unidos
-
-* [http://aquent.com/find-work](http://aquent.com/find-work)
-* [http://codepen.io/jobs](https://codepen.io/jobs)
-* [http://localsolo.com/worldwide/jobs/](http://localsolo.com/worldwide/jobs/)
-* [http://www.collegerecruiter.com/](http://www.collegerecruiter.com/)
-* [http://www.computerjobs.com](http://www.computerjobs.com)
-* [http://www.getgraphicdesignjobs.com](http://www.getgraphicdesignjobs.com)
-* [http://www.jobmonkeyjobs.com/candidate](http://www.jobmonkeyjobs.com/candidate)
-* [http://www.jobstoclick.com](http://www.jobstoclick.com)
-* [http://www.krop.com](http://www.krop.com)
-* [http://www.roberthalf.com](http://www.roberthalf.com)
-* [http://www.seasonalemployment.com](http://www.seasonalemployment.com)
-* [http://www.simplyhired.com](http://www.simplyhired.com)
-* [http://www.smashingmagazine.com/jobs/](http://www.smashingmagazine.com/jobs/)
 
 # Canadá
 
@@ -113,23 +97,21 @@
 * [http://www.indeed.es](http://www.indeed.es)
 * [http://www.infoempleo.com](http://www.infoempleo.com)
 
-# Portugal
+# Estados Unidos
 
-* [http://www.careerjet.pt](http://www.careerjet.pt)
-* [http://www.cargadetrabalhos.net](http://www.cargadetrabalhos.net)
-* [http://www.emprego.pt](http://www.emprego.pt)
-* [http://www.itjobs.pt](http://www.itjobs.pt)
-* [http://www.jobtide.pt](http://www.jobtide.pt)
-* [http://www.net-empregos.com](http://www.net-empregos.com)
-* [http://www.neuvoo.pt](http://www.neuvoo.pt)
-* [http://www.alertaemprego.pt](http://www.alertaemprego.pt)
-* [http://www.cargadetrabalhos.net](http://www.cargadetrabalhos.net)
-* [http://www.trabalhocerto.pt](http://www.trabalhocerto.pt)
-* [http://emprego.sapo.pt](http://emprego.sapo.pt)
-* [https://industriacriativa.pt](https://industriacriativa.pt)
-* [https://www.bep.gov.pt/default.aspx](https://www.bep.gov.pt/default.aspx)
-* [http://www.empregoxl.com](http://www.empregoxl.com)
-* [http://www.portofortalent.com](http://www.portofortalent.com)
+* [http://aquent.com/find-work](http://aquent.com/find-work)
+* [http://codepen.io/jobs](https://codepen.io/jobs)
+* [http://localsolo.com/worldwide/jobs/](http://localsolo.com/worldwide/jobs/)
+* [http://www.collegerecruiter.com/](http://www.collegerecruiter.com/)
+* [http://www.computerjobs.com](http://www.computerjobs.com)
+* [http://www.getgraphicdesignjobs.com](http://www.getgraphicdesignjobs.com)
+* [http://www.jobmonkeyjobs.com/candidate](http://www.jobmonkeyjobs.com/candidate)
+* [http://www.jobstoclick.com](http://www.jobstoclick.com)
+* [http://www.krop.com](http://www.krop.com)
+* [http://www.roberthalf.com](http://www.roberthalf.com)
+* [http://www.seasonalemployment.com](http://www.seasonalemployment.com)
+* [http://www.simplyhired.com](http://www.simplyhired.com)
+* [http://www.smashingmagazine.com/jobs/](http://www.smashingmagazine.com/jobs/)
 
 # Inglaterra
 
@@ -152,3 +134,26 @@
 * [http://www.jobs.ie](http://www.jobs.ie)
 * [http://www.monster.ie](http://www.monster.ie)
 * [http://www.recruitireland.com](http://www.recruitireland.com)
+
+# Nova Zelândia
+
+* [http://www.seek.co.nz](http://www.seek.co.nz)
+* [http://www.trademe.co.nz](http://www.trademe.co.nz)
+
+# Portugal
+
+* [http://www.careerjet.pt](http://www.careerjet.pt)
+* [http://www.cargadetrabalhos.net](http://www.cargadetrabalhos.net)
+* [http://www.emprego.pt](http://www.emprego.pt)
+* [http://www.itjobs.pt](http://www.itjobs.pt)
+* [http://www.jobtide.pt](http://www.jobtide.pt)
+* [http://www.net-empregos.com](http://www.net-empregos.com)
+* [http://www.neuvoo.pt](http://www.neuvoo.pt)
+* [http://www.alertaemprego.pt](http://www.alertaemprego.pt)
+* [http://www.cargadetrabalhos.net](http://www.cargadetrabalhos.net)
+* [http://www.trabalhocerto.pt](http://www.trabalhocerto.pt)
+* [http://emprego.sapo.pt](http://emprego.sapo.pt)
+* [https://industriacriativa.pt](https://industriacriativa.pt)
+* [https://www.bep.gov.pt/default.aspx](https://www.bep.gov.pt/default.aspx)
+* [http://www.empregoxl.com](http://www.empregoxl.com)
+* [http://www.portofortalent.com](http://www.portofortalent.com)
