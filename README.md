@@ -46,10 +46,10 @@
 
 # Brasil
 
-* [http://www.comoequetala.com.br](http://www.comoequetala.com.br)
 * [http://www.apinfo.com/apinfo](http://www.apinfo.com/apinfo)
 * [http://www.br.freelancer.com](http://www.br.freelancer.com)
 * [http://www.buscojobs.com.br](http://www.buscojobs.com.br)
+* [http://www.comoequetala.com.br](http://www.comoequetala.com.br)
 * [http://www.dhire.com.br](http://www.dhire.com.br)
 * [http://www.emprego.net](http://www.emprego.net)
 * [http://www.empregos.com.br](http://www.empregos.com.br)
@@ -64,9 +64,9 @@
 * [http://www.riovagas.com.br](http://www.riovagas.com.br)
 * [http://www.tijobs.com.br](http://www.tijobs.com.br)
 * [http://www.trampos.co](http://www.trampos.co)
+* [http://www.vagacolaborativa.com.br](http://www.vagacolaborativa.com.br)
 * [http://www.vagas.com.br](http://www.vagas.com.br)
 * [http://www.vagasnanet.com.br](http://www.vagasnanet.com.br)
-* [https://www.vagacolaborativa.com.br](https://www.vagacolaborativa.com.br)
 
 # New Zeland
 
