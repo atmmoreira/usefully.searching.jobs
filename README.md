@@ -4,6 +4,7 @@
 # Mundo
 
 * [http://www.angel.co](http://www.angel.co)
+* [http://www.angularjobs.com](http://www.angularjobs.com)
 * [http://www.authenticjobs.com](http://authenticjobs.com)
 * [http://www.behance.net/joblist](http://www.behance.net/joblist)
 * [http://www.betalist.com/jobs](http://betalist.com/jobs)
@@ -17,12 +18,15 @@
 * [http://www.fossjobs.net](http://www.fossjobs.net)
 * [http://www.freelancer.com](http://www.freelancer.com)
 * [http://www.freelancermap.com](http://www.freelancermap.com)
+* [http://www.frontenddeveloperjob.com](http://frontenddeveloperjob.com)
 * [http://www.functionaljobs.com](http://functionaljobs.com)
+* [http://www.glassdoor.com](https://www.glassdoor.com)
 * [http://www.growthhackers.com/jobs](http://growthhackers.com/jobs)
 * [http://www.gun.io/#hacker ( Verificar funcionamento )](http://www.gun.io/#hacker)
 * [http://www.guru.com/d/jobs](http://www.guru.com/d/jobs/)
 * [http://www.idealist.org](http://www.idealist.org)
 * [http://www.indeed.com.br/about](http://www.indeed.com.br/about)
+* [http://www.jobs.emberjs.com](jobs.emberjs.com)
 * [http://www.jobs.github.com](http://www.jobs.github.com/positions?description=&location=)
 * [http://www.jobspresso.co](http://www.jobspresso.co)
 * [http://www.jsremotely.com](http://www.jsremotely.com)
@@ -121,6 +125,7 @@
 # Estados Unidos
 
 * [http://www.aquent.com/find-work](http://aquent.com/find-work)
+* [http://www.codepen.io/jobs/](http://codepen.io/jobs/)
 * [http://www.codepen.io/jobs](https://codepen.io/jobs)
 * [http://www.collegerecruiter.com/](http://www.collegerecruiter.com/)
 * [http://www.computerjobs.com](http://www.computerjobs.com)
