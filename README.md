@@ -86,6 +86,7 @@ Gostaria muito da ajuda dos senhores para que poudessemos manter essa lista o ma
 * [Openjobs](http://www.openjobs.com.br)
 * [Programa Thor](http://www.programathor.com.br)
 * [Reachr](http://www.reachr.com.br)
+* [Recruta Simples](https://www.recrutasimples.com.br)
 * [Riovagas](http://www.riovagas.com.br)
 * [Ti Jobs](http://www.tijobs.com.br)
 * [Trampos CO](http://www.trampos.co)
@@ -115,6 +116,7 @@ Gostaria muito da ajuda dos senhores para que poudessemos manter essa lista o ma
 # Europa
 
 * [Europe Remotely](http://europeremotely.com)
+* [Evolution](https://www.evolutionjobs.com)
 * [Jobs Zalando](https://jobs.zalando.com)
 * [Landing Jobs](http://www.landing.jobs)
 
