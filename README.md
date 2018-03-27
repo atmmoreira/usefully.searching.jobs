@@ -113,6 +113,7 @@ Gostaria muito da ajuda dos senhores para que poudessemos manter essa lista o ma
 # Europa
 
 * [Europe Remotely](http://europeremotely.com)
+* [Jobs Zalando](https://jobs.zalando.com)
 * [Landing Jobs](http://www.landing.jobs)
 
 # Espanha
