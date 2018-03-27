@@ -95,6 +95,10 @@ Gostaria muito da ajuda dos senhores para que poudessemos manter essa lista o ma
 * [Vagas na Net](http://www.vagasnanet.com.br)
 * [Vagas](http://www.vagas.com.br)
 
+# Bulgaria
+
+* [Jobs BG](https://goo.gl/njHT4S)
+
 # Canadá
 
 * [BC Jobs](https://www.bcjobs.ca)
