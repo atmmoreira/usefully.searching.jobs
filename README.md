@@ -60,6 +60,7 @@ Gostaria muito da ajuda dos senhores para que poudessemos manter essa lista o ma
 * [Venture Loop](http://ventureloop.com)
 * [Vettery](https://www.vettery.com)
 * [Virtual Vocations](http://www.virtualvocations.com/jobs)
+* [VueJs Jobs](https://vuejobs.com)
 * [We Love Angularm](http://www.weloveangular.com)
 * [We Work Remotely](http://www.weworkremotely.com)
 * [WFH](http://www.wfh.io)
