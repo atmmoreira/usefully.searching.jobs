@@ -43,6 +43,7 @@ Gostaria muito da ajuda dos senhores para que poudessemos manter essa lista o ma
 * [Panda Jobs](http://panda.jobs)
 * [People per Hour](http://www.peopleperhour.com/freelance-jobs)
 * [Powertofly](http://www.powertofly.com/jobs)
+* [React jobs](https://www.react-jobs.com/remote/)
 * [Remote Working](http://www.remoteworking.co)
 * [Remote](http://remote.co)
 * [Remoteok](http://www.remoteok.io)
