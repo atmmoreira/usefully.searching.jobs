@@ -30,7 +30,7 @@ Gostaria muito da ajuda dos senhores para que poudessemos manter essa lista o ma
 * [Job Spresso](http://www.jobspresso.co)
 * [Jobs Angular](http://www.angularjobs.com)
 * [Jobs EmberJs](jobs.emberjs.com)
-* [Jobs Github](http://www.jobs.github.com/positions?description=&location=)
+* [Jobs Github](http://www.jobs.github.com/positions)
 * [JS Remotely](http://www.jsremotely.com)
 * [Key Values](http://www.keyvalues.com)
 * [Larajobs](http://www.larajobs.com)
@@ -43,6 +43,7 @@ Gostaria muito da ajuda dos senhores para que poudessemos manter essa lista o ma
 * [Panda Jobs](http://panda.jobs)
 * [People per Hour](http://www.peopleperhour.com/freelance-jobs)
 * [Powertofly](http://www.powertofly.com/jobs)
+* [Python Jobs](http://pythonjobs.github.io)
 * [React jobs](https://www.react-jobs.com/remote/)
 * [Remote Working](http://www.remoteworking.co)
 * [Remote](http://remote.co)
@@ -68,6 +69,7 @@ Gostaria muito da ajuda dos senhores para que poudessemos manter essa lista o ma
 * [Working Nomads](http://www.workingnomads.co/jobs)
 * [WP Hired](http://www.wphired.com)
 * [Zip Recruiter](http://www.ziprecruiter.com)
+
 
 # Austrália
 
