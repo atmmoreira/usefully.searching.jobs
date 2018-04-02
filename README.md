@@ -7,7 +7,7 @@ Gostaria muito da ajuda dos senhores para que poudessemos manter essa lista o ma
 * [ADP Jobs](https://jobs.adp.com)
 * [Angel](http://www.angel.co)
 * [Authentic Jobs](http://authenticjobs.com)
-* [Behance](http://www.behance.net/joblist)
+* [Behance Jobs](http://www.behance.net/joblist)
 * [Betalist](http://betalist.com/jobs)
 * [Bot Jobs](http://botjobs.io)
 * [Careers Google](http://www.careers.google.com)
