@@ -91,6 +91,7 @@ Gostaria muito da ajuda dos senhores para que poudessemos manter essa lista o ma
 * [Maturijobs](http://www.maturijobs.com)
 * [Multiemprego.com](http://www.multiemprego.com)
 * [Openjobs](http://www.openjobs.com.br)
+* [PHP Jobs](https://github.com/phpdevbr/vagas/issues)
 * [Programa Thor](http://www.programathor.com.br)
 * [Reachr](http://www.reachr.com.br)
 * [Recruta Simples](https://www.recrutasimples.com.br)
