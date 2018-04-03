@@ -90,6 +90,7 @@ Gostaria muito da ajuda dos senhores para que poudessemos manter essa lista o ma
 * [Infojobs](http://www.infojobs.com.br)
 * [Maturijobs](http://www.maturijobs.com)
 * [Multiemprego.com](http://www.multiemprego.com)
+* [Net Carreiras](https://www.netcarreiras.com.br)
 * [Openjobs](http://www.openjobs.com.br)
 * [PHP Jobs](https://github.com/phpdevbr/vagas/issues)
 * [Programa Thor](http://www.programathor.com.br)
@@ -101,7 +102,9 @@ Gostaria muito da ajuda dos senhores para que poudessemos manter essa lista o ma
 * [Trampos CO](http://www.trampos.co)
 * [Vaga Colaborativa](http://www.vagacolaborativa.com.br)
 * [Vagas na Net](http://www.vagasnanet.com.br)
+* [Vagas POA](https://www.vagaspoa.com.br)
 * [Vagas](http://www.vagas.com.br)
+
 
 # Bulgaria
 
