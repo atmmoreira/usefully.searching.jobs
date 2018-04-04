@@ -67,6 +67,7 @@ Gostaria muito da ajuda dos senhores para que poudessemos manter essa lista o ma
 * [We Work Remotely](http://www.weworkremotely.com)
 * [WFH](http://www.wfh.io)
 * [Working Nomads](http://www.workingnomads.co/jobs)
+* [Workray](https://www.workray.com)
 * [WP Hired](http://www.wphired.com)
 * [Zip Recruiter](http://www.ziprecruiter.com)
 
