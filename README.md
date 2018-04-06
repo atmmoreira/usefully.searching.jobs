@@ -1,6 +1,6 @@
 # SITES DO MUNDO
-### SITES PARA PROFISSIONAIS DE TI ( TRABALHOS FIXOS E REMOTO ).
-Gostaria muito da ajuda dos senhores para que poudessemos manter essa lista o mais atualizada possível. Fico Grato. Qualquer coisa meu email é atmmoreira.rj@gmail.com.
+### SITES PARA PROFISSIONAIS DE TI (TRABALHOS FIXOS E REMOTOS)
+Gostaria muito da ajuda dos senhores para que pudéssemos manter essa lista o mais atualizada possível. Fico Grato. Qualquer coisa meu e-mail é atmmoreira.rj@gmail.com.
 
 # Mundo
 
