@@ -107,6 +107,7 @@ Gostaria muito da ajuda dos senhores para que pudéssemos manter essa lista o ma
 * [Vagas na Net](http://www.vagasnanet.com.br)
 * [Vagas POA](https://www.vagaspoa.com.br)
 * [Vagas](http://www.vagas.com.br)
+* [Vulpi](https://app.vulpi.com.br/jobs)
 
 
 # Bulgaria
