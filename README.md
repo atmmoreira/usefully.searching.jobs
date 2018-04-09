@@ -175,6 +175,10 @@ Gostaria muito da ajuda dos senhores para que pudéssemos manter essa lista o ma
 * [Smashing Magazine](http://www.smashingmagazine.com/jobs/)
 * [Underdog](http://underdog.io)
 
+# India
+
+* [Monster India Jobs](http://www.monsterindia.com)
+
 # Inglaterra
 
 * [Adria Solutions](http://www.adriasolutions.co.uk)
