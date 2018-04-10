@@ -2,6 +2,25 @@
 ### SITES PARA PROFISSIONAIS DE TI (TRABALHOS FIXOS E REMOTOS)
 Gostaria muito da ajuda dos senhores para que pudéssemos manter essa lista o mais atualizada possível. Fico Grato. Qualquer coisa meu e-mail é atmmoreira.rj@gmail.com.
 
+### Índice
+
+| Gerais | Países |
+|:--:|:--:|
+| [Mundo](paises/mundo.md) | [Austrália](paises/australia.md) |
+| [Europa](paises/europa.md) | [Brasil](paises/brasil.md) |
+|  | [Bulgária](paises/bulgaria.md) |
+|  | [Canadá](paises/canada.md) |
+|  | [Chile](paises/chile.md) |
+|  | [Espanha](paises/espanha.md) |
+|  | [Estados Unidos](paises/eua.md) |
+|  | [Índia](paises/india.md) |
+|  | [Inglaterra](paises/inglaterra.md) |
+|  | [Irlanda](paises/irlanda.md) |
+|  | [Nova Zelândia](paises/nova-zelandia.md) |
+|  | [Portugal](paises/portugal.md) |
+|  | [Vietnã](paises/vietna.md) |
+
+
 # Mundo
 
 * [ADP Jobs](https://jobs.adp.com)
@@ -175,7 +194,7 @@ Gostaria muito da ajuda dos senhores para que pudéssemos manter essa lista o ma
 * [Smashing Magazine](http://www.smashingmagazine.com/jobs/)
 * [Underdog](http://underdog.io)
 
-# India
+# Índia
 
 * [Monster India Jobs](http://www.monsterindia.com)
 
@@ -223,6 +242,6 @@ Gostaria muito da ajuda dos senhores para que pudéssemos manter essa lista o ma
 * [Porto for Talent](http://www.portofortalent.com)
 * [Trabalho Certo](http://www.trabalhocerto.pt)
 
-# Vietna
+# Vietnã
 
 * [IT Viec](https://itviec.com)
