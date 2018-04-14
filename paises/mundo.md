@@ -46,6 +46,7 @@
 * [Remoteok](http://www.remoteok.io)
 * [Remotive](http://remotive.io)
 * [Skip the Drive](http://www.skipthedrive.com)
+* [Slack jobs](https://slack.com/jobs)
 * [Slackatwork](http://slackatwork.com)
 * [Stackoverflow Jobs](http://www.stackoverflow.com/jobs)
 * [Startus Jobs](http://www.startus.cc/jobs)
