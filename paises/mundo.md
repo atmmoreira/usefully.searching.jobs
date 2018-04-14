@@ -29,6 +29,7 @@
 * [Jobs EmberJs](jobs.emberjs.com)
 * [Jobs Github](http://www.jobs.github.com/positions)
 * [JS Remotely](http://www.jsremotely.com)
+* [Kaggle](https://kaggle.com/jobs)
 * [Key Values](http://www.keyvalues.com)
 * [Larajobs](http://www.larajobs.com)
 * [Monster](http://www.monster.com)
