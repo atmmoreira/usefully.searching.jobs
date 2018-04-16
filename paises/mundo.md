@@ -23,7 +23,7 @@
 * [Gun ( Verificar funcionamento )](http://www.gun.io/#hacker)
 * [Guru](http://www.guru.com/d/jobs/)
 * [Hacker Rank](https://www.hackerrank.com/jobs)
-* [Indeed](http://www.indeed.com.br/about)
+* [Indeed](http://www.indeed.com/about)
 * [Javascript Works](https://javascript.works-hub.com/jobs/)
 * [Job Spresso](http://www.jobspresso.co)
 * [Jobs Angular](http://www.angularjobs.com)
