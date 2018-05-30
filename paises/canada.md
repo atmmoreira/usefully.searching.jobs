@@ -7,4 +7,5 @@
 * [Jobs Sap CA](http://jobs.sap.com)
 * [Monster CA](http://www.monster.ca)
 * [Work BC](http://www.workbc.ca)
+* [Workintech CA](https://www.workintech.ca)
 * [Workopolis](http://www.workopolis.com)
