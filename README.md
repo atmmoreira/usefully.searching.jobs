@@ -13,6 +13,8 @@ Gostaria muito da ajuda dos senhores para que pudéssemos manter essa lista o ma
 * [Alemanha](paises/alemanha.md)
 * [Australia](paises/australia.md)
 * [Brasil](paises/brasil.md)
+* [Austria](paises/austria.md)
+* [Belgica](paises/belgica.md)
 * [Bulgaria](paises/bulgaria.md)
 * [Canada](paises/canada.md)
 * [Chile](paises/chile.md)
