@@ -2,6 +2,7 @@
 
 * [Aquent](http://aquent.com/find-work)
 * [Codepen Jobs](https://codepen.io/jobs)
+* [Collabera](https://collabera.jobs.net)
 * [College Recruiter](http://www.collegerecruiter.com/)
 * [Computer Jobs](http://www.computerjobs.com)
 * [Coroflot](http://www.coroflot.com/design-jobs)
