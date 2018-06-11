@@ -21,7 +21,6 @@
 * [Reachr](http://www.reachr.com.br)
 * [Recruta Simples](https://www.recrutasimples.com.br)
 * [Riovagas](http://www.riovagas.com.br)
-* [Seederjobs](https://seederjobs.com)
 * [Ti Jobs](http://www.tijobs.com.br)
 * [Trampos CO](http://www.trampos.co)
 * [Vaga Colaborativa](http://www.vagacolaborativa.com.br)
