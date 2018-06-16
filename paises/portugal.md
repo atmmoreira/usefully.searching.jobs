@@ -4,7 +4,7 @@
 * [Bep](https://www.bep.gov.pt/default.aspx)
 * [CareerJet PT](http://www.careerjet.pt)
 * [Carga de Trabalhos](http://www.cargadetrabalhos.net)
-* [Empreg OLX PT](http://www.empregoxl.com)
+* [Emprego XL PT](http://www.empregoxl.com)
 * [Emprego PT](http://www.emprego.pt)
 * [Emprego Sapo](http://emprego.sapo.pt)
 * [Industria Criativa](https://industriacriativa.pt)
@@ -16,3 +16,10 @@
 * [Porto for Talent](http://www.portofortalent.com)
 * [Trabalho Certo](http://www.trabalhocerto.pt)
 * [Zaask](https://www.zaask.pt)
+
+## Concursos Públicos para Brasileiros
+
+* [BEP](https://bep.gov.pt/default.aspx)
+* [DGAE](http://www.dgae.mec.pt/)
+* [BASE](http://www.base.gov.pt/)
+* [ACSS](http://acss.min-saude.pt)
