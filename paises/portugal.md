@@ -8,7 +8,7 @@
 * [Emprego PT](http://www.emprego.pt)
 * [Emprego Sapo](http://emprego.sapo.pt)
 * [Emprego XL PT](http://www.empregoxl.com)
-* [Empregos ORG](empregos.org)
+* [Empregos ORG](http://www.empregos.org)
 * [Industria Criativa](https://industriacriativa.pt)
 * [IT Jobs PT](http://www.itjobs.pt)
 * [Job Rapido](http://pt.jobrapido.com)
