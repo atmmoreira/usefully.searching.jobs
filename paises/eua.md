@@ -25,3 +25,4 @@
 * [Simply Hired](http://www.simplyhired.com)
 * [Smashing Magazine](http://www.smashingmagazine.com/jobs/)
 * [Underdog](http://underdog.io)
+* [Verizon](https://verizon.com/about/work)

@@ -28,3 +28,7 @@
 * [Vagas POA](https://www.vagaspoa.com.br)
 * [Vagas](http://www.vagas.com.br)
 * [Vulpi](https://app.vulpi.com.br/jobs)
+
+# Empresas no Brasil para trabalhos remotos
+
+* [Remote Job Brazil](https://github.com/lerrua/remote-jobs-brazil)
