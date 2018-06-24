@@ -72,3 +72,7 @@
 * [Workray](https://www.workray.com)
 * [WP Hired](http://www.wphired.com)
 * [Zip Recruiter](http://www.ziprecruiter.com)
+
+# Empresas no Mundo para trabalhos remotos
+
+* [Remote Job Worldwide](https://github.com/remoteintech/remote-jobs)
