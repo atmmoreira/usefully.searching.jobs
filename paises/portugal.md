@@ -13,16 +13,9 @@
 * [IT Jobs PT](http://www.itjobs.pt)
 * [Job Rapido](http://pt.jobrapido.com)
 * [Job Tide PT](http://www.jobtide.pt)
+* [NBCC Consulting](http://nbcc-consulting.com)
 * [Net Empregos](http://www.net-empregos.com)
 * [Neuvoo](http://www.neuvoo.pt)
 * [Porto for Talent](http://www.portofortalent.com)
 * [Trabalho Certo](http://www.trabalhocerto.pt)
 * [Zaask](https://www.zaask.pt)
-
-
-## Concursos Públicos para Brasileiros
-
-* [BEP](https://bep.gov.pt/default.aspx)
-* [DGAE](http://www.dgae.mec.pt/)
-* [BASE](http://www.base.gov.pt/)
-* [ACSS](http://acss.min-saude.pt)
