@@ -2,7 +2,6 @@
 
 * [99Freelas](https://www.99freelas.com.br)
 * [Apinfo](http://www.apinfo.com/apinfo)
-* [Busco Jobs](http://www.buscojobs.com.br)
 * [Comoequetala](http://www.comoequetala.com.br)
 * [Dhire](http://www.dhire.com.br)
 * [Emprego Net](http://www.emprego.net)
