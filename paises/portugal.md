@@ -1,6 +1,5 @@
 # Portugal
 
-* [Alerta Emprego](http://www.alertaemprego.pt)
 * [Bep](https://www.bep.gov.pt/default.aspx)
 * [CareerJet PT](http://www.careerjet.pt)
 * [Carga de Trabalhos](http://www.cargadetrabalhos.net)
