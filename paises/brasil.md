@@ -3,6 +3,7 @@
 * [99Freelas](https://www.99freelas.com.br)
 * [Apinfo](http://www.apinfo.com/apinfo)
 * [Comoequetala](http://www.comoequetala.com.br)
+* [DevRemoto](https://devremoto.club/)
 * [Dhire](http://www.dhire.com.br)
 * [Emprego Net](http://www.emprego.net)
 * [Empregos](http://www.empregos.com.br)
