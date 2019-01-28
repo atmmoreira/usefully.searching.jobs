@@ -59,6 +59,7 @@
 * [Powertofly](http://www.powertofly.com/jobs)
 * [Python Jobs](http://pythonjobs.github.io)
 * [React jobs](https://www.react-jobs.com/remote/)
+* [Reactiflux](http://jobs.reactiflux.com/)
 * [RelocateMe](https://relocate.me/)
 * [Remote Base](https://remotebase.io/)
 * [Remote CO](http://remote.co)
