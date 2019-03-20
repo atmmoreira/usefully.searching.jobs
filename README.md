@@ -6,18 +6,16 @@ Gostaria muito da ajuda dos senhores para que pudéssemos manter essa lista o ma
 
 # Gerais
 
-* [Mundo](paises/mundo.md)
 * [Europa](paises/europa.md)
+* [Mundo](paises/mundo.md)
 
 # Países
 
-* [África do Sul](paises/africadosul.md)
 * [Alemanha](paises/alemanha.md)
 * [Austrália](paises/australia.md)
-* [Áustria](paises/austria.md)
-* [Bélgica](paises/belgica.md)
 * [Brasil](paises/brasil.md)
 * [Bulgária](paises/bulgaria.md)
+* [Bélgica](paises/belgica.md)
 * [Canadá](paises/canada.md)
 * [Chile](paises/chile.md)
 * [Dinamarca](paises/dinamarca.md)
@@ -25,10 +23,13 @@ Gostaria muito da ajuda dos senhores para que pudéssemos manter essa lista o ma
 * [Estados Unidos](paises/eua.md)
 * [Estônia](paises/estonia.md)
 * [Holanda](paises/holanda.md)
-* [Índia](paises/india.md)
 * [Inglaterra](paises/inglaterra.md)
 * [Irlanda](paises/irlanda.md)
 * [Nova Zelândia](paises/nova-zelandia.md)
 * [Polônia](paises/polonia.md)
 * [Portugal](paises/portugal.md)
+* [Suíça](paises/suica.md)
 * [Vietnã](paises/vietna.md)
+* [África do Sul](paises/africadosul.md)
+* [Áustria](paises/austria.md)
+* [Índia](paises/india.md)
