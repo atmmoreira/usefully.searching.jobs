@@ -3,6 +3,7 @@
 * [BNE](https://www.bne.cl/)
 * [Chile Trabajos](https://www.chiletrabajos.cl/)
 * [Get on Board](http://www.getonbrd.cl)
+* [Gnoma](http://gnoma.cl)
 * [Indeed CL](http://www.indeed.cl)
 * [Laborum](http://www.laborum.cl)
 * [Opcion Empleos](https://www.opcionempleo.cl)
