@@ -56,6 +56,7 @@
 * [Outsourcely Remote Workers](http://www.outsourcely.com/remote-workers)
 * [Panda Jobs](http://panda.jobs)
 * [People per Hour](http://www.peopleperhour.com/freelance-jobs)
+* [Pitch ME](https://pitchme.co/)
 * [Powertofly](http://www.powertofly.com/jobs)
 * [Python Jobs](http://pythonjobs.github.io)
 * [React jobs](https://www.react-jobs.com/remote/)
