@@ -1,15 +1,26 @@
 # Canadá
 
+### * Mais Comuns
+* [6figures](https://www.6figures.com)
 * [BC Jobs](https://www.bcjobs.ca)
-* [Careerbeacon](http://www.careerbeacon.com)
-* [CareerJet CA](http://www.careerjet.ca)
-* [Indeed CA](http://www.indeed.ca)
+* [CareerJet CA](https://www.careerjet.ca)
+* [Careerbeacon](https://www.careerbeacon.com)
+* [Indeed CA](https://www.indeed.ca) *
 * [Jobillico](https://www.jobillico.com)
-* [Jobs Sap CA](http://jobs.sap.com)
-* [Monster CA](http://www.monster.ca)
-* [Work BC](http://www.workbc.ca)
+* [Jobs Sap CA](https://jobs.sap.com)
+* [Monster CA](https://www.monster.ca) *
+* [Work BC](https://www.workbc.ca)
 * [Workintech CA](https://www.workintech.ca)
-* [Workopolis](http://www.workopolis.com)
+* [Workopolis](https://www.workopolis.com) *
+* [acsess](https://www.acsess.org)
+* [adecco](https://www.adecco.ca)
+* [allstarjobs](https://www.allstarjobs.ca)
+* [auto-jobs](https://www.auto-jobs.ca)
+* [bestjobsca](https://www.bestjobsca.com)
+* [bridges](https://www.bridges.com)
+* [canadainfonet](https://www.canadainfonet.org)
+* [careerbuilder](https://www.careerbuilder.ca)
+* [linkedin](https://www.ca.linkedin.com) *
 
 <!-- www.careerbuilder.ca
 www.6figures.com
