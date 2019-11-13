@@ -2,7 +2,8 @@
 
 ### SITES PARA PROFISSIONAIS DE TI (TRABALHOS FIXOS E REMOTOS)
 
-Gostaria muito da ajuda dos senhores para que pudéssemos manter essa lista o mais atualizada possível. Fico Grato. Qualquer coisa meu e-mail é atmmoreira.rj@gmail.com.
+Gostaria muito da ajuda de todas para que pudéssemos manter essa lista o mais atualizada possível. 
+Quem administra essa lista é o atmmoreira.rj@gmail.com.
 
 # Gerais
 
