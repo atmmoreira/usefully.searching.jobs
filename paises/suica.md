@@ -15,6 +15,7 @@
 * [Manpower](https://www.manpower.ch)
 * [Monster](https://www.monster.ch)
 * [Step Stone](http://www.stepstone.ch)
+* [Swiss Dev Jobs](https://swissdevjobs.ch)
 * [The Stamford Group](http://thestamfordgroup.com)
 * [Treff Punkt](https://www.treffpunkt-arbeit.ch/home/job-seeker)
 * [Zeitung](http://www.zeitung.ch)
