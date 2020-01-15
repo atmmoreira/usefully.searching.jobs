@@ -17,5 +17,6 @@
 * [Neuvoo](http://www.neuvoo.pt)
 * [Porto for Talent](http://www.portofortalent.com)
 * [Teamlyzer](https://pt.teamlyzer.com/)
+* [TecnoJobs](http://tecnojobs.pt/)
 * [Trabalho Certo](http://www.trabalhocerto.pt)
 * [Zaask](https://www.zaask.pt)
