@@ -2,7 +2,7 @@
 
 ### SITES PARA PROFISSIONAIS DE TI (TRABALHOS FIXOS E REMOTOS)
 
-Gostaria muito da ajuda de todas para que pudéssemos manter essa lista o mais atualizada possível. 
+Gostaria muito da ajuda de todas as pessoas, para que pudéssemos manter essa lista o mais atualizada possível. 
 Quem administra essa lista é o atmmoreira.rj@gmail.com.
 
 # Gerais
