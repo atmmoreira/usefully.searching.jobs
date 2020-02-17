@@ -10,6 +10,7 @@
 * [Frontend Vagas - Github](https://github.com/frontendbr/vagas/)
 * [Geek Hunter](http://www.geekhunter.com.br)
 * [Hipsters Jobs](http://www.hipsters.jobs)
+* [Impulso](https://impulso.work/)
 * [Infojobs](http://www.infojobs.com.br)
 * [Maturijobs](http://www.maturijobs.com)
 * [Net Carreiras](https://www.netcarreiras.com.br)
