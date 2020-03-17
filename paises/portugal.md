@@ -1,6 +1,7 @@
 # Portugal
 
 * [Bep](https://www.bep.gov.pt/default.aspx)
+* [Blossom Bridge](https://blossombridge.com/)
 * [CareerJet PT](http://www.careerjet.pt)
 * [Carga de Trabalhos](http://www.cargadetrabalhos.net)
 * [Edit Recrutamento](https://edit.com.pt/recrutamento/)
