@@ -37,6 +37,7 @@ Quem administra essa lista é o atmmoreira.rj@gmail.com.
 
 
 <!-- * SITES PARA CADASTRO DE CURRÍCULO *
+https://dev.to/dabit3/100-developer-jobs-companies-still-hiring-amid-the-coronavirus-crisis-58o8
 
 www.futuregestaorh.com.br (http://www.futuregestaorh.com.br/)
 www.cotidian.com.br (http://www.cotidian.com.br/)
