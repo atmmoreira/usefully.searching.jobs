@@ -1,7 +1,6 @@
 # Canadá
 
 ### * Mais Comuns
-* [6figures](https://www.6figures.com)
 * [BC Jobs](https://www.bcjobs.ca)
 * [CareerJet CA](https://www.careerjet.ca)
 * [Careerbeacon](https://www.careerbeacon.com)
