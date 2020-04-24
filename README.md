@@ -40,6 +40,8 @@ Quem administra essa lista é o atmmoreira.rj@gmail.com.
 https://github.com/cloudson/awesome-php-jobs
 https://dev.to/dabit3/100-developer-jobs-companies-still-hiring-amid-the-coronavirus-crisis-58o8
 
+https://thehub.io/jobs
+
 www.futuregestaorh.com.br (http://www.futuregestaorh.com.br/)
 www.cotidian.com.br (http://www.cotidian.com.br/)
 www.grupofacility.com.br (http://www.grupofacility.com.br/)
