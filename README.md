@@ -1,16 +1,14 @@
 ## SITES COM POSSIBILIDADES DE TRABALHOS REMOTO EM TEMPO INTEGRAL OU FREELANCER.
-# 
+
 
 Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira.rj@gmail.com) » [WhatsApp](https://api.whatsapp.com/send?phone=5521992890362) » [Telegram](https://telegram.me/atmmoreira)
 
-# 
+---
 
 ***GERAIS*** » Sites onde a aplicação pode ser para qualquer lugar.
 
 » [Europa](europa.md)\
 » [Mundo](mundo.md)
-
-# 
 
 # Lista de países com informações úteis para imigração, custo de vida, etc.
 
