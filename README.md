@@ -1,15 +1,16 @@
-# SITES COM POSSIBILIDADES DE TRABALHOS REMOTO EM TEMPO INTEGRAL OU FREELANCER.
+## SITES COM POSSIBILIDADES DE TRABALHOS REMOTO EM TEMPO INTEGRAL OU FREELANCER.
+# 
 
 Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira.rj@gmail.com) » [WhatsApp](https://api.whatsapp.com/send?phone=5521992890362) » [Telegram](https://telegram.me/atmmoreira)
 
-----
+# 
 
 ***GERAIS*** » Sites onde a aplicação pode ser para qualquer lugar.
 
 » [Europa](europa.md)\
 » [Mundo](mundo.md)
 
-----
+# 
 
 # Lista de países com informações úteis para imigração, custo de vida, etc.
 
@@ -21,7 +22,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 » [Governo](paises/africadosul/governo.md)\
 » [Links Úteis](paises/africadosul/links-uteis.md)
 
-----
+# 
 
 **AUSTRIA**\
 » [Sites](paises/austria/austria.md)\
@@ -31,7 +32,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 » [Governo](paises/austria/governo.md)\
 » [Links Úteis](paises/austria/links-uteis.md)
 
-----
+# 
 
 **ALEMANHA**\
 » [Sites](paises/alemanha/alemanha.md)\
@@ -41,7 +42,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 » [Governo](paises/alemanha/governo.md)\
 » [Links Úteis](paises/alemanha/links-uteis.md)
 
-----
+# 
 
 **ARGENTINA**\
 » [Sites](paises/argentina/argentina.md)\
@@ -51,7 +52,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 » [Governo](paises/argentina/governo.md)\
 » [Links Úteis](paises/argentina/links-uteis.md)
 
-----
+# 
  
 **AUSTRÁLIA**\
 » [Sites](paises/australia/australia.md)\
@@ -61,12 +62,12 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 » [Governo](paises/australia/governo.md)\
 » [Links Úteis](paises/australia/links-uteis.md)
 
-----
+# 
 
 **BRASIL**\
 » [Sites](paises/brasil.md)
 
-----
+# 
 
 **BULGÁRIA**\
 » [Sites](paises/bulgaria/bulgaria.md)\
@@ -76,7 +77,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 » [Governo](paises/bulgaria/governo.md)\
 » [Links Úteis](paises/bulgaria/links-uteis.md)
 
-----
+# 
 
 **BÉLGICA**\
 » [Sites](paises/belgica/belgica.md)\
@@ -86,7 +87,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 » [Governo](paises/belgica/governo.md)\
 » [Links Úteis](paises/belgica/links-uteis.md)
 
-----
+# 
 
 **CANADÁ**\
 » [Sites](paises/canada/canada.md)\
@@ -96,7 +97,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 » [Governo](paises/canada/governo.md)\
 » [Links Úteis](paises/canada/links-uteis.md)
 
-----
+# 
 
 **CHILE**\
 » [Sites](paises/chile/chile.md)\
@@ -106,7 +107,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 » [Governo](paises/chile/governo.md)\
 » [Links Úteis](paises/chile/links-uteis.md)
 
-----
+# 
 
 **DINAMARCA**\
 » [Sites](paises/dinamarca/dinamarca.md)\
@@ -116,7 +117,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 » [Governo](paises/dinamarca/governo.md)\
 » [Links Úteis](paises/dinamarca/links-uteis.md)
 
-----
+# 
 
 **ESPANHA**\
 » [Sites](paises/espanha/espanha.md)\
@@ -126,7 +127,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 » [Governo](paises/espanha/governo.md)\
 » [Links Úteis](paises/espanha/links-uteis.md)
 
-----
+# 
 
 **ESTADOS UNIDOS**\
 » [Sites](paises/eua/eua.md)\
@@ -136,7 +137,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 » [Governo](paises/eua/governo.md)\
 » [Links Úteis](paises/eua/links-uteis.md)
 
-----
+# 
 
 **ESTONIA**\
 » [Sites](paises/estonia/estonia.md)\
@@ -146,7 +147,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 » [Governo](paises/estonia/governo.md)\
 » [Links Úteis](paises/estonia/links-uteis.md)
 
-----
+# 
 
 **HOLANDA**\
 » [Sites](paises/holanda/holanda.md)\
@@ -156,7 +157,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 » [Governo](paises/holanda/governo.md)\
 » [Links Úteis](paises/holanda/links-uteis.md)
 
-----
+# 
 
 **INGLATERRA**\
 » [Sites](paises/inglaterra/inglaterra.md)\
@@ -166,7 +167,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 » [Governo](paises/inglaterra/governo.md)\
 » [Links Úteis](paises/inglaterra/links-uteis.md)
 
-----
+# 
 
 **IRLANDA**\
 » [Sites](paises/irlanda/irlanda.md)\
@@ -176,7 +177,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 » [Governo](paises/irlanda/governo.md)\
 » [Links Úteis](paises/irlanda/links-uteis.md)
 
-----
+# 
 
 **NOVA ZELANDIA**\
 » [Sites](paises/novazelandia/nova-zelandia.md)\
@@ -186,7 +187,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 » [Governo](paises/novazelandia/governo.md)\
 » [Links Úteis](paises/novazelandia/links-uteis.md)
 
-----
+# 
 
 **POLONIA**\
 » [Sites](paises/polonia/polonia.md)\
@@ -196,7 +197,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 » [Governo](paises/polonia/governo.md)\
 » [Links Úteis](paises/polonia/links-uteis.md)
 
-----
+# 
 
 **PORTUGAL**\
 » [Sites](paises/portugal/portugal.md)\
@@ -206,7 +207,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 » [Governo](paises/portugal/governo.md)\
 » [Links Úteis](paises/portugal/links-uteis.md)
 
-----
+# 
 
 **SUÍÇA**\
 » [Sites](paises/suica/suica.md)\
@@ -216,10 +217,10 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 » [Governo](paises/suica/governo.md)\
 » [Links Úteis](paises/suica/links-uteis.md)
 
----- 
+---
 
 
-### SITES PARA CADASTRO DE CURRÍCULO
+# SITES PARA CADASTRO DE CURRÍCULO
 <!-- * SITES PARA CADASTRO DE CURRÍCULO *
 https://github.com/cloudson/awesome-php-jobs
 https://dev.to/dabit3/100-developer-jobs-companies-still-hiring-amid-the-coronavirus-crisis-58o8
