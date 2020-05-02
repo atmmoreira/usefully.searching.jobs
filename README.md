@@ -5,14 +5,14 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 
 ---
 
-#  GERAIS » Sites onde a aplicação pode ser para qualquer lugar.
+## GERAIS » SITES ONDE A APLICAÇÃO PODE SER PARA QUALQUER PAÍS
 
 » [Europa](europa.md)\
 » [Mundo](mundo.md)
 
 ---
 
-# Lista de países com informações úteis para imigração, custo de vida, etc.
+## LISTA DE PAÍSES E INFORMAÇÕES PARA IMIGRAÇÃO, CUSTO DE VIDA, ETC.
 
 **ÁFRICA DO SUL**\
 » [Sites](paises/africadosul/africadosul.md)\
