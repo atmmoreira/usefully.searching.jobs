@@ -1,41 +1,125 @@
-# SITES DO MUNDO
+# SITES COM POSSIBILIDADES DE TRABALHOS REMOTO EM TEMPO INTEGRAL OU FREELANCER.
 
-### SITES PARA PROFISSIONAIS DE TI (TRABALHOS FIXOS E REMOTOS)
+Administrador » Anderson Martins | [atmmoreira.rj@gmail.com](mailto:atmmoreira.rj@gmail.com) | [WhatsApp](https://api.whatsapp.com/send?phone=5521992890362) | [Telegram](https://telegram.me/atmmoreira)
 
-Gostaria muito da ajuda de todas as pessoas,git para que pudéssemos manter essa lista o mais atualizada possível. 
-Quem administra essa lista é o atmmoreira.rj@gmail.com.
+----
 
-# Gerais
+***GERAIS*** » Sites onde a aplicação pode ser para qualquer lugar.
 
 * [Europa](paises/europa.md)
 * [Mundo](paises/mundo.md)
 
-# Países
+----
 
-* [Alemanha](paises/alemanha.md)
-* [Austrália](paises/australia.md)
-* [Brasil](paises/brasil.md)
-* [Bulgária](paises/bulgaria.md)
-* [Bélgica](paises/belgica.md)
-* [Canadá](paises/canada.md)
-* [Chile](paises/chile.md)
-* [Dinamarca](paises/dinamarca.md)
-* [Espanha](paises/espanha.md)
-* [Estados Unidos](paises/eua.md)
-* [Estônia](paises/estonia.md)
-* [Holanda](paises/holanda.md)
-* [Inglaterra](paises/inglaterra.md)
-* [Irlanda](paises/irlanda.md)
-* [Nova Zelândia](paises/nova-zelandia.md)
-* [Polônia](paises/polonia.md)
-* [Portugal](paises/portugal.md)
-* [Suíça](paises/suica.md)
-* [Vietnã](paises/vietna.md)
-* [África do Sul](paises/africadosul.md)
-* [Áustria](paises/austria.md)
-* [Índia](paises/india.md)
+***PAÍSES*** » Lista de países com informações úteis para imigração, custo de vida, etc.
+
+ÁFRICA DO SUL\
+» [Sites](paises/africadosul.md)
+
+----
+
+AUSTRIA\
+» [Sites](paises/austria.md)
+
+----
+
+ALEMANHA\
+» [Sites](paises/alemanha/alemanha.md)\
+» [Imigração](paises/alemanha/imigracao.md)\
+» [Vistos](paises/alemanha/vistos.md)\
+» [Custo de Vida](paises/alemanha/custo-de-vida.md)\
+» [Governo](paises/alemanha/governo.md)\
+» [Links Úteis](paises/alemanha/links-uteis.md)
+
+----
+ 
+AUSTRÁLIA\
+» [Sites](paises/australia.md)
+
+----
+
+BRASIL\
+» [Sites](paises/brasil.md)
+
+----
+
+BULGÁRIA\
+» [Sites](paises/bulgaria.md)
+
+----
+
+BÉLGICA\
+» [Sites](paises/belgica.md)
+
+----
+
+CANADÁ\
+» [Sites](paises/canada.md)
+
+----
+
+CHILE\
+» [Sites](paises/chile.md)
+
+----
+
+DINAMARCA\
+» [Sites](paises/dinamarca.md)
+
+----
+
+ESPANHA\
+» [Sites](paises/espanha.md)
+
+----
+
+ESTADOS UNIDOS\
+» [Sites](paises/eua.md)
+
+----
+
+ESTONIA\
+» [Sites](paises/estonia.md)
+
+----
+
+HOLANDA\
+» [Sites](paises/holanda.md)
+
+----
+
+INGLATERRA\
+» [Sites](paises/inglaterra.md)
+
+----
+
+IRLANDA\
+» [Sites](paises/irlanda.md)
+
+----
+
+NOVA ZELANCIA\
+» [Sites](paises/nova-zelandia.md)
+
+----
+
+POLONIA\
+» [Sites](paises/polonia.md)
+
+----
+
+PORTUGAL\
+» [Sites](paises/portugal.md)
+
+----
+
+SUÍÇA\
+» [Sites](paises/suica.md)
+
+---- 
 
 
+### SITES PARA CADASTRO DE CURRÍCULO
 <!-- * SITES PARA CADASTRO DE CURRÍCULO *
 https://github.com/cloudson/awesome-php-jobs
 https://dev.to/dabit3/100-developer-jobs-companies-still-hiring-amid-the-coronavirus-crisis-58o8
