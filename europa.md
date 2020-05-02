@@ -1,9 +1,10 @@
 # Europa
 
-* [Europe Remotely](http://europeremotely.com)
-* [Evolution](https://www.evolutionjobs.com)
-* [Iremote Jobs](https://iremotejobs.com/)
-* [Jobs Zalando](https://jobs.zalando.com)
-* [Landing Jobs](http://www.landing.jobs)
-* [Unicorn Hunt](https://unicornhunt.io)
-* [Vivid Resourcing](https://www.vividresourcing.com/job-results)
+» [Europe Remotely](http://europeremotely.com)\
+» [Evolution](https://www.evolutionjobs.com)\
+» [Iremote Jobs](https://iremotejobs.com/)\
+» [Jobs Zalando](https://jobs.zalando.com)\
+» [Landing Jobs](http://www.landing.jobs)\
+» [The hub](https://thehub.io/jobs)\
+» [Unicorn Hunt](https://unicornhunt.io)\
+» [Vivid Resourcing](https://www.vividresourcing.com/job-results)
