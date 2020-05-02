@@ -1,29 +1,39 @@
 # SITES COM POSSIBILIDADES DE TRABALHOS REMOTO EM TEMPO INTEGRAL OU FREELANCER.
 
-Administrador » Anderson Martins | [atmmoreira.rj@gmail.com](mailto:atmmoreira.rj@gmail.com) | [WhatsApp](https://api.whatsapp.com/send?phone=5521992890362) | [Telegram](https://telegram.me/atmmoreira)
+Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira.rj@gmail.com) » [WhatsApp](https://api.whatsapp.com/send?phone=5521992890362) » [Telegram](https://telegram.me/atmmoreira)
 
 ----
 
 ***GERAIS*** » Sites onde a aplicação pode ser para qualquer lugar.
 
-* [Europa](paises/europa.md)
-* [Mundo](paises/mundo.md)
+» [Europa](europa.md)\
+» [Mundo](mundo.md)
 
 ----
 
-***PAÍSES*** » Lista de países com informações úteis para imigração, custo de vida, etc.
+# Lista de países com informações úteis para imigração, custo de vida, etc.
 
-ÁFRICA DO SUL\
-» [Sites](paises/africadosul.md)
+**ÁFRICA DO SUL**\
+» [Sites](paises/africadosul/africadosul.md)\
+» [Imigração](paises/africadosul/imigracao.md)\
+» [Vistos](paises/africadosul/vistos.md)\
+» [Custo de Vida](paises/africadosul/custo-de-vida.md)\
+» [Governo](paises/africadosul/governo.md)\
+» [Links Úteis](paises/africadosul/links-uteis.md)
 
 ----
 
-AUSTRIA\
-» [Sites](paises/austria.md)
+**AUSTRIA**\
+» [Sites](paises/austria/austria.md)\
+» [Imigração](paises/austria/imigracao.md)\
+» [Vistos](paises/austria/vistos.md)\
+» [Custo de Vida](paises/austria/custo-de-vida.md)\
+» [Governo](paises/austria/governo.md)\
+» [Links Úteis](paises/austria/links-uteis.md)
 
 ----
 
-ALEMANHA\
+**ALEMANHA**\
 » [Sites](paises/alemanha/alemanha.md)\
 » [Imigração](paises/alemanha/imigracao.md)\
 » [Vistos](paises/alemanha/vistos.md)\
@@ -32,89 +42,179 @@ ALEMANHA\
 » [Links Úteis](paises/alemanha/links-uteis.md)
 
 ----
+
+**ARGENTINA**\
+» [Sites](paises/argentina/argentina.md)\
+» [Imigração](paises/argentina/imigracao.md)\
+» [Vistos](paises/argentina/vistos.md)\
+» [Custo de Vida](paises/argentina/custo-de-vida.md)\
+» [Governo](paises/argentina/governo.md)\
+» [Links Úteis](paises/argentina/links-uteis.md)
+
+----
  
-AUSTRÁLIA\
-» [Sites](paises/australia.md)
+**AUSTRÁLIA**\
+» [Sites](paises/australia/australia.md)\
+» [Imigração](paises/australia/imigracao.md)\
+» [Vistos](paises/australia/vistos.md)\
+» [Custo de Vida](paises/australia/custo-de-vida.md)\
+» [Governo](paises/australia/governo.md)\
+» [Links Úteis](paises/australia/links-uteis.md)
 
 ----
 
-BRASIL\
+**BRASIL**\
 » [Sites](paises/brasil.md)
 
 ----
 
-BULGÁRIA\
-» [Sites](paises/bulgaria.md)
+**BULGÁRIA**\
+» [Sites](paises/bulgaria/bulgaria.md)\
+» [Imigração](paises/bulgaria/imigracao.md)\
+» [Vistos](paises/bulgaria/vistos.md)\
+» [Custo de Vida](paises/bulgaria/custo-de-vida.md)\
+» [Governo](paises/bulgaria/governo.md)\
+» [Links Úteis](paises/bulgaria/links-uteis.md)
 
 ----
 
-BÉLGICA\
-» [Sites](paises/belgica.md)
+**BÉLGICA**\
+» [Sites](paises/belgica/belgica.md)\
+» [Imigração](paises/belgica/imigracao.md)\
+» [Vistos](paises/belgica/vistos.md)\
+» [Custo de Vida](paises/belgica/custo-de-vida.md)\
+» [Governo](paises/belgica/governo.md)\
+» [Links Úteis](paises/belgica/links-uteis.md)
 
 ----
 
-CANADÁ\
-» [Sites](paises/canada.md)
+**CANADÁ**\
+» [Sites](paises/canada/canada.md)\
+» [Imigração](paises/canada/imigracao.md)\
+» [Vistos](paises/canada/vistos.md)\
+» [Custo de Vida](paises/canada/custo-de-vida.md)\
+» [Governo](paises/canada/governo.md)\
+» [Links Úteis](paises/canada/links-uteis.md)
 
 ----
 
-CHILE\
-» [Sites](paises/chile.md)
+**CHILE**\
+» [Sites](paises/chile/chile.md)\
+» [Imigração](paises/chile/imigracao.md)\
+» [Vistos](paises/chile/vistos.md)\
+» [Custo de Vida](paises/chile/custo-de-vida.md)\
+» [Governo](paises/chile/governo.md)\
+» [Links Úteis](paises/chile/links-uteis.md)
 
 ----
 
-DINAMARCA\
-» [Sites](paises/dinamarca.md)
+**DINAMARCA**\
+» [Sites](paises/dinamarca/dinamarca.md)\
+» [Imigração](paises/dinamarca/imigracao.md)\
+» [Vistos](paises/dinamarca/vistos.md)\
+» [Custo de Vida](paises/dinamarca/custo-de-vida.md)\
+» [Governo](paises/dinamarca/governo.md)\
+» [Links Úteis](paises/dinamarca/links-uteis.md)
 
 ----
 
-ESPANHA\
-» [Sites](paises/espanha.md)
+**ESPANHA**\
+» [Sites](paises/espanha/espanha.md)\
+» [Imigração](paises/espanha/imigracao.md)\
+» [Vistos](paises/espanha/vistos.md)\
+» [Custo de Vida](paises/espanha/custo-de-vida.md)\
+» [Governo](paises/espanha/governo.md)\
+» [Links Úteis](paises/espanha/links-uteis.md)
 
 ----
 
-ESTADOS UNIDOS\
-» [Sites](paises/eua.md)
+**ESTADOS UNIDOS**\
+» [Sites](paises/eua/eua.md)\
+» [Imigração](paises/eua/imigracao.md)\
+» [Vistos](paises/eua/vistos.md)\
+» [Custo de Vida](paises/eua/custo-de-vida.md)\
+» [Governo](paises/eua/governo.md)\
+» [Links Úteis](paises/eua/links-uteis.md)
 
 ----
 
-ESTONIA\
-» [Sites](paises/estonia.md)
+**ESTONIA**\
+» [Sites](paises/estonia/estonia.md)\
+» [Imigração](paises/estonia/imigracao.md)\
+» [Vistos](paises/estonia/vistos.md)\
+» [Custo de Vida](paises/estonia/custo-de-vida.md)\
+» [Governo](paises/estonia/governo.md)\
+» [Links Úteis](paises/estonia/links-uteis.md)
 
 ----
 
-HOLANDA\
-» [Sites](paises/holanda.md)
+**HOLANDA**\
+» [Sites](paises/holanda/holanda.md)\
+» [Imigração](paises/holanda/imigracao.md)\
+» [Vistos](paises/holanda/vistos.md)\
+» [Custo de Vida](paises/holanda/custo-de-vida.md)\
+» [Governo](paises/holanda/governo.md)\
+» [Links Úteis](paises/holanda/links-uteis.md)
 
 ----
 
-INGLATERRA\
-» [Sites](paises/inglaterra.md)
+**INGLATERRA**\
+» [Sites](paises/inglaterra/inglaterra.md)\
+» [Imigração](paises/inglaterra/imigracao.md)\
+» [Vistos](paises/inglaterra/vistos.md)\
+» [Custo de Vida](paises/inglaterra/custo-de-vida.md)\
+» [Governo](paises/inglaterra/governo.md)\
+» [Links Úteis](paises/inglaterra/links-uteis.md)
 
 ----
 
-IRLANDA\
-» [Sites](paises/irlanda.md)
+**IRLANDA**\
+» [Sites](paises/irlanda/irlanda.md)\
+» [Imigração](paises/irlanda/imigracao.md)\
+» [Vistos](paises/irlanda/vistos.md)\
+» [Custo de Vida](paises/irlanda/custo-de-vida.md)\
+» [Governo](paises/irlanda/governo.md)\
+» [Links Úteis](paises/irlanda/links-uteis.md)
 
 ----
 
-NOVA ZELANCIA\
-» [Sites](paises/nova-zelandia.md)
+**NOVA ZELANDIA**\
+» [Sites](paises/novazelandia/nova-zelandia.md)\
+» [Imigração](paises/novazelandia/imigracao.md)\
+» [Vistos](paises/novazelandia/vistos.md)\
+» [Custo de Vida](paises/novazelandia/custo-de-vida.md)\
+» [Governo](paises/novazelandia/governo.md)\
+» [Links Úteis](paises/novazelandia/links-uteis.md)
 
 ----
 
-POLONIA\
-» [Sites](paises/polonia.md)
+**POLONIA**\
+» [Sites](paises/polonia/polonia.md)\
+» [Imigração](paises/polonia/imigracao.md)\
+» [Vistos](paises/polonia/vistos.md)\
+» [Custo de Vida](paises/polonia/custo-de-vida.md)\
+» [Governo](paises/polonia/governo.md)\
+» [Links Úteis](paises/polonia/links-uteis.md)
 
 ----
 
-PORTUGAL\
-» [Sites](paises/portugal.md)
+**PORTUGAL**\
+» [Sites](paises/portugal/portugal.md)\
+» [Imigração](paises/portugal/imigracao.md)\
+» [Vistos](paises/portugal/vistos.md)\
+» [Custo de Vida](paises/portugal/custo-de-vida.md)\
+» [Governo](paises/portugal/governo.md)\
+» [Links Úteis](paises/portugal/links-uteis.md)
 
 ----
 
-SUÍÇA\
-» [Sites](paises/suica.md)
+**SUÍÇA**\
+» [Sites](paises/suica/suica.md)\
+» [Imigração](paises/suica/imigracao.md)\
+» [Vistos](paises/suica/vistos.md)\
+» [Custo de Vida](paises/suica/custo-de-vida.md)\
+» [Governo](paises/suica/governo.md)\
+» [Links Úteis](paises/suica/links-uteis.md)
 
 ---- 
 
