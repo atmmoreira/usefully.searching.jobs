@@ -1,3 +1,3 @@
 # Bulgária
 
-* [Jobs BG](https://goo.gl/njHT4S)
+» [Jobs BG](https://goo.gl/njHT4S)
