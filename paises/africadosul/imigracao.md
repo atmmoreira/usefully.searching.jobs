@@ -32,3 +32,7 @@
 [FINGERPRINT FORM (Visa Application) - Formulário de Impressões Digitais (Solicitação de Visto)](https://www.africadosul.org.br/forms/FINGERPRINT%20FORM%20(Visa%20Application)%20-%20Formul%EF%BF%BDrio%20de%20Impress%EF%BF%BDes%20Digitais%20(Solicita%EF%BF%BD%EF%BF%BDo%20de%20Visto).pdf)\
 [*AFFIDAVIT - DECLARACAO JURAMENTADA (em português)](https://www.africadosul.org.br/forms/AFFIDAVIT%20-%20DECLARACAO%20JURAMENTADA%20(em%20portugu%EF%BF%BDs).pdf)\
 [*AFFIDAVIT - SWORN STATEMENT](https://www.africadosul.org.br/forms/AFFIDAVIT%20-%20SWORN%20STATEMENT.pdf)
+
+## IMMIGRATION & CIVIC SERVICES FEES
+
+[Taxas PARA EMISSÃO DE Visto & Serviços cívicos](https://www.africadosul.org.br/docs/DHA%20Consolidated%20List%20of%20Tariffs%20-%20Civic%20Services.docx)
