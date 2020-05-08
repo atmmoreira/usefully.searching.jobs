@@ -1,2 +1,0 @@
-# Vistos
-Em construção
