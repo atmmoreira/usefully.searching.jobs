@@ -25,5 +25,4 @@ Os gastos com alimentação estarão sempre entre os mais relativos, uma vez que
 ***EXTRAS***\
 1 mês de academia: 490 R\
 1 bilhete de cinema: 80 R\
-1 hora de diarista: 73 R\
 Mensalidade de uma creche particular: 3.558 R

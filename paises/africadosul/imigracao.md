@@ -1,4 +1,3 @@
-# Imigração
 ## VISTOS E TIPOS DE VISTOS
 Visto de Turismo - Dispensa de visto, por até 90 dias\
 Visto de Negócios - Dispensa de visto, por até 90 dias
