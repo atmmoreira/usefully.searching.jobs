@@ -24,3 +24,11 @@
 [Work Exchange Visa Requirements](https://www.africadosul.org.br/requires/Work%20Exchange%20Visa%20requirements.pdf)
 
 ## FORMULÁRIOS
+[BI-806 - radiological report](https://www.africadosul.org.br/forms/BI-806%20-%20radiological%20report.pdf)\
+[BI-811 - medical certificate](https://www.africadosul.org.br/forms/BI-811%20-%20medical%20certificate.pdf)\
+[DHA-1738 Form](https://www.africadosul.org.br/forms/DHA-1738%20Form.pdf)\
+[DHA-1743 - Application for Corporate Visa](https://www.africadosul.org.br/forms/DHA-1743%20-%20Application%20for%20Corporate%20Visa.pdf)\
+[DHA-84 Form](https://www.africadosul.org.br/forms/DHA-84%20Form.pdf)\
+[FINGERPRINT FORM (Visa Application) - Formulário de Impressões Digitais (Solicitação de Visto)](https://www.africadosul.org.br/forms/FINGERPRINT%20FORM%20(Visa%20Application)%20-%20Formul%EF%BF%BDrio%20de%20Impress%EF%BF%BDes%20Digitais%20(Solicita%EF%BF%BD%EF%BF%BDo%20de%20Visto).pdf)\
+[*AFFIDAVIT - DECLARACAO JURAMENTADA (em português)](https://www.africadosul.org.br/forms/AFFIDAVIT%20-%20DECLARACAO%20JURAMENTADA%20(em%20portugu%EF%BF%BDs).pdf)\
+[*AFFIDAVIT - SWORN STATEMENT](https://www.africadosul.org.br/forms/AFFIDAVIT%20-%20SWORN%20STATEMENT.pdf)
