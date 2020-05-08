@@ -1,5 +1,7 @@
 # Imigração
 ## VISTOS E TIPOS DE VISTOS
+Visto de Turismo - Dispensa de visto, por até 90 dias\
+Visto de Negócios - Dispensa de visto, por até 90 dias
 
 [Business Visa - Business Not Yet Stablished in South Africa](https://www.africadosul.org.br/requires/Business%20Visa%20-%20Business%20Not%20Yet%20Stablished%20in%20South%20Africa.pdf)\
 [Business Visa - Investment in an Existing Business](https://www.africadosul.org.br/requires/Business%20Visa%20-%20Investment%20in%20an%20Existing%20Business.pdf)\
