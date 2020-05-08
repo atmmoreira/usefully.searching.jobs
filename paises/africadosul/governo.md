@@ -1,4 +1,4 @@
-# Governo
+# GOVERNO
 Capital\
 \- Pretória (administrativa);\
 \- Cidade do Cabo (legislativa);\

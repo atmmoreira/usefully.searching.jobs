@@ -1,4 +1,4 @@
-# Custo de Vida
+# CUSTO DE VIDA
 Média analisada de acordo com o site numbeo, e tem variações de cidade para cidade.
 
 ***SALÁRIO***\
