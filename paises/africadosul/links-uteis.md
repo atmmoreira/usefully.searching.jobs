@@ -1,2 +1,0 @@
-# LINKS ÚTEIS
-Em construção
