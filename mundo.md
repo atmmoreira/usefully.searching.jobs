@@ -48,6 +48,7 @@
 » [Kaggle](https://kaggle.com/jobs)\
 » [Key Values](http://www.keyvalues.com)\
 » [Larajobs](http://www.larajobs.com)\
+» [My Remote Developers](https://myremotedevelopers.com/)\
 » [Monster](http://www.monster.com)\
 » [News Ycombinator)](http://news.ycombinator.com/jobs)\
 » [No Fluff](https://nofluffjobs.com)\
