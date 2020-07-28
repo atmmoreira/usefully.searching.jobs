@@ -18,4 +18,5 @@
 » [Swiss Dev Jobs](https://swissdevjobs.ch)\
 » [The Stamford Group](http://thestamfordgroup.com)\
 » [Treff Punkt](https://www.treffpunkt-arbeit.ch/home/job-seeker)\
+» [WeJob.ch](https://wejob.ch)\
 » [Zeitung](http://www.zeitung.ch)
