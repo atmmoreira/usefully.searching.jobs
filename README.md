@@ -13,6 +13,12 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 
 ---
 
+## LISTA DE EMPRESAS QUE CONTRATAM PROFISSIONAIS REMOTAMENTE
+
+» [List of companies hiring remotely](https://docs.google.com/spreadsheets/d/1wZEx8plCn2cAHo9TY5Z5NGb3VBjuvkupSZ1miLM8cEQ/edit#gid=397298860)
+
+---
+
 ## GERAIS » SITES ONDE A APLICAÇÃO PODE SER PARA QUALQUER PAÍS
 
 » [Europa](europa.md)\
