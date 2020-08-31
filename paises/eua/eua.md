@@ -7,6 +7,7 @@
 » [Computer Jobs](http://www.computerjobs.com)\
 » [Coroflot](http://www.coroflot.com/design-jobs)\
 » [Crunch Board](http://www.crunchboard.com)\
+» [Daily Jobs](https://daily.jobs)\
 » [Dice](http://www.dice.com)\
 » [Get Graphic Design Jobs](http://www.getgraphicdesignjobs.com)\
 » [Hired](http://hired.com/jobs)\
