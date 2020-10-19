@@ -80,6 +80,7 @@
 » [Stackoverflow Jobs](http://www.stackoverflow.com/jobs)\
 » [Startus Jobs](http://www.startus.cc/jobs)\
 » [Talent Hubstaff](http://talent.hubstaff.com/search/jobs)\
+» [Talent IO](https://www.talent.io/)\
 » [Tech me Abroad](http://techmeabroad.com)\
 » [The Muse](http://www.themuse.com/jobs)\
 » [Thedrum Jobs](http://www.thedrum.com/jobs)\
