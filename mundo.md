@@ -77,6 +77,7 @@
 » [Skip the Drive](http://www.skipthedrive.com)\
 » [Slack jobs](https://slack.com/jobs)\
 » [Slackatwork](http://slackatwork.com)\
+» [Sprint CV Jobs](https://www.sprintcv.com/it-jobs)\
 » [Stackoverflow Jobs](http://www.stackoverflow.com/jobs)\
 » [Startus Jobs](http://www.startus.cc/jobs)\
 » [Talent Hubstaff](http://talent.hubstaff.com/search/jobs)\
