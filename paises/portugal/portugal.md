@@ -4,6 +4,7 @@
 » [Blossom Bridge](https://blossombridge.com/)\
 » [CareerJet PT](http://www.careerjet.pt)\
 » [Carga de Trabalhos](http://www.cargadetrabalhos.net)\
+» [Computer World](https://www.computerworld.com.pt/emprego)\
 » [Edit Recrutamento](https://edit.com.pt/recrutamento/)\
 » [Emprego PT](http://www.emprego.pt)\
 » [Emprego Sapo](http://emprego.sapo.pt)\
