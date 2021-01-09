@@ -5,7 +5,7 @@
 » [Iremote Jobs](https://iremotejobs.com/)\
 » [Jobs Zalando](https://jobs.zalando.com)\
 » [Landing Jobs](http://www.landing.jobs)\
-» [TalentIO](https://www.talent.io/)
+» [TalentIO](https://www.talent.io/)\
 » [The hub](https://thehub.io/jobs)\
 » [Unicorn Hunt](https://unicornhunt.io)\
 » [Vivid Resourcing](https://www.vividresourcing.com/job-results)
