@@ -2,7 +2,6 @@
 
 » [Europe Remotely](http://europeremotely.com)\
 » [Evolution](https://www.evolutionjobs.com)\
-» [Iremote Jobs](https://iremotejobs.com/)\
 » [Jobs Zalando](https://jobs.zalando.com)\
 » [Landing Jobs](http://www.landing.jobs)\
 » [TalentIO](https://www.talent.io/)\
