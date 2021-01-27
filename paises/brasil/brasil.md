@@ -27,7 +27,7 @@
 » [Vagas POA](https://www.vagaspoa.com.br)\
 » [Vagas na Net](http://www.vagasnanet.com.br)\
 » [Vagas](http://www.vagas.com.br)\
-» [Vibbra](https://www.vibbra.com.br/)
+» [Vibbra](https://www.vibbra.com.br/)\
 » [Vulpi](https://app.vulpi.com.br/jobs)
 
 ---
