@@ -1,6 +1,7 @@
 # Alemanha
 
 » [Arbeitsagentur](http://www.arbeitsagentur.de)\
+» [Absolventa](https://www.absolventa.de/jobs/channel/it)\
 » [Berlin Statup Jobs](http://berlinstartupjobs.com)\
 » [Connecticum](http://www.connecticum.de)\
 » [CraigList](http://berlin.craigslist.de/)\
@@ -12,6 +13,7 @@
 » [German Jobs](http://www.germanjobs.net/index.php)\
 » [GermanTech Jobs](https://germantechjobs.de)\
 » [Get Photography jobs](http://www.getphotographyjobs.com/)\
+» [Gruenderszene](https://recruiting.gruenderszene.de/)\
 » [Gruenderluft](http://www.gruenderluft.de/)\
 » [Hays](http://www.hays.de)\
 » [IT Job Board](http://www.itjobboard.de/)\
@@ -22,6 +24,7 @@
 » [Job Vector](http://www.jobvector.de)\
 » [Job Ware](http://www.jobware.de)\
 » [Job is job](http://www.jobisjob.de/)\
+» [Job Teaser](https://www.jobteaser.com/en)\
 » [Jobs](http://www.jobs.de/)\
 » [Jooble](http://jooble-de.com)\
 » [Make it in Germany](http://www.make-it-in-germany.com/)\
