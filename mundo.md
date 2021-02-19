@@ -61,6 +61,8 @@
 » [Pitch ME](https://pitchme.co/)\
 » [Powertofly](http://www.powertofly.com/jobs)\
 » [Python Jobs](http://pythonjobs.github.io)\
+» [Python Org Jobs](https://www.python.org/jobs/)\
+» [Python Jobs HQ](https://www.pythonjobshq.com/)\
 » [React jobs](https://www.react-jobs.com/remote/)\
 » [React jobs board](https://reactjobsboard.com/)\
 » [Reactiflux](http://jobs.reactiflux.com/)\
