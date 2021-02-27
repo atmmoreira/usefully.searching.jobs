@@ -3,6 +3,7 @@
 » [Adria Solutions](http://www.adriasolutions.co.uk)\
 » [CV Library](https://www.cv-library.co.uk/aff/102400)\
 » [CW Jobs UK](http://www.cwjobs.co.uk)\
+» [DevITjobs UK](https://devitjobs.uk)\
 » [EU Recruit](https://eu-recruit.com)\
 » [GuardianJobs](https://jobs.theguardian.com)\
 » [Gum Tree](http://www.gumtree.com/jobs)\
