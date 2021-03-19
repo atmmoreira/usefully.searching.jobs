@@ -32,7 +32,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 
 ---
 
-## LISTA DE PAÍSES E INFORMAÇÕES PARA IMIGRAÇÃO, CUSTO DE VIDA, ETC.
+## LISTA DE PAÍSES
 
 **ÁFRICA DO SUL**\
 » [Sites](paises/africadosul/africadosul.md)
