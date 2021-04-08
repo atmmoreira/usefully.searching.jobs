@@ -216,6 +216,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 | Dis ag | [`Acessar Site`](http://www.dis-ag.com/dis/Pages/start.aspx) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
 | Doc check | [`Acessar Site`](http://jobs.doccheck.com/de/) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
 | Dribbble | [`Acessar Site`](http://www.dribbble.com/jobs) | Euro » Dolar | ![World](flags/location.png "World") |
+| EFinancial Careers | [`Acessar Site`](https://www.efinancialcareers.co.uk) | Euro » Dolar | ![World](flags/location.png "World") |
 | EU Recruit | [`Acessar Site`](https://eu-recruit.com) | Libra Esterlina | ![Inglaterra](flags/inglaterra.png "Inglaterra") |
 | Edit Recrutamento | [`Acessar Site`](https://edit.com.pt/recrutamento/) | Euro | ![Portugal](flags/portugal.png "Portugal") |
 | Education Canada | [`Acessar Site`](www.educationcanada.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
@@ -247,6 +248,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 | Freelancer | [`Acessar Site`](http://www.freelancer.com) | Euro » Dolar | ![World](flags/location.png "World") |
 | Freelancermap | [`Acessar Site`](http://www.freelancermap.com) | Euro » Dolar | ![World](flags/location.png "World") |
 | Fresh Gigs | [`Acessar Site`](www.freshgigs.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
+| Front Jobs | [`Acessar Site`](http://frontjobs.com.br/) | Reais | ![Brasil](flags/brasil.png "Brasil") |
 | Frontend Developer Job | [`Acessar Site`](http://frontenddeveloperjob.com) | Euro » Dolar | ![World](flags/location.png "World") |
 | Frontend Vagas - Github | [`Acessar Site`](https://github.com/frontendbr/vagas/) | Reais | ![Brasil](flags/brasil.png "Brasil") |
 | Functional Jobs | [`Acessar Site`](http://functionaljobs.com) | Euro » Dolar | ![World](flags/location.png "World") |
@@ -548,4 +550,3 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 | Zero to one Search | [`Acessar Site`](https://jobs.zerotoonesearch.com/careers) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
 | Zip Recruiter | [`Acessar Site`](http://www.ziprecruiter.com) | Euro » Dolar | ![World](flags/location.png "World") |
 | Zona Jobs | [`Acessar Site`](https://www.zonajobs.com.ar) | Peso Argentino » Dolar | ![Argentina](flags/argentine.png "Argentina") |
-| eFinancial Careers | [`Acessar Site`](https://www.efinancialcareers.co.uk) | Euro » Dolar | ![World](flags/location.png "World") |
