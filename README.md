@@ -262,6 +262,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 | Glassdoor | [`Acessar Site`](https://www.glassdoor.com) | Euro » Dolar | ![World](flags/location.png "World") |
 | Glassdoor | [`Acessar Site`](www.glassdoor.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
 | Gnoma | [`Acessar Site`](http://gnoma.cl) | Chilean Peso | ![Chile](flags/chile.png "Chile") |
+| Goodland | [`Acessar Site`](https://en.goodland.io) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
 | Goldman Tech | [`Acessar Site`](http://www.goldmantech.co.za) | Rand » Dolar | ![África do Sul](flags/south-africa.png "África do Sul") |
 | Growth Hackers | [`Acessar Site`](http://growthhackers.com/jobs) | Euro » Dolar | ![World](flags/location.png "World") |
 | Gruenderluft | [`Acessar Site`](http://www.gruenderluft.de) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
