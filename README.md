@@ -476,7 +476,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 | Stackoverflow Jobs | [`Acessar Site`](http://www.stackoverflow.com/jobs) | Euro » Dolar | ![World](flags/location.png "World") |
 | Start-up Jobs Dublin | [`Acessar Site`](http://dublinstartupjobs.com) | Euro | ![Irlanda](flags/irlanda.png "Irlanda") |
 | Startus Jobs | [`Acessar Site`](http://www.startus.cc/jobs) | Euro » Dolar | ![World](flags/location.png "World") |
-| Startus | [`Acessar Site`](https://www.startus.cc) | Euro | ![Estonia](flags/estonia.png "Estonia") |
+| Startup Jobs | [`Acessar Site`](https://startup.jobs/) | Euro » Dolar | ![World](flags/location.png "World") |
 | Staufenbiel | [`Acessar Site`](http://staufenbiel.de) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
 | Step Stone | [`Acessar Site`](http://www.stepstone.ch) | Franco Suíço | ![Suíça](flags/suica.png "Suíça") |
 | Step Stone | [`Acessar Site`](https://www.stepstone.be/en) | Euro | ![Bélgica](flags/belgica.png "Bélgica") |
