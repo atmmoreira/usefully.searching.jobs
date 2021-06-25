@@ -241,6 +241,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 | Fep Search Group | [`Acessar Site`](www.fepsearchgroup.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
 | Fienst Jobs | [`Acessar Site`](http://www.finest-jobs.com) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
 | Find Bacon | [`Acessar Site`](https://findbacon.com) | Euro » Dolar | ![World](flags/location.png "World") |
+| Flat World | [`Acessar Site`](https://flatworld.co/jobs) | Euro » Dolar | ![World](flags/location.png "World") |
 | Flex Jobs | [`Acessar Site`](http://www.flexjobs.com) | Euro » Dolar | ![World](flags/location.png "World") |
 | Foss Jobs | [`Acessar Site`](http://www.fossjobs.net) | Euro » Dolar | ![World](flags/location.png "World") |
 | Foxtekrs | [`Acessar Site`](https://www.foxtekrs.com/) | Euro | ![Holanda](flags/holanda.png "Holanda") |
