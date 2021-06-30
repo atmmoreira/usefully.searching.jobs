@@ -112,6 +112,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 |-|-|TicketSwap|[`Acessar Site`](https://ticketswap.homerun.co)|
 |-|-|Travanto|[`Acessar Site`](https://www.travanto.de/unternehmen/jobs)|
 |-|-|Trivago|[`Acessar Site`](http://company.trivago.com/jobs)|
+|-|-|Ultracon Carreiras|[`Acessar Site`](https://ultracon.zohorecruit.com/careers)|
 |-|-|Urbanara|[`Acessar Site`](https://careers.jobscore.com/careers/urbanara)|
 |-|-|Usabillla|[`Acessar Site`](https://jobs.usabilla.com)|
 |-|-|Virtual Gym|[`Acessar Site`](https://virtuagym.com/software/en/jobs)|
