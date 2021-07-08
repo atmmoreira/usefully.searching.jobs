@@ -131,6 +131,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 | Website | Link Acesso | País | Moeda |
 |-|-|-|-|
 | 6 Figures | [`Acessar Site`](www.6figures.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
+| 6 Nomads | [`Acessar Site`](https://6nomads.com/resources/remotejob) | Euro » Dolar | ![World](flags/location.png "World") |
 | 99Freelas | [`Acessar Site`](https://www.99freelas.com.br) | Reais | ![Brasil](flags/brasil.png "Brasil") |
 | ADP Jobs | [`Acessar Site`](https://jobs.adp.com) | Euro » Dolar | ![World](flags/location.png "World") |
 | Absolventa | [`Acessar Site`](https://www.absolventa.de/jobs/channel/it) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
