@@ -211,8 +211,8 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 | Design made in Germany| [`Acessar Site`](http://www.designmadeingermany.de/jobs) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
 | DevITjobs UK | [`Acessar Site`](https://devitjobs.uk) | Libra Esterlina | ![Inglaterra](flags/inglaterra.png "Inglaterra") |
 | DevRemoto | [`Acessar Site`](https://devremoto.club/) | Reais | ![Brasil](flags/brasil.png "Brasil") |
+| Dellent Consulting | [`Acessar Site`](https://dellentconsulting.com/careers) | Euros | ![Brasil](flags/portugal.png "Portugal") |
 | Dhire | [`Acessar Site`](http://www.dhire.com.br) | Reais | ![Brasil](flags/brasil.png "Brasil") |
-| Dice | [`Acessar Site`](http://www.dice.com) | Dolar | ![EUA](flags/eua.png "EUA") |
 | Dice | [`Acessar Site`](www.dice.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
 | Direct Jobs | [`Acessar Site`](www.directjobs.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
 | Dis ag | [`Acessar Site`](http://www.dis-ag.com/dis/Pages/start.aspx) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
