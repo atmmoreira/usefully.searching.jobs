@@ -325,6 +325,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 | Job Agent | [`Acessar Site`](https://www.jobagent.ch) | Franco Suíço | ![Suíça](flags/suica.png "Suíça") |
 | Job Bank GC | [`Acessar Site`](www.jobbank.gc.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
 | Job Borse | [`Acessar Site`](https://jobboerse.arbeitsagentur.de) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
+| Job Capitalone | [`Acessar Site`](https://jobs.capitalone.co.uk/) | Dolar » Libra Esterlina | ![Inglaterra](flags/inglaterra.png "Inglaterra") |
 | Job Hunt | [`Acessar Site`](https://jobhunt.ai) | Euro » Dolar | ![World](flags/location.png "World") |
 | Job Mail | [`Acessar Site`](http://www.jobmail.co.za) | Rand » Dolar | ![África do Sul](flags/south-africa.png "África do Sul") |
 | Job Match | [`Acessar Site`](https://www.gov.uk/jobsearch) | Libra Esterlina | ![Inglaterra](flags/inglaterra.png "Inglaterra") |
