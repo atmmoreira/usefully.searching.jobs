@@ -176,7 +176,8 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 | Career Beacon | [`Acessar Site`](https://www.careerbeacon.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
 | Career Builder | [`Acessar Site`](https://www.careerbuilder.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
 | Career Edge | [`Acessar Site`](www.careeredge.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Career Jet CA | [`Acessar Site`](https://www.careerjet.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
+| Career Edge | [`Acessar Site`](www.careeredge.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
+| Career Luxoft | [`Acessar Site`](https://career.luxoft.com/) | Euro » Dolar | ![Europe](flags/european-union.png "Europe") |
 | Career Junction | [`Acessar Site`](https://www.careerjunction.co.za) | Rand » Dolar | ![África do Sul](flags/south-africa.png "África do Sul") |
 | Career Key | [`Acessar Site`](www.careerkey.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
 | CareerJet PT | [`Acessar Site`](http://www.careerjet.pt) | Euro | ![Portugal](flags/portugal.png "Portugal") |
