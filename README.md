@@ -456,6 +456,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 | RelocateMe | [`Acessar Site`](https://relocate.me) | Euro » Dolar | ![World](flags/location.png "World") |
 | Remote Base | [`Acessar Site`](https://remotebase.io) | Euro » Dolar | ![World](flags/location.png "World") |
 | Remote CO | [`Acessar Site`](http://remote.co) | Euro » Dolar | ![World](flags/location.png "World") |
+| Remote Crew | [`Acessar Site`](https://www.remotecrew.io/jobs) | Euro » Dolar | ![World](flags/location.png "World") |
 | Remote List | [`Acessar Site`](https://remotelist.io) | Euro » Dolar | ![World](flags/location.png "World") |
 | Remote More | [`Acessar Site`](https://remotemore.com) | Euro » Dolar | ![World](flags/location.png "World") |
 | Remote Python | [`Acessar Site`](https://www.remotepython.com) | Euro » Dolar | ![World](flags/location.png "World") |
