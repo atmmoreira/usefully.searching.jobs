@@ -219,6 +219,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 | Dis ag | [`Acessar Site`](http://www.dis-ag.com/dis/Pages/start.aspx) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
 | Doc check | [`Acessar Site`](http://jobs.doccheck.com/de/) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
 | Dribbble | [`Acessar Site`](http://www.dribbble.com/jobs) | Euro » Dolar | ![World](flags/location.png "World") |
+| Dubai Job Plus | [`Acessar Site`](http://www.dubaijobsplus.com/) | Euro » Dolar | ![World](flags/location.png "World") |
 | EFinancial Careers | [`Acessar Site`](https://www.efinancialcareers.co.uk) | Euro » Dolar | ![World](flags/location.png "World") |
 | EU Recruit | [`Acessar Site`](https://eu-recruit.com) | Libra Esterlina | ![Inglaterra](flags/inglaterra.png "Inglaterra") |
 | Edit Recrutamento | [`Acessar Site`](https://edit.com.pt/recrutamento/) | Euro | ![Portugal](flags/portugal.png "Portugal") |
