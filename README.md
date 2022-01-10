@@ -424,6 +424,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 | Onsite | [`Acessar Site`](http://onsite.io) | Euro » Dolar | ![World](flags/location.png "World") |
 | Opcion Empleos | [`Acessar Site`](https://www.opcionempleo.cl) | Chilean Peso | ![Chile](flags/chile.png "Chile") |
 | Openjobs | [`Acessar Site`](http://www.openjobs.com.br) | Reais | ![Brasil](flags/brasil.png "Brasil") |
+| Optimhire | [`Acessar Site`](https://optimhire.com) | Euro » Dolar | ![World](flags/location.png "World") |
 | Outsourcely Remote Workers | [`Acessar Site`](http://www.outsourcely.com/remote-workers) | Euro » Dolar | ![World](flags/location.png "World") |
 | PHP Jobs | [`Acessar Site`](https://github.com/phpdevbr/vagas/issues) | Reais | ![Brasil](flags/brasil.png "Brasil") |
 | PNET | [`Acessar Site`](https://www.pnet.co.za) | Rand » Dolar | ![África do Sul](flags/south-africa.png "África do Sul") |
