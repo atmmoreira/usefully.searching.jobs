@@ -507,6 +507,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 | Thedrum Jobs | [`Acessar Site`](http://www.thedrum.com/jobs) | Euro » Dolar | ![World](flags/location.png "World") |
 | Ti Jobs | [`Acessar Site`](http://www.tijobs.com.br) | Reais | ![Brasil](flags/brasil.png "Brasil") |
 | Toptal | [`Acessar Site`](http://www.toptal.com) | Euro » Dolar | ![World](flags/location.png "World") |
+| Torre CO | [`Acessar Site`](https://torre.co) | Euro » Dolar | ![World](flags/location.png "World") |
 | Total Jobs | [`Acessar Site`](http://www.totaljobs.com) | Libra Esterlina | ![Inglaterra](flags/inglaterra.png "Inglaterra") |
 | Trabajando | [`Acessar Site`](https://www.trabajando.cl) | Chilean Peso | ![Chile](flags/chile.png "Chile") |
 | Trabalho Certo | [`Acessar Site`](http://www.trabalhocerto.pt) | Euro | ![Portugal](flags/portugal.png "Portugal") |
