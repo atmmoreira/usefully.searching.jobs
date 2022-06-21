@@ -496,6 +496,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 | Talent IO | [`Acessar Site`](https://www.talent.io) | Euro » Dolar | ![World](flags/location.png "World") |
 | Talentegg | [`Acessar Site`](www.talentegg.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
 | Teamlyzer | [`Acessar Site`](https://pt.teamlyzer.com/) | Euro | ![Portugal](flags/portugal.png "Portugal") |
+| Tecla Io | [`Acessar Site`](https://dashboard.tecla.io/jobs/) | Dolar | ![EUA](flags/eua.png "EUA") | 
 | Tech Careers | [`Acessar Site`](www.TechCareers.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
 | Tech me Abroad | [`Acessar Site`](http://techmeabroad.com) | Euro » Dolar | ![World](flags/location.png "World") |
 | TecnoJobs | [`Acessar Site`](http://tecnojobs.pt/) | Euro | ![Portugal](flags/portugal.png "Portugal") |
