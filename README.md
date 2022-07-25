@@ -350,6 +350,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 | Job forum | [`Acessar Site`](www.jobforum.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
 | Job is job | [`Acessar Site`](http://www.jobisjob.de/) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
 | JobSpresso | [`Acessar Site`](https://jobspresso.co) | Euro » Dolar | ![World](flags/location.png "World") |
+| JS Jobs | [`Acessar Site`](https://jsjobbs.com) | Euro » Dolar | ![World](flags/location.png "World") | 
 | JobSuch Maschine | [`Acessar Site`](https://jobsuchmaschine.ch) | Franco Suíço | ![Suíça](flags/suica.png "Suíça") |
 | Jobbatical | [`Acessar Site`](https://jobbatical.com) | Euro » Dolar | ![World](flags/location.png "World") |
 | Jobillico | [`Acessar Site`](https://www.jobillico.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
