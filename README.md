@@ -22,12 +22,6 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 
 <br />
 
-# Sites para cadastro e/ou envio de currículo
-
-» [Lista de Sites](./sites-cadastro.md)
-
-<br />
-
 # Sites por regiões e países
 
 <br />
@@ -47,6 +41,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [ALICE](https://aliceplatform.com) - Worldwide
 - [ARK](https://www.ark.io/careers) - Worldwide
 - [Ably](https://www.ably.io) - Europe
+- [About you](https://corporate.aboutyou.de/en/departments/tech)
 - [Absolventa](https://www.absolventa.de/jobs/channel/it) - Germany
 - [Abstract API](https://www.abstractapi.com) - Worldwide
 - [Acivilate](https://acivilate.com) - USA
@@ -69,25 +64,30 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [AirTreks](https://www.airtreks.com) - USA
 - [Airbyte](https://airbyte.com) - Europe, North America, Latin America
 - [Aivitex](https://www.aivitex.de) - Germany
+- [Algolia](https://www.algolia.com/careers)
 - [Algorand](https://www.algorand.com) - USA
 - [Algorithmia](https://algorithmia.com) - the USA or Canada
 - [Alight Solutions](https://alight.com) - Worldwide
 - [All Star Jobs](https://www.allstarjobs.ca) - Canada
 - [Alley](https://alley.co) - USA, Canada, Western Europe
 - [AlphaSights](https://engineering.alphasights.com) - USA, UK, (EST, GMT)
+- [Amaro](https://about.amaro.com/jobs)
 - [Amazon Jobs Virtual Locations](https://www.amazon.jobs/en/locations/virtual-locations) - Worldwide
+- [Amazon Web Service](https://www.amazon.jobs/en)
 - [Ambaum](https://ambaum.com) - USA, Europe
 - [Andela](https://andela.com) - Worldwide
 - [Angel CO](http://www.angel.co) - WorldWide
 - [Animalz](https://www.animalz.co) - USA
 - [Anomali](https://www.anomali.com/company/careers) - USA, UK, Singapore
 - [Apinfo](http://www.apinfo.com/apinfo) - Brazil
+- [Appian](https://www.appian.com/careers/search)
 - [Appinio](https://appinio.com) - Europe
 - [Apply Now AU](http://www.applynow.com.au) - Australia
 - [Appstractor Corporation](https://www.appstractor.com) - USA, UK, Israel
 - [Appwrite](https://appwrite.io) - Worldwide
 - [Aquent](http://aquent.com/find-work) - EUA
 - [Arbeitsagentur](http://www.arbeitsagentur.de) - Germany
+- [Arizona](http://arizona.global)
 - [Arkency](https://arkency.com) - Worldwide
 - [Art & Logic](https://artandlogic.com) - USA and Canada
 - [Artefactual Systems](https://www.artefactual.com) - UTC-8 to UTC+2
@@ -96,13 +96,17 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Audiense](https://www.audiense.com) ️- Worldwide
 - [Aula Education](https://aula.education) - Worldwide
 - [Auth0](https://auth0.com) - Worldwide
+- [Auth0](https://auth0.com/careers/positions)
 - [Authentic Jobs](http://authenticjobs.com) - WorldWide
 - [Auto Jobs](https://www.auto-jobs.ca) - Canada
+- [Autodesk](https://autodesk.rolepoint.com)
 - [Automattic](https://automattic.com) - Worldwide
+- [Automattic](https://automattic.com/work-with-us)
 - [Axelerant](https://axelerant.com) - Worldwide
 - [Axios](https://axios.com) - USA
 - [BC Jobs](https://www.bcjobs.ca) - Canada
 - [BNE](https://www.bne.cl) - Chile
+- [Badoo](https://team.badoo.com/jobs/all-positions)
 - [Bairesdev](https://bairesdev.com) - Worldwide
 - [Balena](https://www.balena.io) - Worldwide
 - [Balsamiq](https://balsamiq.com) - Worldwide
@@ -139,6 +143,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Boldare](https://boldare.com) - Worldwide
 - [Bonsai](https://www.hellobonsai.com) - Worldwide
 - [Bot Jobs](http://botjobs.io) - WorldWide
+- [Bounteous](https://jobs.lever.co/bounteous)
 - [Brave Investments](https://www.crunchbase.com/organization/brave-investment) - Brazil
 - [Bridges](https://www.bridges.com) - Canada
 - [Bright Funds](https://www.brightfunds.org) - USA
@@ -165,6 +170,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Canadian Careers](http://www.canadiancareers.com) - Canada
 - [Canadian Jobs](http://www.canadianjobs.com) - Canada
 - [Canonical](https://www.canonical.com) - Worldwide
+- [Canva](https://www.canva.com/careers/jobs)
 - [Capchase](https://www.capchase.com) - Worldwide
 - [Capital One](https://www.capitalonecareers.com/tech) - USA
 - [Carbon Black](https://www.carbonblack.com) - USA, Offices in Boston, MA
@@ -186,10 +192,12 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [CartStack](https://www.cartstack.com) - Worldwide
 - [CartoDB](https://cartodb.com) - Worldwide
 - [Casumo](https://www.casumo.com) - Europe
+- [Catho](http://www.catho.com.br)
 - [Celsius](https://celsius.network) - Worldwide
 - [Chargify](https://www.chargify.com) - USA
 - [Charity Village](http://www.charityvillage.com) - Canada
 - [ChatGen](https://chatgen.ai) - India, USA
+- [Check24](http://www.check24.de)
 - [Checkly](https://www.checklyhq.com) - Europe (CET -3 / CET +3)
 - [Chef](https://www.chef.io) - USA, UK
 - [ChefsClub](https://www.chefsclub.com.br) - Brazil
@@ -202,6 +210,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Clevertech](https://clevertech.biz) - Worldwide
 - [Close](https://close.com) - Worldwide
 - [CloudApp](https://getcloudapp.com) - North America
+- [CloudFlare](https://www.cloudflare.com/careers)
 - [CodePen](https://codepen.io) - Worldwide
 - [CodeSandbox](https://codesandbox.io) - Worldwide
 - [Codea IT](https://www.codeait.com) - Worldwide
@@ -211,6 +220,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Codestunts](https://codestunts.com) - Worldwide
 - [Cofense](https://cofense.com) - USA
 - [Coinbase](https://www.coinbase.com) - Worldwide
+- [Coinbase](https://www.coinbase.com/careers/positions)
 - [Colivre](https://colivre.coop.br) - Worldwide
 - [Collabera](https://collabera.jobs.net) - EUA
 - [Collabora](https://www.collabora.com) - Worldwide
@@ -226,23 +236,28 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Connexa](https://www.connexa.com) - Worldwide
 - [ConsenSys](https://consensys.net) - Worldwide
 - [Consumer Financial Protection Bureau](https://www.consumerfinance.gov) - USA
+- [Conta.mobi](http://conta.mobi)
 - [Contact Point](http://www.contactpoint.ca) - Canada
 - [Continu](https://www.continu.co) - USA
 - [Conversio](https://conversio.com) - Worldwide
 - [Convert](https://www.convert.com) - Worldwide
 - [Cool Jobs Canada](http://www.cooljobscanada.com) - Canada
+- [Cool blue](https://www.careersatcoolblue.com)
 - [Core Services Inc](http://www.coreservicesinc.com) - Canada
 - [Core-Apps](https://www.core-apps.com) - USA
 - [CoreOS](https://coreos.com) - USA
 - [Corgibytes](https://corgibytes.com) - USA East Coast
 - [Coroflot](http://www.coroflot.com/design-jobs) - EUA
+- [Course Hero](https://www.coursehero.com/jobs/#positions)
 - [Coursera](https://www.coursera.org) - USA, Canada
 - [CraigList](http://berlin.craigslist.de) - Germany
 - [Creative City Berlim](http://www.creative-city-berlin.de/en/jobs) - Germany
+- [Crediwire](https://crediwire.com)
 - [Crossover](https://www.crossover.com) - Worldwide
 - [CrowdTangle](https://crowdtangle.com) - USA
 - [Crowdstrike](https://www.crowdstrike.com) - Worldwide
 - [Crunch Board](http://www.crunchboard.com) - EUA
+- [Crypsis](https://careers.crypsisgroup.com/job-search)
 - [Crypto Currency Jobs](http://cryptocurrencyjobs.co) - WorldWide
 - [Crypto Jobs List](https://cryptojobslist.com) - WorldWide
 - [CryptoJobs](https://crypto.jobs) - WorldWide
@@ -251,6 +266,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Cyber Coders](http://www.cybercoders.com) - WorldWide
 - [Cyber Whale](https://cyberwhale.tech) - Europe
 - [DNSimple](https://dnsimple.com) - Worldwide
+- [Dafiti](https://www.dafiti.com.br)
 - [Daily Jobs](https://daily.jobs) - EUA
 - [Dalenys](https://dalenys.com) - Europe
 - [DappRadar](https://dappradar.com) - Worldwide
@@ -258,6 +274,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [DashboardHub](https://dashboardhub.io) - Worldwide
 - [Data Science Brigade](https://dsbrigade.com) - Worldwide
 - [DataCamp](https://www.datacamp.com) - Europe or comparable timezone
+- [DataDog](https://www.datadoghq.com)
 - [DataStax](https://www.datastax.com) - Worldwide
 - [Datadog](https://www.datadoghq.com) - Worldwide
 - [Datica](https://datica.com) - USA
@@ -278,8 +295,10 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Dis ag](http://www.dis-ag.com/dis/Pages/start.aspx) - Germany
 - [Discord](https://discord.com) - USA
 - [Discourse](https://www.discourse.org) - Worldwide
+- [Disney](https://jobs.disneycareers.com/search-jobs)
 - [Doc check](http://jobs.doccheck.com/de) - Germany
 - [Docker](https://www.docker.com) - USA
+- [Docler Holding](https://doclerholding.recruitee.com)
 - [Doist](https://doist.com) - Worldwide
 - [Dribbble](http://www.dribbble.com/jobs) - WorldWide
 - [DroneDeploy](https://www.dronedeploy.com) - Worldwide
@@ -287,11 +306,14 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Dubai Job Plus](http://www.dubaijobsplus.com) - WorldWide
 - [DuckDuckGo](https://duckduckgo.com) - Worldwide
 - [DynaPictures](https://dynapictures.com) - Worldwide
+- [E-goi](https://www.e-goi.com/br/vem-trabalhar-conosco)
 - [EBSCO Information Services](https://www.ebsco.com) - USA
 - [EFinancial Careers](https://www.efinancialcareers.co.uk) - WorldWide
 - [EU Recruit](https://eu-recruit.com) - England
 - [EVELO](https://evelo.com) - USA
 - [EarthOfDrones](https://earthofdrones.com) - Worldwide
+- [Easy Taxi](http://easytaxi.com.br)
+- [Ebanx](http://ebanx.com)
 - [Eco-Mind](https://eco-mind.eu) - Italy
 - [Edgar](https://meetedgar.com) - USA & Canada
 - [Edify](https://edify.cr) - Costa Rica & Worldwide
@@ -299,6 +321,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Education Canada](https://www.educationcanada.com) - Canada
 - [Elastic](https://www.elastic.co) - Worldwide
 - [Eluta](https://www.eluta.ca) - Canada
+- [Emesa](https://www.werkenbijemesa.nl)
 - [Empleate GOB ES](http://empleate.gob.es) - Spain
 - [Employ Remotely](https://www.employremotely.com/jobs) - WorldWide
 - [Employee IE](http://www.employee.ie) - Ireland
@@ -309,6 +332,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Empregos ORG](http://www.empregos.org) - Portugal
 - [Empregos](http://www.empregos.com.br) - Brazil
 - [Emsisoft](https://www.emsisoft.com) - Worldwide
+- [Endouble](http://endouble.com)
 - [EngineYard (Support Team)](https://www.engineyard.com) - Worldwide
 - [Enok](https://www.enok.co) - USA
 - [Entrision](https://entrision.com) - USA
@@ -321,11 +345,14 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Equal Experts Portugal](https://www.equalexperts.com/contact-us/lisbon) - Europe
 - [Ergeon](https://www.ergeon.com) - Worldwide
 - [Espace-Emploi](https://www.espace-emploi.ch/job-search) - Switzerland
+- [Estadão](http://estadao.com.br)
 - [Estately](https://www.estately.com) - USA
 - [Etch](https://www.etch.co) - UK, Europe
 - [Etsy](https://www.etsy.com) - Worldwide
+- [Etsy](https://www.etsy.com/careers#engineering)
 - [Euremote Jobs](https://euremotejobs.co) - Europe
 - [Evil Martians](https://evilmartians.com) - Worldwide
+- [Evino](http://jobs.kenoby.com/evino)
 - [Evrone](https://evrone.com) - Worldwide
 - [Expansion y Empleo](http://www.expansionyempleo.com) - Spain
 - [ExportData](https://www.exportdata.io) - Worldwide
@@ -335,6 +362,8 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [FATMAP](https://about.fatmap.com/careers) - Europe
 - [FFW Agency](https://ffwagency.com) - Worldwide
 - [FMX](https://www.gofmx.com) - USA
+- [FS](http://fs.com.br)
+- [Facebook](https://www.facebook.com/careers/jobs)
 - [FactorialHR](https://www.factorialhr.com) - Worldwide
 - [Fairwinds](https://www.fairwinds.com) - North America
 - [Faithlife](https://www.faithlife.com) - USA, Mexico
@@ -355,6 +384,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Flex Jobs](http://www.flexjobs.com) - WorldWide
 - [Flexera](https://www.flexera.com) - USA
 - [FlightAware](https://flightaware.com) - USA
+- [Flixbus](https://www.flixbus.com/company/jobs)
 - [Flowing](https://flowing.it) - Italy
 - [Focusnetworks](https://focusnetworks.com.br) - Worldwide
 - [Formidable](https://www.formidable.com) - USA, Canada, UK, Europe
@@ -369,6 +399,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Freelancermap](http://www.freelancermap.com) - WorldWide
 - [Freeletics](https://www.freeletics.com) - Germany, Poland, Portugal
 - [Fresh Gigs](http://www.freshgigs.ca) - Canada
+- [Fretebras](https://www.fretebras.com.br)
 - [Front Jobs](http://frontjobs.com.br) - Canada
 - [Frontend Developer Job](http://frontenddeveloperjob.com) - WorldWide
 - [Frontend Vagas - Github](https://github.com/frontendbr/vagas) - Brazil
@@ -387,6 +418,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Get Graphic Design Jobs](http://www.getgraphicdesignjobs.com) - EUA
 - [Get Photography jobs](http://www.getphotographyjobs.com) - Germany
 - [Get on Board](http://www.getonbrd.cl) - Chile
+- [GetYourGuide](https://careers.getyourguide.com)
 - [Ghost Foundation](https://ghost.org) - Worldwide
 - [Ghost Inspector](https://ghostinspector.com) - North America, Latin America, Caribbean
 - [Giant Swarm](https://giantswarm.io) - Europe
@@ -399,6 +431,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Glassdoor](https://www.glassdoor.com) - WorldWide
 - [Glenn Website Design](https://glennwebsitedesign.com) - Worldwide
 - [Glitch](https://www.glitch.com) - Worldwide
+- [Global Fashion Group](http://global-fashion-group.com)
 - [Gluware](https://gluware.com) - USA, United Kingdom
 - [Gnoma](http://gnoma.cl) - Chile
 - [GoHiring](https://www.gohiring.com) - Worldwide
@@ -409,6 +442,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [GotSoccer](https://www.gotpro.com) - USA
 - [Grafana Labs](https://grafana.com) - USA and EMEA/EST Timezones
 - [Graylog](https://www.graylog.org) - Worldwide
+- [Green Zone](https://apply.workable.com/greenzone-solutions-inc)
 - [Gremlin](https://gremlin.com) - USA
 - [Gridium](https://gridium.com) - USA
 - [Groove](https://www.groovehq.com) - Worldwide
@@ -420,6 +454,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Gruntwork](https://www.gruntwork.io) - Worldwide
 - [GuardianJobs](https://jobs.theguardian.com) - England
 - [GuideSmiths](https://www.guidesmiths.com) - Europe
+- [Guidewire Software](http://jobs.jobvite.com/careers/guidewire-software/jobs)
 - [Gum Tree](http://www.gumtree.com/jobs) - England
 - [Gun](http://www.gun.io/#hacker) - WorldWide
 - [Gurulink](http://www.gurulink.ca) - Canada
@@ -439,8 +474,10 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Head Hunters Directory](http://www.headhuntersdirectory.com) - Canada
 - [Headway](https://www.headway.io) - USA
 - [Healthfinch](https://www.healthfinch.com) - USA
+- [Heap](https://heap.io/careers/jobs)
 - [Heap](https://heapanalytics.com) - Worldwide
 - [Heetch](https://heetch.com) - Central Europe Time (CET) +/1h
+- [Helloprint](http://jobs.helloprint.com)
 - [Help Scout](https://www.helpscout.net) - Worldwide
 - [Help Unlimited](http://www.helpunlimited.ca) - Canada
 - [Heroku](https://www.heroku.com) - USA, CA, UK, Europe
@@ -454,16 +491,19 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Hnhiring](http://hnhiring.me) - WorldWide
 - [Hodes](http://www.hodes.com) - Canada
 - [Hogast Job](https://www.hogastjob.com) - Austria
+- [Home Refill](http://www.homerefill.com.br)
 - [HomeFlicWeGrow](https://homevalet.co) - India
 - [HomeValet](https://www.homeflicwegrow.com) - USA
 - [Honest lance](https://www.honestlance.com) - WorldWide
 - [Honeybadger](https://www.honeybadger.io) - Worldwide
 - [Honeycomb](https://honeycomb.tv) - Worldwide
 - [Hopper](https://www.hopper.com) - USA, CA, UK, BG, PH, CO
+- [Hotel Urbano](http://www.hotelurbano.com)
 - [Hotjar](https://careers.hotjar.com) - Worldwide
 - [Hrinfodesk](http://www.hrinfodesk.com) - Canada
 - [Hudl](https://www.hudl.com) - USA & UK
 - [Hugo](https://hugo.events) - Worldwide
+- [Human Direct](https://www.humandirect.eu/jobs)
 - [Human Made](https://hmn.md) - Worldwide
 - [Hunt](http://www.hunt.ca) - Canada
 - [Hypergiant](https://www.hypergiant.com/contact) - Worldwide
@@ -600,11 +640,16 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Leadership Success](https://www.leadershipsuccess.co) - Worldwide
 - [Leadfeeder](https://www.leadfeeder.com) - Europe & North America
 - [Learn4Good](https://www.learn4good.com/jobs) - Argentine
+- [LeaseWeb](https://www.leaseweb.com/career)
+- [Leroy Merlin](http://leroymerlin.com.br)
+- [Lesara](https://corporate.lesara.com/career)
 - [Let's Encrypt](https://letsencrypt.org) - USA and Canada
+- [Liberty Mutual group](https://jobs.libertymutualgroup.com/careers/digital-technology)
 - [Lifetime Value Company](https://www.ltvco.com) - Worldwide
 - [Lightbend](https://www.lightbend.com) - Worldwide
 - [Linaro](https://www.linaro.org) - Worldwide
 - [Lincoln Loop](https://lincolnloop.com) - USA
+- [Linio](http://linio.applytojob.com/apply)
 - [Link11](https://www.link11.org) - Germany
 - [Linkedin](https://www.linkedin.com/jobs/) - WorldWide
 - [Linux Foundation](https://www.linuxfoundation.org) - Worldwide
@@ -629,7 +674,9 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Marco Polo](https://marcopolo.me) - North America
 - [Marketade](https://www.marketade.com) ️- USA
 - [MarsBased](https://marsbased.com) - Worldwide
+- [MaxMilhas](http://www.maxmilhas.com.br)
 - [Maxicus](https://maxicus.com) - India
+- [Mckinsey](https://www.mckinsey.com/careers/search-jobs)
 - [Mediacurrent](https://www.mediacurrent.com) - USA
 - [Mediavine](https://www.mediavine.com) - USA
 - [Medium](https://medium.com) - USA
@@ -637,21 +684,27 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Memory](https://memory.ai) - Worldwide
 - [Mercari](https://about.mercari.com/en) - Japan
 - [Merico](https://merico.dev) - Worldwide
+- [MessageBird](https://www.messagebird.com/en/careers)
 - [MetaLab](https://metalab.co) - Worldwide
 - [MetaMask](https://metamask.io) - Worldwide
+- [Microsoft](https://careers.microsoft.com/us/en/search-results)
 - [Microsoft](https://www.microsoft.com) - Worldwide
 - [Mixcloud](https://www.mixcloud.com) - Europe
 - [Mixmax](https://mixmax.com) - Worldwide
 - [Mobile Jazz](https://mobilejazz.com) - Worldwide
+- [Mobly](https://jobs.kenoby.com/mobly)
 - [Modern Tribe](https://tri.be) - Worldwide
 - [Modsquad](https://modsquad.com) - Worldwide
 - [Molteo](https://molteo.com) - Worldwide
+- [Monetus](https://monetus.com.br/vagas)
 - [MongoDB](https://mongodb.com) - Worldwide
+- [MongoDB](https://www.mongodb.com/careers/departments)
 - [Monthly](https://monthly.com) - North America
 - [Mozilla](https://www.mozilla.org) - North America
 - [Muck Rack](https://muckrack.com) - Worldwide
 - [Mux](https://mux.com) - Worldwide
 - [MySQL](https://www.mysql.com) - Worldwide
+- [Méliuz](https://meliuz.gupy.io/)
 - [NBCC Consulting](http://nbcc-consulting.com) - Portugal
 - [NHS Jobs](https://www.jobs.nhs.uk) - England
 - [National e Vacature bank](https://www.nationalevacaturebank.nl) - Netherlands
@@ -675,6 +728,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Nuage](https://nuagebiz.tech) - India
 - [Nuna](https://www.nuna.com) - USA
 - [O'Reilly Media](https://www.oreilly.com) - USA, UK, JPN, CHN
+- [Ocado Group](https://www.ocadogroup.com/careers/search-and-apply?category=Engineering%20and%20technology)
 - [Octopus Deploy](https://octopus.com) - Worldwide
 - [Oddball](https://oddball.io) - USA
 - [Okta](https://www.okta.com) - Worldwide
@@ -701,6 +755,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [PHP Jobs](https://github.com/phpdevbr/vagas/issues) - Brazil
 - [PNC Financial Services](https://www.pnc.com) - USA
 - [PNET](https://www.pnet.co.za) - South Africa
+- [Pagarme](https://boards.greenhouse.io/pagarme)
 - [Pagepro](https://pagepro.co) - UK, PL, Europe
 - [PagerDuty](https://pagerduty.com) - USA
 - [Paktor](https://www.gopaktor.com) - Worldwide
@@ -722,6 +777,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [PeopleDoc](https://www.people-doc.com) - Europe
 - [Percona](https://www.percona.com) - Worldwide
 - [Pex](https://pex.com) - Worldwide
+- [PicPay](https://picpay.gupy.io)
 - [PicksCo](https://interchangehq.com) - UTC -7 to UTC +1
 - [Pitch ME](https://pitchme.co) - WorldWide
 - [Plai](https://plai.team) - Europe, North America
@@ -750,6 +806,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Progress Engine](https://www.progress-engine.com/en) - Worldwide
 - [Prominent Edge](https://prominentedge.com/careers) - Worldwide
 - [Provadis](https://www.provadis.de) - Germany
+- [Proxify](https://career.proxify.io/jobs)
 - [Puppet](https://puppet.com) - Worldwide
 - [Python Jobs Board](http://pythonjobs.github.io) - WorldWide
 - [Python Jobs HQ](https://www.pythonjobshq.com) - WorldWide
@@ -761,6 +818,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Rackspace](https://rackspace.com) - Worldwide
 - [Raft](https://goraft.tech) - USA
 - [Rainforest QA](https://www.rainforestqa.com/jobs) - Worldwide
+- [Rakuten](http://global.rakuten.com/en)
 - [Ramp](https://www.ramp.com) - Worldwide
 - [Randstad](http://www.randstad.ca) - Canada
 - [ReCharge](https://rechargepayments.com) - Worldwide
@@ -799,8 +857,10 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [RenoFi](https://renofi.com) - Worldwide
 - [Research Square](https://www.researchsquare.com) - USA
 - [Resumark](http://www.resumark.com) - Canada
+- [Ridgeline](https://www.ridgelineapps.com/careers)
 - [Roadtrippers](https://www.roadtrippers.com) - USA
 - [Robert Half](http://www.roberthalf.com) - EUA
+- [Rocket Career](https://www.myrocketcareer.com/Opportunities/Technology-Engineering)
 - [Rocket.Chat](https://rocket.chat) - Worldwide
 - [SUSE](https://www.suse.com) - Worldwide
 - [Safari Books Online](https://www.safaribooksonline.com) - Worldwide
@@ -812,6 +872,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Scopic Software](https://scopicsoftware.com) - Worldwide
 - [ScrapingBee](https://www.scrapingbee.com) - Worldwide
 - [Scrapinghub](https://scrapinghub.com) - Worldwide
+- [Scribbr](https://scribbr.homerun.co)
 - [ScyllaDB](https://scylladb.com) - Worldwide
 - [Seaplane](https://www.seaplane.io) - Worldwide
 - [SecurityScorecard](https://securityscorecard.com) - UTC -3 to -5
@@ -820,6 +881,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Seeq](https://www.seeq.com) - USA, Worldwide
 - [Semaphore](https://semaphoreci.com) - Europe
 - [Sensu](https://sensuapp.org) - USA and Canada
+- [Sentry](https://sentry.io/careers)
 - [SerpApi](https://serpapi.com) - Worldwide
 - [ServMask](https://servmask.com) - Worldwide
 - [Server Density](https://www.serverdensity.com) - Europe
@@ -827,6 +889,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Shareup](https://shareup.app) - Europe
 - [Shogun](https://getshogun.com) - Worldwide
 - [Shopify](https://www.shopify.com) - Worldwide
+- [Shopify](https://www.shopify.com/careers/search)
 - [SignEasy](https://getsigneasy.com) - Worldwide
 - [Silverfin](https://www.silverfin.com) - Worldwide
 - [SimpleTexting](https://simpletexting.com) - Worldwide
@@ -839,6 +902,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Skip the Drive](http://www.skipthedrive.com) - WorldWide
 - [Skyrocket Ventures](https://www.skyrocketventures.com) - Worldwide
 - [Slack jobs](https://slack.com/jobs) - WorldWide
+- [Slack](https://slack.com/intl/en-br/careers)
 - [Slackatwork](http://slackatwork.com) - WorldWide
 - [SmartCash](https://www.smartcash.cc) - Worldwide
 - [Smashing Magazin](http://www.smashingmagazine.com/jobs) - EUA
@@ -848,14 +912,17 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [SoftwareMill](https://softwaremill.com) - Europe
 - [Soostone](https://www.soostone.com) - USA
 - [Soshace](https://www.soshace.com) - Worldwide
+- [SpeakAp](https://speakap.com/en/speakap_jobs)
 - [Spoqa](https://www.spoqa.com) - Republic of Korea, Japan
 - [Spotify](https://www.spotify.com) - Worldwide
 - [Spreaker](https://spreaker.com) - US - Europe
 - [Spreedly](https://spreedly.com) - USA
+- [Spring Board](https://www.springboard.com/join-us#educators)
 - [Sprint CV Jobs](https://www.sprintcv.com/it-jobs) - WorldWide
 - [Spruce](https://getspruce.com) - North America, Latin America
 - [Stack Exchange](https://stackexchange.com) - Worldwide
 - [Stackoverflow Jobs](http://www.stackoverflow.com/jobs) - WorldWide
+- [Stackpath](https://www.stackpath.com/company/careers)
 - [Stairlin](https://www.stairlin.com) - Worldwide
 - [Start-up Jobs Dublin](http://dublinstartupjobs.com) - Ireland
 - [Startup Jobs](https://startup.jobs) - WorldWide
@@ -871,12 +938,14 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [StreamNative](https://streamnative.io/careers) - Worldwide
 - [Stripe](https://stripe.com) - Worldwide
 - [StudySoup](https://studysoup.com) - Worldwide
+- [Studydrive](https://www.studydrive.net/company/studydrive-gmbh)
 - [Superplayer & Co](https://www.superplayer.co) - Brazil, Latin America
 - [Surevine](https://www.surevine.com) - United Kingdom
 - [Sutherland CloudSource](https://www.sutherlandcloudsource.com) - Worldwide
 - [SweetRush](https://www.sweetrush.com) - Worldwide
 - [Swimlane](https://www.swimlane.com) - USA
 - [Swiss Dev Jobs](https://swissdevjobs.ch) - Switzerland
+- [Sympla](http://www.sympla.com.br)
 - [Sysdig](https://www.sysdig.org)️ - WorldWide
 - [TED](https://www.ted.com) - USA, CA, Brazil
 - [Tag1 Consulting](https://tag1consulting.com) - Worldwide
@@ -903,11 +972,13 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Tenable](https://www.tenable.com) - Worldwide, Primarily USA
 - [Test Double](https://testdouble.com) - North America
 - [The Grid](https://thegrid.io) - Worldwide
+- [The Iconic](http://www.theiconic.com.au/opportunities)
 - [The Ladders](http://www.theladders.com) - Canada
 - [The Local](http://www.thelocal.de) - Germany
 - [The Muse](http://www.themuse.com/jobs) - WorldWide
 - [The Publisher Desk](https://www.publisherdesk.com) - UK and US
 - [The Scale Factory](https://www.scalefactory.com) - UK
+- [The Score](https://recruiting.ultipro.ca/SCO5000SCMV/JobBoard/99d4bf42-8955-9620-7bb8-7cc818df97c1/?q=&o=postedDateDesc)
 - [The Stamford Group](http://thestamfordgroup.com) - Switzerland
 - [The Wirecutter](https://thewirecutter.com) - Worldwide
 - [The hub](https://thehub.io/job) - Europe
@@ -917,6 +988,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Third Iron](https://thirdiron.com) - USA
 - [Thorn](https://thorn.org) - USA
 - [Ti Jobs](http://www.tijobs.com.br) - Brazil
+- [TicketSwap](https://ticketswap.homerun.co)
 - [TimeSpot](https://timespothq.com) - Worldwide
 - [Tipe](https://tipe.io) - USA
 - [Toast](https://pos.toasttab.com) - USA and Ireland
@@ -932,12 +1004,14 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Trampos CO](http://www.trampos.co) - Brazil
 - [Transition Technologies - Advanced Solutions](https://www.ttas.pl) - Poland
 - [Transloadit](https://transloadit.com) - Worldwide
+- [Travanto](https://www.travanto.de/unternehmen/jobs)
 - [Travis CI](https://travis-ci.org) - Worldwide
 - [Travis](https://travistravis.co) - Worldwide
 - [Treehouse](https://teamtreehouse.com) - USA
 - [Treff Punkt](https://www.treffpunkt-arbeit.ch/home/job-seeker) - Switzerland
 - [Trello](https://trello.com) - Asia, Europe, North America, Oceania
 - [Triga Consulting](http://www.triga-consulting.de) - Germany
+- [Trivago](http://company.trivago.com/jobs)
 - [Truelogic](https://www.truelogicsoftware.com) - Latin America
 - [TrussWorks](https://truss.works) - USA
 - [Tuft & Needle](https://www.tuftandneedle.com) - USA
@@ -945,6 +1019,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [USAA](https://usaa.com) - USA
 - [Udacity](https://www.udacity.com) - Worldwide
 - [Uhuru](https://uhurunetwork.com) - Worldwide
+- [Ultracon Carreiras](https://ultracon.zohorecruit.com/careers)
 - [Uncapped](https://weareuncapped.com) - Europe, USA
 - [Underdog](http://underdog.io) - EUA
 - [Undutchables](https://undutchables.nl) - Netherlands
@@ -952,6 +1027,8 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Upwork Pro](https://www.upwork.com) - North America
 - [Upwork](http://www.upwork.com) - WorldWide
 - [Upworthy](https://www.upworthy.com) - Worldwide, Time Zone: PST, PDT
+- [Urbanara](https://careers.jobscore.com/careers/urbanara)
+- [Usabillla](https://jobs.usabilla.com)
 - [Ushahidi](https://www.ushahidi.com) - Worldwide
 - [VSHN](https://vshn.ch/jobs)️️ - Switzerland
 - [Vaga Colaborativa](http://www.vagacolaborativa.com.br) - Brazil
@@ -968,8 +1045,10 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Veryfi](https://veryfi.com/about) - Worldwide
 - [Vettery](https://www.vettery.com) - WorldWide
 - [Viperdev](https://viperdev.io) - Worldwide
+- [Virtual Gym](https://virtuagym.com/software/en/jobs)
 - [Virtual Vocations](http://www.virtualvocations.com/jobs) - WorldWide
 - [Vivid Resourcing](https://www.vividresourcing.com/job-result) - Europe
+- [Vonq](https://www.vonq.com)
 - [Vox Media (Product Team)](https://www.voxmedia.com) - USA, UK
 - [Voxy](https://boards.greenhouse.io/voxy)️️ - Brazil, USA
 - [Vtrac](http://www.vtrac.com) - Canada
@@ -979,6 +1058,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [WP Hired](http://www.wphired.com) - WorldWide
 - [WP-Media](https://wp-media.me) - Worldwide
 - [WalletHub](https://wallethub.com/jobs) - USA
+- [Wappa](https://br.linkedin.com/company/wappa-taxi/careers)
 - [We Work Remotely](http://www.weworkremotely.com) - WorldWide
 - [WeJob.ch](https://wejob.ch) - Switzerland
 - [WeMakeMVP](https://www.wemakemvp.com) - Worldwide
@@ -986,6 +1066,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [WebFX](https://www.webfx.com) - Worldwide
 - [Webikon](https://www.webikon.sk/en) - Worldwide
 - [Wells Fargo](https://www.wellsfargo.com) -WorldWide
+- [Werkspot](https://www.careersatwerkspot.com)
 - [West force Canada](http://www.westforcecanada.com) - Canada
 - [Whitecap SEO](https://www.whitecapseo.com) - USA
 - [Whitespectre](https://whitespectre.com) - Worldwide
@@ -994,6 +1075,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Wildbit](https://wildbit.com) - USA & Worldwide
 - [Wizeline](https://www.wizeline.com) - Worldwide
 - [Wolfram](https://www.wolfram.com) - Worldwide
+- [Wolfram](https://www.wolfram.com/company/careers/opportunities)
 - [Wombat Security Technologies](https://www.wombatsecurity.com) - USA
 - [Work BC](https://www.workbc.ca) - Canada
 - [Work in Denmark](https://www.workindenmark.dk) - Denmark
@@ -1016,6 +1098,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Yonder](https://www.yonder.io) - Worldwide
 - [You Need A Budget](https://www.youneedabudget.com) - Worldwide
 - [YouCanBook.me Ltd](https://youcanbook.me) - Worldwide
+- [Zalando](https://jobs.zalando.com)
 - [Zapier](https://zapier.com) - Worldwide
 - [Zeit.io](https://zeit.io) - Germany, The Netherlands, Spain, Chile
 - [Zero to one Search](https://jobs.zerotoonesearch.com/careers) - Germany
