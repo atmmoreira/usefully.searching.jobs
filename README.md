@@ -10,12 +10,6 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 
 <br />
 
-# Lista de empresas que contratam profissionais remotamente
-
-» [List of companies hiring remotely](https://docs.google.com/spreadsheets/d/1wZEx8plCn2cAHo9TY5Z5NGb3VBjuvkupSZ1miLM8cEQ/edit#gid=397298860)
-
-<br />
-
 # Empresas no Mundo para trabalhos remotos
 
 » [Remote Job Worldwide](https://github.com/remoteintech/remote-jobs)
@@ -30,97 +24,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 
 # Sites para cadastro e/ou envio de currículo
 
-| País | Moeda | Website | Link Acesso
-|-|-|-|-|
-|-|-|About you|[`Acessar Site`](https://corporate.aboutyou.de/en/departments/tech)|
-|-|-|Algolia|[`Acessar Site`](https://www.algolia.com/careers)|
-|-|-|Amaro|[`Acessar Site`](https://about.amaro.com/jobs)|
-|-|-|Amazon Web Service|[`Acessar Site`](https://www.amazon.jobs/en)|
-|-|-|Appian|[`Acessar Site`](https://www.appian.com/careers/search)|
-|-|-|Arizona|[`Acessar Site`](http://arizona.global)|
-|-|-|Auth0|[`Acessar Site`](https://auth0.com/careers/positions)|
-|-|-|Autodesk|[`Acessar Site`](https://autodesk.rolepoint.com)|
-|-|-|Automattic|[`Acessar Site`](https://automattic.com/work-with-us)|
-|-|-|Badoo|[`Acessar Site`](https://team.badoo.com/jobs/all-positions)|
-|-|-|Bounteous|[`Acessar Site`](https://jobs.lever.co/bounteous)|
-|-|-|Canva|[`Acessar Site`](https://www.canva.com/careers/jobs)|
-|-|-|Catho|[`Acessar Site`](http://www.catho.com.br)|
-|-|-|Check24|[`Acessar Site`](http://www.check24.de)|
-|-|-|CloudFlare|[`Acessar Site`](https://www.cloudflare.com/careers)|
-|-|-|Coinbase|[`Acessar Site`](https://www.coinbase.com/careers/positions)|
-|-|-|Conta.mobi|[`Acessar Site`](http://conta.mobi)|
-|-|-|Cool blue|[`Acessar Site`](https://www.careersatcoolblue.com)|
-|-|-|Course Hero|[`Acessar Site`](https://www.coursehero.com/jobs/#positions)|
-|-|-|Crediwire|[`Acessar Site`](https://crediwire.com)|
-|-|-|Crypsis|[`Acessar Site`](https://careers.crypsisgroup.com/job-search)|
-|-|-|Dafiti|[`Acessar Site`](https://www.dafiti.com.br)|
-|-|-|DataDog|[`Acessar Site`](https://www.datadoghq.com)|
-|-|-|Disney|[`Acessar Site`](https://jobs.disneycareers.com/search-jobs)|
-|-|-|Docler Holding|[`Acessar Site`](https://doclerholding.recruitee.com)|
-|-|-|E-goi|[`Acessar Site`](https://www.e-goi.com/br/vem-trabalhar-conosco)|
-|-|-|Easy Taxi|[`Acessar Site`](http://easytaxi.com.br)|
-|-|-|Ebanx|[`Acessar Site`](http://ebanx.com)|
-|-|-|Emesa|[`Acessar Site`](https://www.werkenbijemesa.nl)|
-|-|-|Endouble|[`Acessar Site`](http://endouble.com)|
-|-|-|Estadão|[`Acessar Site`](http://estadao.com.br)|
-|-|-|Etsy|[`Acessar Site`](https://www.etsy.com/careers#engineering)|
-|-|-|Evino|[`Acessar Site`](http://jobs.kenoby.com/evino)|
-|-|-|FS|[`Acessar Site`](http://fs.com.br)|
-|-|-|Facebook|[`Acessar Site`](https://www.facebook.com/careers/jobs)|
-|-|-|Flixbus|[`Acessar Site`](https://www.flixbus.com/company/jobs)|
-|-|-|Fretebras|[`Acessar Site`](https://www.fretebras.com.br)|
-|-|-|GetYourGuide|[`Acessar Site`](https://careers.getyourguide.com)|
-|-|-|Global Fashion Group|[`Acessar Site`](http://global-fashion-group.com)|
-|-|-|Green Zone|[`Acessar Site`](https://apply.workable.com/greenzone-solutions-inc)|
-|-|-|Guidewire Software|[`Acessar Site`](http://jobs.jobvite.com/careers/guidewire-software/jobs)|
-|-|-|Heap|[`Acessar Site`](https://heap.io/careers/jobs)|
-|-|-|Helloprint|[`Acessar Site`](http://jobs.helloprint.com)|
-|-|-|Home Refill|[`Acessar Site`](http://www.homerefill.com.br)|
-|-|-|Hotel Urbano|[`Acessar Site`](http://www.hotelurbano.com)|
-|-|-|Human Direct|[`Acessar Site`](https://www.humandirect.eu/jobs)|
-|-|-|LeaseWeb|[`Acessar Site`](https://www.leaseweb.com/career)|
-|-|-|Leroy Merlin|[`Acessar Site`](http://leroymerlin.com.br)|
-|-|-|Lesara|[`Acessar Site`](https://corporate.lesara.com/career)|
-|-|-|Liberty Mutual group|[`Acessar Site`](https://jobs.libertymutualgroup.com/careers/digital-technology)|
-|-|-|Linio|[`Acessar Site`](http://linio.applytojob.com/apply)|
-|-|-|MaxMilhas|[`Acessar Site`](http://www.maxmilhas.com.br)|
-|-|-|Mckinsey|[`Acessar Site`](https://www.mckinsey.com/careers/search-jobs)|
-|-|-|MessageBird|[`Acessar Site`](https://www.messagebird.com/en/careers)|
-|-|-|Microsoft|[`Acessar Site`](https://careers.microsoft.com/us/en/search-results)|
-|-|-|Mobly|[`Acessar Site`](https://jobs.kenoby.com/mobly)|
-|-|-|Monetus|[`Acessar Site`](https://monetus.com.br/vagas)|
-|-|-|MongoDB|[`Acessar Site`](https://www.mongodb.com/careers/departments)|
-|-|-|Méliuz|[`Acessar Site`](https://meliuz.gupy.io/)|
-|-|-|Ocado Group|[`Acessar Site`](https://www.ocadogroup.com/careers/search-and-apply?category=Engineering%20and%20technology)|
-|-|-|Pagarme|[`Acessar Site`](https://boards.greenhouse.io/pagarme)|
-|-|-|PicPay|[`Acessar Site`](https://picpay.gupy.io)|
-|-|-|Proxify|[`Acessar Site`](https://career.proxify.io/jobs)|
-|-|-|Rakuten|[`Acessar Site`](http://global.rakuten.com/en)|
-|-|-|Ridgeline|[`Acessar Site`](https://www.ridgelineapps.com/careers)|
-|-|-|Rocket Career|[`Acessar Site`](https://www.myrocketcareer.com/Opportunities/Technology-Engineering)|
-|-|-|Scribbr|[`Acessar Site`](https://scribbr.homerun.co)|
-|-|-|Sentry|[`Acessar Site`](https://sentry.io/careers)|
-|-|-|Shopify|[`Acessar Site`](https://www.shopify.com/careers/search)|
-|-|-|Slack|[`Acessar Site`](https://slack.com/intl/en-br/careers)|
-|-|-|SpeakAp|[`Acessar Site`](https://speakap.com/en/speakap_jobs)|
-|-|-|Spring Board|[`Acessar Site`](https://www.springboard.com/join-us#educators)|
-|-|-|Stackpath|[`Acessar Site`](https://www.stackpath.com/company/careers)|
-|-|-|Studydrive|[`Acessar Site`](https://www.studydrive.net/company/studydrive-gmbh)|
-|-|-|Sympla|[`Acessar Site`](http://www.sympla.com.br)|
-|-|-|The Iconic|[`Acessar Site`](http://www.theiconic.com.au/opportunities)|
-|-|-|The Score|[`Acessar Site`](https://recruiting.ultipro.ca/SCO5000SCMV/JobBoard/99d4bf42-8955-9620-7bb8-7cc818df97c1/?q=&o=postedDateDesc)|
-|-|-|TicketSwap|[`Acessar Site`](https://ticketswap.homerun.co)|
-|-|-|Travanto|[`Acessar Site`](https://www.travanto.de/unternehmen/jobs)|
-|-|-|Trivago|[`Acessar Site`](http://company.trivago.com/jobs)|
-|-|-|Ultracon Carreiras|[`Acessar Site`](https://ultracon.zohorecruit.com/careers)|
-|-|-|Urbanara|[`Acessar Site`](https://careers.jobscore.com/careers/urbanara)|
-|-|-|Usabillla|[`Acessar Site`](https://jobs.usabilla.com)|
-|-|-|Virtual Gym|[`Acessar Site`](https://virtuagym.com/software/en/jobs)|
-|-|-|Vonq|[`Acessar Site`](https://www.vonq.com)|
-|-|-|Wappa|[`Acessar Site`](https://br.linkedin.com/company/wappa-taxi/careers)|
-|-|-|Werkspot|[`Acessar Site`](https://www.careersatwerkspot.com)|
-|-|-|Wolfram|[`Acessar Site`](https://www.wolfram.com/company/careers/opportunities)|
-|-|-|Zalando|[`Acessar Site`](https://jobs.zalando.com)|
+» [Lista de Sites](./sites-cadastro.md)
 
 <br />
 
@@ -128,438 +32,1019 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 
 <br />
 
-| Website | Link Acesso | País | Moeda |
-|-|-|-|-|
-| 6 Figures | [`Acessar Site`](www.6figures.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| 6 Nomads | [`Acessar Site`](https://6nomads.com/resources/remotejob) | Euro » Dolar | ![World](flags/location.png "World") |
-| 99Freelas | [`Acessar Site`](https://www.99freelas.com.br) | Reais | ![Brasil](flags/brasil.png "Brasil") |
-| ADP Jobs | [`Acessar Site`](https://jobs.adp.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| Absolventa | [`Acessar Site`](https://www.absolventa.de/jobs/channel/it) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
-| Acsess | [`Acessar Site`](https://www.acsess.org) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Adecco CA | [`Acessar Site`](https://www.adecco.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Adecco CH | [`Acessar Site`](https://www.adecco.ch) | Franco Suíço | ![Suíça](flags/suica.png "Suíça") |
-| Adria Solutions | [`Acessar Site`](http://www.adriasolutions.co.uk) | Libra Esterlina | ![Inglaterra](flags/inglaterra.png "Inglaterra") |
-| Adzuna | [`Acessar Site`](http://www.adzuna.com.au) | Dolar Australiano | ![Austrália](flags/australia.png "Austrália") |
-| All Star Jobs | [`Acessar Site`](https://www.allstarjobs.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Angel CO | [`Acessar Site`](http://www.angel.co) | Euro » Dolar | ![World](flags/location.png "World") |
-| Apinfo | [`Acessar Site`](http://www.apinfo.com/apinfo) | Reais | ![Brasil](flags/brasil.png "Brasil") |
-| Apply Now AU | [`Acessar Site`](http://www.applynow.com.au) | Dolar Australiano | ![Austrália](flags/australia.png "Austrália") |
-| Aquent | [`Acessar Site`](http://aquent.com/find-work) | Dolar | ![EUA](flags/eua.png "EUA") |
-| Arbeitsagentur | [`Acessar Site`](http://www.arbeitsagentur.de) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
-| Authentic Jobs | [`Acessar Site`](http://authenticjobs.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| Auto Jobs | [`Acessar Site`](https://www.auto-jobs.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| BC Jobs | [`Acessar Site`](https://www.bcjobs.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| BNE | [`Acessar Site`](https://www.bne.cl) | Chilean Peso | ![Chile](flags/chile.png "Chile") |
-| BeBee | [`Acessar Site`](https://www.bebee.com/) | The country | ![World](flags/location.png "World") |
-| Behance Jobs | [`Acessar Site`](http://www.behance.net/joblist) | Euro » Dolar | ![World](flags/location.png "World") |
-| Bep | [`Acessar Site`](https://www.bep.gov.pt/default.aspx) | Euro | ![Portugal](flags/portugal.png "Portugal") |
-| Berlin Statup Jobs | [`Acessar Site`](http://berlinstartupjobs.com) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
-| Best Jobs CA | [`Acessar Site`](https://www.bestjobsca.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Betalist | [`Acessar Site`](http://betalist.com/jobst) | Euro » Dolar | ![World](flags/location.png "World") |
-| Blossom Bridge | [`Acessar Site`](https://blossombridge.com/) | Euro | ![Portugal](flags/portugal.png "Portugal") |
-| Bot Jobs | [`Acessar Site`](http://botjobs.io) | Euro » Dolar | ![World](flags/location.png "World") |
-| Bridges | [`Acessar Site`](https://www.bridges.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Bumeran | [`Acessar Site`](https://www.bumeran.com.ar/) | Peso Argentino » Dolar | ![Argentina](flags/argentine.png "Argentina") |
-| Buscojobs | [`Acessar Site`](https://www.buscojobs.cl) | Chilean Peso | ![Chile](flags/chile.png "Chile") |
-| CGI | [`Acessar Site`](https://cgi.njoyn.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| CV Keskus | [`Acessar Site`](https://www.cvkeskus.ee) | Euro | ![Estonia](flags/estonia.png "Estonia") |
-| CV Library | [`Acessar Site`](https://www.cv-library.co.uk/aff/102400) | Libra Esterlina | ![Inglaterra](flags/inglaterra.png "Inglaterra") |
-| CV | [`Acessar Site`](https://www.cv.ee) | Euro | ![Estonia](flags/estonia.png "Estonia") |
-| CW Jobs UK | [`Acessar Site`](http://www.cwjobs.co.uk) | Libra Esterlina | ![Inglaterra](flags/inglaterra.png "Inglaterra") |
-| Canada Jobs | [`Acessar Site`](www.canadajobs.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Canada infonet | [`Acessar Site`](www.canadainfonet.org) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Canada job Expo | [`Acessar Site`](www.canadajobexpo.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Canadainfonet | [`Acessar Site`](https://www.canadainfonet.org) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Canadian Careers | [`Acessar Site`](www.canadiancareers.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Canadian Jobs | [`Acessar Site`](www.canadianjobs.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Careego | [`Acessar Site`](www.careego.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Career Beacon | [`Acessar Site`](https://www.careerbeacon.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Career Builder | [`Acessar Site`](https://www.careerbuilder.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Career Edge | [`Acessar Site`](www.careeredge.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Career Edge | [`Acessar Site`](www.careeredge.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Career Luxoft | [`Acessar Site`](https://career.luxoft.com/) | Euro » Dolar | ![Europe](flags/european-union.png "Europe") |
-| Career Junction | [`Acessar Site`](https://www.careerjunction.co.za) | Rand » Dolar | ![África do Sul](flags/south-africa.png "África do Sul") |
-| Career Key | [`Acessar Site`](www.careerkey.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| CareerJet PT | [`Acessar Site`](http://www.careerjet.pt) | Euro | ![Portugal](flags/portugal.png "Portugal") |
-| Careeraim | [`Acessar Site`](www.careeraim.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Careers 24 | [`Acessar Site`](https://www.careers24.com) | Rand » Dolar | ![África do Sul](flags/south-africa.png "África do Sul") |
-| Careers Google | [`Acessar Site`](http://www.careers.google.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| Carga de Trabalhos | [`Acessar Site`](http://www.cargadetrabalhos.net) | Euro | ![Portugal](flags/portugal.png "Portugal") |
-| Charity Village | [`Acessar Site`](www.charityvillage.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Chile Trabajos | [`Acessar Site`](https://www.chiletrabajos.cl) | Chilean Peso | ![Chile](flags/chile.png "Chile") |
-| Cisystems | [`Acessar Site`](www.cisystems.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Codepen Jobs | [`Acessar Site`](https://codepen.io/jobs) | Dolar | ![EUA](flags/eua.png "EUA") |
-| Codestunts | [`Acessar Site`](https://codestunts.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| Collabera | [`Acessar Site`](https://collabera.jobs.net) | Dolar | ![EUA](flags/eua.png "EUA") |
-| College Recruiter | [`Acessar Site`](http://www.collegerecruiter.com/) | Dolar | ![EUA](flags/eua.png "EUA") |
-| Comoequetala | [`Acessar Site`](http://www.comoequetala.com.br) | Reais | ![Brasil](flags/brasil.png "Brasil") |
-| CompuTrabajo | [`Acessar Site`](https://www.computrabajo.cl) | Chilean Peso | ![Chile](flags/chile.png "Chile") |
-| Computer Jobs | [`Acessar Site`](http://www.computerjobs.com) | Dolar | ![EUA](flags/eua.png "EUA") |
-| Computer World | [`Acessar Site`](https://www.computerworld.com.pt/emprego) | Euro | ![Portugal](flags/portugal.png "Portugal") |
-| Connecticum | [`Acessar Site`](http://www.connecticum.de) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
-| Contact Point | [`Acessar Site`](www.contactpoint.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Cool Jobs Canada | [`Acessar Site`](www.cooljobscanada.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Core Services Inc | [`Acessar Site`](www.coreservicesinc.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Coroflot | [`Acessar Site`](http://www.coroflot.com/design-jobs) | Dolar | ![EUA](flags/eua.png "EUA") |
-| CraigList | [`Acessar Site`](http://berlin.craigslist.de) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
-| Creative City Berlim | [`Acessar Site`](http://www.creative-city-berlin.de/en/jobs) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
-| Crunch Board | [`Acessar Site`](http://www.crunchboard.com) | Dolar | ![EUA](flags/eua.png "EUA") |
-| Crypto Currency Jobs | [`Acessar Site`](http://cryptocurrencyjobs.co) | Euro » Dolar | ![World](flags/location.png "World") |
-| Crypto Jobs List | [`Acessar Site`](https://cryptojobslist.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| CryptoJobs | [`Acessar Site`](https://crypto.jobs) | Euro » Dolar | ![World](flags/location.png "World") |
-| Cyber Coders | [`Acessar Site`](http://www.cybercoders.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| Daily Jobs | [`Acessar Site`](https://daily.jobs) | Dolar | ![EUA](flags/eua.png "EUA") |
-| Design made in Germany| [`Acessar Site`](http://www.designmadeingermany.de/jobs) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
-| DevITjobs UK | [`Acessar Site`](https://devitjobs.uk) | Libra Esterlina | ![Inglaterra](flags/inglaterra.png "Inglaterra") |
-| DevRemoto | [`Acessar Site`](https://devremoto.club/) | Reais | ![Brasil](flags/brasil.png "Brasil") |
-| Dellent Consulting | [`Acessar Site`](https://dellentconsulting.com/careers) | Euros | ![Brasil](flags/portugal.png "Portugal") |
-| Dhire | [`Acessar Site`](http://www.dhire.com.br) | Reais | ![Brasil](flags/brasil.png "Brasil") |
-| Dice | [`Acessar Site`](www.dice.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Direct Jobs | [`Acessar Site`](www.directjobs.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Dis ag | [`Acessar Site`](http://www.dis-ag.com/dis/Pages/start.aspx) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
-| Doc check | [`Acessar Site`](http://jobs.doccheck.com/de/) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
-| Dribbble | [`Acessar Site`](http://www.dribbble.com/jobs) | Euro » Dolar | ![World](flags/location.png "World") |
-| Dubai Job Plus | [`Acessar Site`](http://www.dubaijobsplus.com/) | Euro » Dolar | ![World](flags/location.png "World") |
-| EFinancial Careers | [`Acessar Site`](https://www.efinancialcareers.co.uk) | Euro » Dolar | ![World](flags/location.png "World") |
-| EU Recruit | [`Acessar Site`](https://eu-recruit.com) | Libra Esterlina | ![Inglaterra](flags/inglaterra.png "Inglaterra") |
-| Edit Recrutamento | [`Acessar Site`](https://edit.com.pt/recrutamento/) | Euro | ![Portugal](flags/portugal.png "Portugal") |
-| Education Canada | [`Acessar Site`](www.educationcanada.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Eluta | [`Acessar Site`](www.eluta.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Empleate GOB ES | [`Acessar Site`](http://empleate.gob.es) | Euro | ![Espanha](flags/espanha.png "Espanha") |
-| Employ Remotely | [`Acessar Site`](https://www.employremotely.com/jobs) | Euro » Dolar | ![World](flags/location.png "World") |
-| Employee IE | [`Acessar Site`](http://www.employee.ie) | Euro | ![Irlanda](flags/irlanda.png "Irlanda") |
-| Emprego Net | [`Acessar Site`](http://www.emprego.net) | Reais | ![Brasil](flags/brasil.png "Brasil") |
-| Emprego PT | [`Acessar Site`](http://www.emprego.pt) | Euro | ![Portugal](flags/portugal.png "Portugal") |
-| Emprego Sapo | [`Acessar Site`](http://emprego.sapo.pt) | Euro | ![Portugal](flags/portugal.png "Portugal") |
-| Emprego XL PT | [`Acessar Site`](http://www.empregoxl.com) | Euro | ![Portugal](flags/portugal.png "Portugal") |
-| Empregos ORG | [`Acessar Site`](http://www.empregos.org) | Euro | ![Portugal](flags/portugal.png "Portugal") |
-| Empregos | [`Acessar Site`](http://www.empregos.com.br) | Reais | ![Brasil](flags/brasil.png "Brasil") |
-| Espace-Emploi | [`Acessar Site`](https://www.espace-emploi.ch/job-search) | Franco Suíço | ![Suíça](flags/suica.png "Suíça") |
-| Euremote Jobs | [`Acessar Site`](https://euremotejobs.co) | Euro | ![Europe](flags/european-union.png "Europe") |
-| Europe Remotely | [`Acessar Site`](http://europeremotely.co) | Euro | ![Europe](flags/european-union.png "Europe") |
-| Europe Remotely | [`Acessar Site`](https://europeremotely.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| Evolution | [`Acessar Site`](https://www.evolutionjobs.co) | Euro | ![Europe](flags/european-union.png "Europe") |
-| Expansion y Empleo | [`Acessar Site`](http://www.expansionyempleo.com) | Euro | ![Espanha](flags/espanha.png "Espanha") |
-| F6S | [`Acessar Site`](http://www.f6s.com/jobs) | Euro » Dolar | ![World](flags/location.png "World") |
-| FAS | [`Acessar Site`](http://www.fas.ie/en) | Euro | ![Irlanda](flags/irlanda.png "Irlanda") |
-| Fep Search Group | [`Acessar Site`](www.fepsearchgroup.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Fienst Jobs | [`Acessar Site`](http://www.finest-jobs.com) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
-| Find Bacon | [`Acessar Site`](https://findbacon.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| Flat World | [`Acessar Site`](https://flatworld.co/jobs) | Euro » Dolar | ![World](flags/location.png "World") |
-| Flex Jobs | [`Acessar Site`](http://www.flexjobs.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| Foss Jobs | [`Acessar Site`](http://www.fossjobs.net) | Euro » Dolar | ![World](flags/location.png "World") |
-| Foxtekrs | [`Acessar Site`](https://www.foxtekrs.com/) | Euro | ![Holanda](flags/holanda.png "Holanda") |
-| Frauen Jobs | [`Acessar Site`](https://frauenjobs.ch) | Franco Suíço | ![Suíça](flags/suica.png "Suíça") |
-| Freelancer | [`Acessar Site`](http://www.freelancer.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| Freelancermap | [`Acessar Site`](http://www.freelancermap.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| Fresh Gigs | [`Acessar Site`](www.freshgigs.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Front Jobs | [`Acessar Site`](http://frontjobs.com.br/) | Reais | ![Brasil](flags/brasil.png "Brasil") |
-| Frontend Developer Job | [`Acessar Site`](http://frontenddeveloperjob.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| Frontend Vagas - Github | [`Acessar Site`](https://github.com/frontendbr/vagas/) | Reais | ![Brasil](flags/brasil.png "Brasil") |
-| Functional Jobs | [`Acessar Site`](http://functionaljobs.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| Geek Hunter | [`Acessar Site`](http://www.geekhunter.com.br) | Reais | ![Brasil](flags/brasil.png "Brasil") |
-| Geography Jobs | [`Acessar Site`](www.geographyjobs.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| German Jobs | [`Acessar Site`](http://www.germanjobs.net/index.php) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
-| GermanTech Jobs | [`Acessar Site`](https://germantechjobs.de) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
-| Get Graphic Design Jobs | [`Acessar Site`](http://www.getgraphicdesignjobs.com) | Dolar | ![EUA](flags/eua.png "EUA") |
-| Get Photography jobs | [`Acessar Site`](http://www.getphotographyjobs.com) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
-| Get on Board | [`Acessar Site`](http://www.getonbrd.cl) | Chilean Peso | ![Chile](flags/chile.png "Chile") |
-| Glassdoor | [`Acessar Site`](https://www.glassdoor.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| Glassdoor | [`Acessar Site`](www.glassdoor.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Gnoma | [`Acessar Site`](http://gnoma.cl) | Chilean Peso | ![Chile](flags/chile.png "Chile") |
-| Goodland | [`Acessar Site`](https://en.goodland.io) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Goldman Tech | [`Acessar Site`](http://www.goldmantech.co.za) | Rand » Dolar | ![África do Sul](flags/south-africa.png "África do Sul") |
-| Growth Hackers | [`Acessar Site`](http://growthhackers.com/jobs) | Euro » Dolar | ![World](flags/location.png "World") |
-| Gruenderluft | [`Acessar Site`](http://www.gruenderluft.de) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
-| Gruenderszene | [`Acessar Site`](https://recruiting.gruenderszene.de) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
-| GuardianJobs | [`Acessar Site`](https://jobs.theguardian.com) | Libra Esterlina | ![Inglaterra](flags/inglaterra.png "Inglaterra") |
-| Gum Tree | [`Acessar Site`](http://www.gumtree.com/jobs) | Libra Esterlina | ![Inglaterra](flags/inglaterra.png "Inglaterra") |
-| Gun `Verificar funcionamento` | [`Acessar Site`](http://www.gun.io/#hacker) | Euro » Dolar | ![World](flags/location.png "World") |
-| Gurulink | [`Acessar Site`](www.gurulink.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| HackaJob | [`Acessar Site`](https://hackajob.co) | Euro » Dolar | ![World](flags/location.png "World") |
-| Hacker Rank | [`Acessar Site`](https://www.hackerrank.com/jobs) | Euro » Dolar | ![World](flags/location.png "World") |
-| HackerX | [`Acessar Site`](https://hackerx.org/jobs) | Euro » Dolar | ![World](flags/location.png "World") |
-| HasJob | [`Acessar Site`](https://hasjob.co) | Euro » Dolar | ![World](flags/location.png "World") |
-| Hays | [`Acessar Site`](http://www.hays.de) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
-| Head Hunters Directory | [`Acessar Site`](www.headhuntersdirectory.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Help Unlimited | [`Acessar Site`](www.helpunlimited.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Higher Bracket | [`Acessar Site`](www.higherbracket.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Higher Ed Jobs | [`Acessar Site`](https://www.higheredjobs.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| Higher Ed Jobs | [`Acessar Site`](https://www.higheredjobs.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| Hipsters Jobs | [`Acessar Site`](http://www.hipsters.jobs) | Reais | ![Brasil](flags/brasil.png "Brasil") |
-| Hire Canada | [`Acessar Site`](www.hirecanada.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Hire Immigrants | [`Acessar Site`](www.hireimmigrants.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Hired | [`Acessar Site`](http://hired.com/jobs) | Dolar | ![EUA](flags/eua.png "EUA") |
-| Hnhiring | [`Acessar Site`](http://hnhiring.me) | Euro » Dolar | ![World](flags/location.png "World") |
-| Hodes | [`Acessar Site`](www.hodes.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Hogast Job | [`Acessar Site`](https://www.hogastjob.com) | Euro | ![Austria](flags/austria.png "Austria") |
-| Honest lance | [`Acessar Site`](https://www.honestlance.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| Hrinfodesk | [`Acessar Site`](www.hrinfodesk.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Hunt | [`Acessar Site`](www.hunt.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| IT Job Board | [`Acessar Site`](http://www.itjobboard.de/) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
-| IT Jobs PT | [`Acessar Site`](http://www.itjobs.pt) | Euro | ![Portugal](flags/portugal.png "Portugal") |
-| Ianmartin | [`Acessar Site`](www.ianmartin.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Icrunchdata | [`Acessar Site`](http://icrunchdata.com/jobs) | Dolar | ![EUA](flags/eua.png "EUA") |
-| Ictc-ctic | [`Acessar Site`](www.ictc-ctic.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Idea List. | [`Acessar Site`](http://www.idealist.org) | Dolar | ![EUA](flags/eua.png "EUA") |
-| Impulso | [`Acessar Site`](https://impulso.work/) | Reais | ![Brasil](flags/brasil.png "Brasil") |
-| Indeed Ar| [`Acessar Site`](https://ar.indeed.com/) | Peso Argentino » Dolar | ![Argentina](flags/argentine.png "Argentina") |
-| Indeed BE | [`Acessar Site`](https://be.indeed.com) | Euro | ![Bélgica](flags/belgica.png "Bélgica") |
-| Indeed CA | [`Acessar Site`](https://www.indeed.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Indeed CL | [`Acessar Site`](http://www.indeed.cl) | Chilean Peso | ![Chile](flags/chile.png "Chile") |
-| Indeed DE | [`Acessar Site`](https://de.indeed.com) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
-| Indeed ES | [`Acessar Site`](http://www.indeed.es) | Euro | ![Espanha](flags/espanha.png "Espanha") |
-| Indeed Suíça | [`Acessar Site`](https://www.indeed.ch) | Franco Suíço | ![Suíça](flags/suica.png "Suíça") |
-| Indeed UK | [`Acessar Site`](http://www.indeed.co.uk) | Libra Esterlina | ![Inglaterra](flags/inglaterra.png "Inglaterra") |
-| Indeed | [`Acessar Site`](http://ie.indeed.com) | Euro | ![Irlanda](flags/irlanda.png "Irlanda") |
-| Indeed | [`Acessar Site`](http://www.indeed.com/about) | Euro » Dolar | ![World](flags/location.png "World") |
-| Industria Criativa | [`Acessar Site`](https://industriacriativa.pt) | Euro | ![Portugal](flags/portugal.png "Portugal") |
-| Info Empleo | [`Acessar Site`](http://www.infoempleo.com) | Euro | ![Espanha](flags/espanha.png "Espanha") |
-| Infojobs | [`Acessar Site`](http://www.infojobs.com.br) | Reais | ![Brasil](flags/brasil.png "Brasil") |
-| Inteqna | [`Acessar Site`](www.inteqna.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Intermediair | [`Acessar Site`](https://www.intermediair.nl/vacature) | Euro | ![Holanda](flags/holanda.png "Holanda") |
-| Investiere | [`Acessar Site`](https://www.investiere.ch/jobs) | Franco Suíço | ![Suíça](flags/suica.png "Suíça") |
-| Irish Jobs | [`Acessar Site`](http://www.irishjobs.ie) | Euro | ![Irlanda](flags/irlanda.png "Irlanda") |
-| It Jobs | [`Acessar Site`](https://www.itjobs.ch) | Franco Suíço | ![Suíça](flags/suica.png "Suíça") |
-| Its berlin | [`Acessar Site`](http://itsinberlin.com/jobs-in-berlin-startups) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
-| JS Remotely | [`Acessar Site`](http://www.jsremotely.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| Javascript Works | [`Acessar Site`](https://javascript.works-hub.com/jobs) | Euro » Dolar | ![World](flags/location.png "World") |
-| Job Agent | [`Acessar Site`](https://www.jobagent.ch) | Franco Suíço | ![Suíça](flags/suica.png "Suíça") |
-| Job Bank GC | [`Acessar Site`](www.jobbank.gc.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Job Borse | [`Acessar Site`](https://jobboerse.arbeitsagentur.de) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
-| Job Capitalone | [`Acessar Site`](https://jobs.capitalone.co.uk/) | Dolar » Libra Esterlina | ![Inglaterra](flags/inglaterra.png "Inglaterra") |
-| Job Hunt | [`Acessar Site`](https://jobhunt.ai) | Euro » Dolar | ![World](flags/location.png "World") |
-| Job Mail | [`Acessar Site`](http://www.jobmail.co.za) | Rand » Dolar | ![África do Sul](flags/south-africa.png "África do Sul") |
-| Job Match | [`Acessar Site`](https://www.gov.uk/jobsearch) | Libra Esterlina | ![Inglaterra](flags/inglaterra.png "Inglaterra") |
-| Job Monkey Jobs | [`Acessar Site`](http://www.jobmonkeyjobs.com/candidate) | Dolar | ![EUA](flags/eua.png "EUA") |
-| Job Poland | [`Acessar Site`](https://job-poland.com) | Zloty | ![Polônia](flags/polonia.png "Polônia") |
-| Job Post Canada | [`Acessar Site`](www.jobpostcanada.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Job Postings | [`Acessar Site`](www.jobpostings.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Job Rapido UK | [`Acessar Site`](http://www.jobrapido.co.uk) | Libra Esterlina | ![Inglaterra](flags/inglaterra.png "Inglaterra") |
-| Job Rapido | [`Acessar Site`](http://ie.jobrapido.com) | Euro | ![Irlanda](flags/irlanda.png "Irlanda") |
-| Job Rapido | [`Acessar Site`](http://pt.jobrapido.com) | Euro | ![Portugal](flags/portugal.png "Portugal") |
-| Job Scout24 | [`Acessar Site`](https://www.jobscout24.ch) | Franco Suíço | ![Suíça](flags/suica.png "Suíça") |
-| Job Site UK | [`Acessar Site`](http://www.jobsite.co.uk) | Libra Esterlina | ![Inglaterra](flags/inglaterra.png "Inglaterra") |
-| Job Suche | [`Acessar Site`](http://jobsuche.monster.de) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
-| Job Teaser | [`Acessar Site`](https://www.jobteaser.com/en) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
-| Job Tide PT | [`Acessar Site`](http://www.jobtide.pt) | Euro | ![Portugal](flags/portugal.png "Portugal") |
-| Job Vector | [`Acessar Site`](http://www.jobvector.de) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
-| Job View | [`Acessar Site`](http://jobview.careerone.com.au) | Dolar Australiano | ![Austrália](flags/australia.png "Austrália") |
-| Job Ware | [`Acessar Site`](http://www.jobware.de) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
-| Job Winner | [`Acessar Site`](https://jobwinner.ch) | Franco Suíço | ![Suíça](flags/suica.png "Suíça") |
-| Job forum | [`Acessar Site`](www.jobforum.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Job is job | [`Acessar Site`](http://www.jobisjob.de/) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
-| JobSpresso | [`Acessar Site`](https://jobspresso.co) | Euro » Dolar | ![World](flags/location.png "World") |
-| JS Jobs | [`Acessar Site`](https://jsjobbs.com) | Euro » Dolar | ![World](flags/location.png "World") | 
-| JobSuch Maschine | [`Acessar Site`](https://jobsuchmaschine.ch) | Franco Suíço | ![Suíça](flags/suica.png "Suíça") |
-| Jobbatical | [`Acessar Site`](https://jobbatical.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| Jobillico | [`Acessar Site`](https://www.jobillico.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Jobomas | [`Acessar Site`](https://cl.jobomas.com) | Chilean Peso | ![Chile](flags/chile.png "Chile") |
-| Jobs Angular | [`Acessar Site`](http://www.angularjobs.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| Jobs BG | [`Acessar Site`](https://www.jobs.bg/) | Bulgarian lev | ![Bulgária](flags/bulgarian.png "Bulgária") |
-| Jobs Ch | [`Acessar Site`](https://www.jobs.ch) | Franco Suíço | ![Suíça](flags/suica.png "Suíça") |
-| Jobs Code for America | [`Acessar Site`](http://jobs.codeforamerica.org) | Dolar | ![EUA](flags/eua.png "EUA") |
-| Jobs EmberJs | [`Acessar Site`](jobs.emberjs.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| Jobs Emplois | [`Acessar Site`](www.jobs-emplois.gc.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Jobs Github | [`Acessar Site`](http://www.jobs.github.com/positions) | Euro » Dolar | ![World](flags/location.png "World") |
-| Jobs IE | [`Acessar Site`](http://www.jobs.ie) | Euro | ![Irlanda](flags/irlanda.png "Irlanda") |
-| Jobs It World Canada | [`Acessar Site`](www.jobs.itworldcanada.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Jobs OG | [`Acessar Site`](www.jobsog.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Jobs Open | [`Acessar Site`](www.jobs-open.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Jobs Press | [`Acessar Site`](www.jobspress.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Jobs Sap CA | [`Acessar Site`](https://jobs.sap.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Jobs Today | [`Acessar Site`](http://www.jobstoday.ch/pt) | Franco Suíço | ![Suíça](flags/suica.png "Suíça") |
-| Jobs UK | [`Acessar Site`](http://www.jobs.co.uk) | Libra Esterlina | ![Inglaterra](flags/inglaterra.png "Inglaterra") |
-| Jobs Zalando | [`Acessar Site`](https://jobs.zalando.co) | Euro | ![Europe](flags/european-union.png "Europe") |
-| Jobs in Brussels | [`Acessar Site`](http://www.jobsinbrussels.com) | Euro | ![Bélgica](flags/belgica.png "Bélgica") |
-| Jobs in Copenhagen | [`Acessar Site`](http://www.jobsincopenhagen.com) | Danish » krone » Euro Dolar | ![Dinamarca](flags/dinamarca.png "Dinamarca") |
-| Jobs to Click | [`Acessar Site`](http://www.jobstoclick.com) | Dolar | ![EUA](flags/eua.png "EUA") |
-| Jobs | [`Acessar Site`](http://www.jobs.de) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
-| Jobs | [`Acessar Site`](www.jobs.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Jobshark | [`Acessar Site`](www.jobshark.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Jooble | [`Acessar Site`](http://jooble-de.com) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
-| Just Remote | [`Acessar Site`](https://justremote.co) | Euro » Dolar | ![World](flags/location.png "World") |
-| Just Tech Jobs | [`Acessar Site`](www.JustTechJobs.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Kaam.work | [`Acessar Site`](https://www.kaam.work/platform/findjobs) | Euro » Dolar | ![World](flags/location.png "World") |
-| Kaggle | [`Acessar Site`](http://www.kaggle.com/jobs) | Dolar | ![EUA](flags/eua.png "EUA") |
-| Kaggle | [`Acessar Site`](https://kaggle.com/jobs) | Euro » Dolar | ![World](flags/location.png "World") |
-| Kelly Services | [`Acessar Site`](www.kellyservices.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Key Values | [`Acessar Site`](http://www.keyvalues.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| Krop | [`Acessar Site`](http://www.krop.com) | Dolar | ![EUA](flags/eua.png "EUA") |
-| Laborum | [`Acessar Site`](http://www.laborum.cl) | Chilean Peso | ![Chile](flags/chile.png "Chile") |
-| Landing Jobs | [`Acessar Site`](http://www.landing.job) | Euro | ![Europe](flags/european-union.png "Europe") |
-| Larajobs | [`Acessar Site`](http://www.larajobs.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| Learn4Good | [`Acessar Site`](https://www.learn4good.com/jobs) | Peso Argentino » Dolar | ![Argentina](flags/argentine.png "Argentina") |
-| Linkedin | [`Acessar Site`](https://www.ca.linkedin.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Linkedin | [`Acessar Site`](www.ca.linkedin.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Local Solo | [`Acessar Site`](http://localsolo.com/worldwide/jobs/) | Dolar | ![EUA](flags/eua.png "EUA") |
-| Locanto | [`Acessar Site`](https://www.locanto.at) | Euro | ![Austria](flags/austria.png "Austria") |
-| Make it in Germany | [`Acessar Site`](http://www.make-it-in-germany.com) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
-| Manpower | [`Acessar Site`](https://www.manpower.ch) | Franco Suíço | ![Suíça](flags/suica.png "Suíça") |
-| Maturijobs | [`Acessar Site`](http://www.maturijobs.com) | Reais | ![Brasil](flags/brasil.png "Brasil") |
-| Mechanics Hub | [`Acessar Site`](www.mechanicshub.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Media Job Search Canada | [`Acessar Site`](www.mediajobsearchcanada.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Meinestadt | [`Acessar Site`](http://jobs.meinestadt.de/berlin) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
-| Monster AT | [`Acessar Site`](https://www.monster.at/en) | Euro | ![Austria](flags/austria.png "Austria") |
-| Monster BE | [`Acessar Site`](https://www.monster.be/en) | Euro | ![Bélgica](flags/belgica.png "Bélgica") |
-| Monster NL | [`Acessar Site`](https://www.monsterboard.nl) | Euro | ![Holanda](flags/holanda.png "Holanda") |
-| Monster UK | [`Acessar Site`](http://www.monster.co.uk) | Libra Esterlina | ![Inglaterra](flags/inglaterra.png "Inglaterra") |
-| Monster | [`Acessar Site`](http://www.monster.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| Monster | [`Acessar Site`](http://www.monster.ie) | Euro | ![Irlanda](flags/irlanda.png "Irlanda") |
-| Monster | [`Acessar Site`](https://www.monster.ch) | Franco Suíço | ![Suíça](flags/suica.png "Suíça") |
-| My Remote Developers | [`Acessar Site`](https://myremotedevelopers.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| NBCC Consulting | [`Acessar Site`](http://nbcc-consulting.com) | Euro | ![Portugal](flags/portugal.png "Portugal") |
-| NHS Jobs | [`Acessar Site`](https://www.jobs.nhs.uk) | Libra Esterlina | ![Inglaterra](flags/inglaterra.png "Inglaterra") |
-| National e Vacature bank | [`Acessar Site`](https://www.nationalevacaturebank.nl) | Euro | ![Holanda](flags/holanda.png "Holanda") |
-| Net Carreiras | [`Acessar Site`](https://www.netcarreiras.com.br) | Reais | ![Brasil](flags/brasil.png "Brasil") |
-| Net Empregos | [`Acessar Site`](http://www.net-empregos.com) | Euro | ![Portugal](flags/portugal.png "Portugal") |
-| Neuvoo | [`Acessar Site`](http://www.neuvoo.cl) | Chilean Peso | ![Chile](flags/chile.png "Chile") |
-| Neuvoo | [`Acessar Site`](http://www.neuvoo.pt) | Euro | ![Portugal](flags/portugal.png "Portugal") |
-| Neuvoo | [`Acessar Site`](www.neuvoo.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| News Ycombinator | [`Acessar Site`](http://news.ycombinator.com/jobs) | Euro » Dolar | ![World](flags/location.png "World") |
-| No Fluff Jobs | [`Acessar Site`](https://nofluffjobs.com) | Zloty | ![Polônia](flags/polonia.png "Polônia") |
-| No Fluff | [`Acessar Site`](https://nofluffjobs.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| Nodesk Remote Companies | [`Acessar Site`](http://nodesk.co/remote-companies) | Euro » Dolar | ![World](flags/location.png "World") |
-| Nodesk Remote Jobs | [`Acessar Site`](http://nodesk.co/remote-jobs/) | Euro » Dolar | ![World](flags/location.png "World") |
-| On Startup Jobs | [`Acessar Site`](http://www.onstartupjobs.com) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
-| Onsite | [`Acessar Site`](http://onsite.io) | Euro » Dolar | ![World](flags/location.png "World") |
-| Opcion Empleos | [`Acessar Site`](https://www.opcionempleo.cl) | Chilean Peso | ![Chile](flags/chile.png "Chile") |
-| Openjobs | [`Acessar Site`](http://www.openjobs.com.br) | Reais | ![Brasil](flags/brasil.png "Brasil") |
-| Optimhire | [`Acessar Site`](https://optimhire.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| Outsourcely Remote Workers | [`Acessar Site`](http://www.outsourcely.com/remote-workers) | Euro » Dolar | ![World](flags/location.png "World") |
-| PHP Jobs | [`Acessar Site`](https://github.com/phpdevbr/vagas/issues) | Reais | ![Brasil](flags/brasil.png "Brasil") |
-| PNET | [`Acessar Site`](https://www.pnet.co.za) | Rand » Dolar | ![África do Sul](flags/south-africa.png "África do Sul") |
-| Panda Jobs| [`Acessar Site`](http://panda.jobs) | Euro » Dolar | ![World](flags/location.png "World") |
-| People per Hour | [`Acessar Site`](http://www.peopleperhour.com/freelance-jobs) | Euro » Dolar | ![World](flags/location.png "World") |
-| Pitch ME | [`Acessar Site`](https://pitchme.co) | Euro » Dolar | ![World](flags/location.png "World") |
-| Portland Tech | [`Acessar Site`](http://portlandtech.org) | Dolar | ![EUA](flags/eua.png "EUA") |
-| Porto for Talent | [`Acessar Site`](http://www.portofortalent.com) | Euro | ![Portugal](flags/portugal.png "Portugal") |
-| Power to Fly | [`Acessar Site`](http://powertofly.com/jobs) | Dolar | ![EUA](flags/eua.png "EUA") |
-| Powertofly | [`Acessar Site`](http://www.powertofly.com/jobs) | Euro » Dolar | ![World](flags/location.png "World") |
-| Pracuj Pl | [`Acessar Site`](https://www.pracuj.pl) | Zloty | ![Polônia](flags/polonia.png "Polônia") |
-| Pro Search Net Work Group | [`Acessar Site`](www.prosearchnetworkgroup.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Programa Thor | [`Acessar Site`](http://www.programathor.com.br) | Reais | ![Brasil](flags/brasil.png "Brasil") |
-| Provadis | [`Acessar Site`](https://www.provadis.de) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
-| Python Jobs HQ | [`Acessar Site`](https://www.pythonjobshq.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| Python Jobs | [`Acessar Site`](http://pythonjobs.github.io) | Euro » Dolar | ![World](flags/location.png "World") |
-| Python Org Jobs | [`Acessar Site`](https://www.python.org/jobs) | Euro » Dolar | ![World](flags/location.png "World") |
-| Python jobs | [`Acessar Site`](http://pyjobs.com.br/#oportunidades) | Reais | ![Brasil](flags/brasil.png "Brasil") |
-| Qsic | [`Acessar Site`](www.qsic.org) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Quantum | [`Acessar Site`](www.quantum.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Randstad | [`Acessar Site`](www.randstad.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Reachr | [`Acessar Site`](http://www.reachr.com.br) | Reais | ![Brasil](flags/brasil.png "Brasil") |
-| React jobs board | [`Acessar Site`](https://reactjobsboard.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| React jobs | [`Acessar Site`](https://www.react-jobs.com/remote) | Euro » Dolar | ![World](flags/location.png "World") |
-| Reactiflux | [`Acessar Site`](http://jobs.reactiflux.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| Real Staffing | [`Acessar Site`](http://www.realstaffing.com) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
-| RecWorks | [`Acessar Site`](https://recworks.co.uk) | Libra Esterlina | ![Inglaterra](flags/inglaterra.png "Inglaterra") |
-| Recruit Ireland | [`Acessar Site`](http://www.recruitireland.com) | Euro | ![Irlanda](flags/irlanda.png "Irlanda") |
-| Recruta Simples | [`Acessar Site`](https://www.recrutasimples.com.br) | Reais | ![Brasil](flags/brasil.png "Brasil") |
-| Reed UK | [`Acessar Site`](http://www.reed.co.uk) | Libra Esterlina | ![Inglaterra](flags/inglaterra.png "Inglaterra") |
-| RelocateMe | [`Acessar Site`](https://relocate.me) | Euro » Dolar | ![World](flags/location.png "World") |
-| Remote Base | [`Acessar Site`](https://remotebase.io) | Euro » Dolar | ![World](flags/location.png "World") |
-| Remote CO | [`Acessar Site`](http://remote.co) | Euro » Dolar | ![World](flags/location.png "World") |
-| Remote Crew | [`Acessar Site`](https://www.remotecrew.io/jobs) | Euro » Dolar | ![World](flags/location.png "World") |
-| Remote List | [`Acessar Site`](https://remotelist.io) | Euro » Dolar | ![World](flags/location.png "World") |
-| Remote More | [`Acessar Site`](https://remotemore.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| Remote Python | [`Acessar Site`](https://www.remotepython.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| Remote Python Io| [`Acessar Site`](https://remotepython.io/) | Euro » Dolar | ![World](flags/location.png "World") |
-| Remote Working | [`Acessar Site`](http://www.remoteworking.co) | Euro » Dolar | ![World](flags/location.png "World") |
-| Remotees | [`Acessar Site`](https://remotees.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| Remoteok | [`Acessar Site`](http://www.remoteok.io) | Euro » Dolar | ![World](flags/location.png "World") |
-| Remotive | [`Acessar Site`](http://remotive.io) | Euro » Dolar | ![World](flags/location.png "World") |
-| Resumark | [`Acessar Site`](www.resumark.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Riovagas | [`Acessar Site`](http://www.riovagas.com.br) | Reais | ![Brasil](flags/brasil.png "Brasil") |
-| Robert Half | [`Acessar Site`](http://www.roberthalf.com) | Dolar | ![EUA](flags/eua.png "EUA") |
-| Sales force Search | [`Acessar Site`](www.salesforcesearch.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Season al Employment | [`Acessar Site`](http://www.seasonalemployment.com) | Dolar | ![EUA](flags/eua.png "EUA") |
-| Seek NZ | [`Acessar Site`](http://www.seek.co.nz) | Dolar da Nova Zelândia | ![Nova Zelândia](flags/nova-zelandia.png "Nova Zelândia") |
-| Seek | [`Acessar Site`](http://www.seek.com.au) | Dolar Australiano | ![Austrália](flags/australia.png "Austrália") |
-| Simply Hired | [`Acessar Site`](http://www.simplyhired.com) | Dolar | ![EUA](flags/eua.png "EUA") |
-| Simply hired | [`Acessar Site`](www.simplyhired.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Sisystems | [`Acessar Site`](www.sisystems.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Skip the Drive | [`Acessar Site`](http://www.skipthedrive.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| Slack jobs | [`Acessar Site`](https://slack.com/jobs) | Euro » Dolar | ![World](flags/location.png "World") |
-| Slackatwork | [`Acessar Site`](http://slackatwork.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| Smashing Magazine | [`Acessar Site`](http://www.smashingmagazine.com/jobs/) | Dolar | ![EUA](flags/eua.png "EUA") |
-| Sprint CV Jobs| [`Acessar Site`](https://www.sprintcv.com/it-jobs) | Euro » Dolar | ![World](flags/location.png "World") |
-| Stackoverflow Jobs | [`Acessar Site`](http://www.stackoverflow.com/jobs) | Euro » Dolar | ![World](flags/location.png "World") |
-| Start-up Jobs Dublin | [`Acessar Site`](http://dublinstartupjobs.com) | Euro | ![Irlanda](flags/irlanda.png "Irlanda") |
-| Startus Jobs | [`Acessar Site`](http://www.startus.cc/jobs) | Euro » Dolar | ![World](flags/location.png "World") |
-| Startup Jobs | [`Acessar Site`](https://startup.jobs/) | Euro » Dolar | ![World](flags/location.png "World") |
-| Staufenbiel | [`Acessar Site`](http://staufenbiel.de) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
-| Step Stone | [`Acessar Site`](http://www.stepstone.ch) | Franco Suíço | ![Suíça](flags/suica.png "Suíça") |
-| Step Stone | [`Acessar Site`](https://www.stepstone.be/en) | Euro | ![Bélgica](flags/belgica.png "Bélgica") |
-| Step stone | [`Acessar Site`](http://www.stepstone.de) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
-| Students in Business | [`Acessar Site`](www.studentsinbusiness.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Swiss Dev Jobs | [`Acessar Site`](https://swissdevjobs.ch) | Franco Suíço | ![Suíça](flags/suica.png "Suíça") |
-| Talent Hubstaff | [`Acessar Site`](http://talent.hubstaff.com/search/jobs) | Euro » Dolar | ![World](flags/location.png "World") |
-| Talent IO | [`Acessar Site`](https://www.talent.io) | Euro » Dolar | ![World](flags/location.png "World") |
-| Talentegg | [`Acessar Site`](www.talentegg.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Teamlyzer | [`Acessar Site`](https://pt.teamlyzer.com/) | Euro | ![Portugal](flags/portugal.png "Portugal") |
-| Tecla Io | [`Acessar Site`](https://dashboard.tecla.io/jobs/) | Dolar | ![EUA](flags/eua.png "EUA") | 
-| Tech Careers | [`Acessar Site`](www.TechCareers.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Tech me Abroad | [`Acessar Site`](http://techmeabroad.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| TecnoJobs | [`Acessar Site`](http://tecnojobs.pt/) | Euro | ![Portugal](flags/portugal.png "Portugal") |
-| The Ladders | [`Acessar Site`](www.theladders.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| The Local | [`Acessar Site`](http://www.thelocal.de) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
-| The Muse| [`Acessar Site`](http://www.themuse.com/jobs) | Euro » Dolar | ![World](flags/location.png "World") |
-| The Stamford Group | [`Acessar Site`](http://thestamfordgroup.com) | Franco Suíço | ![Suíça](flags/suica.png "Suíça") |
-| The hub | [`Acessar Site`](https://thehub.io/job) | Euro | ![Europe](flags/european-union.png "Europe") |
-| Thedrum Jobs | [`Acessar Site`](http://www.thedrum.com/jobs) | Euro » Dolar | ![World](flags/location.png "World") |
-| Ti Jobs | [`Acessar Site`](http://www.tijobs.com.br) | Reais | ![Brasil](flags/brasil.png "Brasil") |
-| Toptal | [`Acessar Site`](http://www.toptal.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| Torre CO | [`Acessar Site`](https://torre.co) | Euro » Dolar | ![World](flags/location.png "World") |
-| Total Jobs | [`Acessar Site`](http://www.totaljobs.com) | Libra Esterlina | ![Inglaterra](flags/inglaterra.png "Inglaterra") |
-| Trabajando | [`Acessar Site`](https://www.trabajando.cl) | Chilean Peso | ![Chile](flags/chile.png "Chile") |
-| Trabalho Certo | [`Acessar Site`](http://www.trabalhocerto.pt) | Euro | ![Portugal](flags/portugal.png "Portugal") |
-| Trade ME | [`Acessar Site`](http://www.trademe.co.nz) | Dolar da Nova Zelândia | ![Nova Zelândia](flags/nova-zelandia.png "Nova Zelândia") |
-| Trampos CO | [`Acessar Site`](http://www.trampos.co) | Reais | ![Brasil](flags/brasil.png "Brasil") |
-| Treff Punkt | [`Acessar Site`](https://www.treffpunkt-arbeit.ch/home/job-seeker) | Franco Suíço | ![Suíça](flags/suica.png "Suíça") |
-| Triga Consulting | [`Acessar Site`](http://www.triga-consulting.de) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
-| Underdog | [`Acessar Site`](http://underdog.io) | Dolar | ![EUA](flags/eua.png "EUA") |
-| Undutchables | [`Acessar Site`](https://undutchables.nl) | Euro | ![Holanda](flags/holanda.png "Holanda") |
-| Unicorn Hunt | [`Acessar Site`](https://unicornhunt.i) | Euro | ![Europe](flags/european-union.png "Europe") |
-| Upwork | [`Acessar Site`](http://www.upwork.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| Vaga Colaborativa | [`Acessar Site`](http://www.vagacolaborativa.com.br) | Reais | ![Brasil](flags/brasil.png "Brasil") |
-| Vagas POA | [`Acessar Site`](https://www.vagaspoa.com.br) | Reais | ![Brasil](flags/brasil.png "Brasil") |
-| Vagas na Net | [`Acessar Site`](http://www.vagasnanet.com.br) | Reais | ![Brasil](flags/brasil.png "Brasil") |
-| Vagas | [`Acessar Site`](http://www.vagas.com.br) | Reais | ![Brasil](flags/brasil.png "Brasil") |
-| Vanchack | [`Acessar Site`](https://app.vanhack.com/jobs) | Euro » Dolar | ![World](flags/location.png "World") |
-| Venture Loop | [`Acessar Site`](http://ventureloop.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| Venture Village | [`Acessar Site`](http://venturevillage.eu/jobs) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
-| Verizon | [`Acessar Site`](https://verizon.com/about/work) | Dolar | ![EUA](flags/eua.png "EUA") |
-| Vettery | [`Acessar Site`](https://www.vettery.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| Vibbra | [`Acessar Site`](https://www.vibbra.com.br) | Reais | ![Brasil](flags/brasil.png "Brasil") |
-| Virtual Vocations | [`Acessar Site`](http://www.virtualvocations.com/jobs) | Euro » Dolar | ![World](flags/location.png "World") |
-| Vivid Resourcing | [`Acessar Site`](https://www.vividresourcing.com/job-result) | Euro | ![Europe](flags/european-union.png "Europe") |
-| Vtrac | [`Acessar Site`](www.vtrac.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| VueJs Jobs | [`Acessar Site`](https://vuejobs.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| Vulpi | [`Acessar Site`](https://app.vulpi.com.br/jobs) | Reais | ![Brasil](flags/brasil.png "Brasil") |
-| WERK | [`Acessar Site`](https://www.werk.nl/werk_nl/werknemer/vacatures) | Euro | ![Holanda](flags/holanda.png "Holanda") |
-| WFH | [`Acessar Site`](http://www.wfh.io) | Euro » Dolar | ![World](flags/location.png "World") |
-| WP Hired | [`Acessar Site`](http://www.wphired.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| We Love AngularJs | [`Acessar Site`](http://www.weloveangular.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| We Work MeteorJs | [`Acessar Site`](https://www.weworkmeteor.com/jobs) | Euro » Dolar | ![World](flags/location.png "World") |
-| We Work Remotely | [`Acessar Site`](http://www.weworkremotely.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| WeJob.ch | [`Acessar Site`](https://wejob.ch) | Franco Suíço | ![Suíça](flags/suica.png "Suíça") |
-| West force Canada | [`Acessar Site`](www.westforcecanada.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Work BC | [`Acessar Site`](https://www.workbc.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Work in Denmark | [`Acessar Site`](https://www.workindenmark.dk) | Danish » krone » Euro Dolar | ![Dinamarca](flags/dinamarca.png "Dinamarca") |
-| Work in Estonia | [`Acessar Site`](https://www.workinestonia.com/latest-offers/?cat=41) | Euro | ![Estonia](flags/estonia.png "Estonia") |
-| Workib | [`Acessar Site`](http://www.workib.cl) | Chilean Peso | ![Chile](flags/chile.png "Chile") |
-| Working Nomads | [`Acessar Site`](http://www.workingnomads.co/jobs) | Euro » Dolar | ![World](flags/location.png "World") |
-| Workintech CA | [`Acessar Site`](https://www.workintech.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Workopolis | [`Acessar Site`](https://www.workopolis.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Workray | [`Acessar Site`](https://www.workray.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| Wow Jobs | [`Acessar Site`](www.wowjobs.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| X4 Technology | [`Acessar Site`](https://www.x4technology.co.uk) | Libra Esterlina | ![Inglaterra](flags/inglaterra.png "Inglaterra") |
-| Xing Jobs | [`Acessar Site`](https://www.xing.com/jobs) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
-| Xpat Jobs | [`Acessar Site`](http://www.xpatjobs.de) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") | 
-| You have a project | [`Acessar Site`](www.youhaveaproject.com) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Youth | [`Acessar Site`](www.youth.gc.ca) | Canadian Dolar | ![Canada](flags/canada.png "Canada") |
-| Zaask | [`Acessar Site`](https://www.zaask.pt) | Euro | ![Portugal](flags/portugal.png "Portugal") |
-| Zeitung | [`Acessar Site`](http://www.zeitung.ch) | Franco Suíço | ![Suíça](flags/suica.png "Suíça") |
-| Zero to one Search | [`Acessar Site`](https://jobs.zerotoonesearch.com/careers) | Euro » Dolar | ![Alemanha](flags/german.png "Alemanha") |
-| Zip Recruiter | [`Acessar Site`](http://www.ziprecruiter.com) | Euro » Dolar | ![World](flags/location.png "World") |
-| Zona Jobs | [`Acessar Site`](https://www.zonajobs.com.ar) | Peso Argentino » Dolar | ![Argentina](flags/argentine.png "Argentina") |
+- [&yet](https://andyet.com) - WorldWide
+- [10up](https://10up.com/) - WorldWide
+- [15Five](https://www.15five.com) - Europe, Americas
+- [17hats](https://www.17hats.com) - Worldwide
+- [18F](https://18f.gsa.gov) - USA
+- [1Password](https://www.1password.com) - North America, UK
+- [42 Technologies](https://www.42technologies.com) - Worldwide
+- [6 Figures](http://www.6figures.com) - Canada
+- [6 Nomads](https://6nomads.com/resources/remotejob) - WorldWide
+- [99Freelas](https://www.99freelas.com.br) - Brazil
+- [ADP Jobs](https://jobs.adp.com) - WorldWide
+- [AE Studio](https://ae.studio) - USA, BR
+- [ALICE](https://aliceplatform.com) - Worldwide
+- [ARK](https://www.ark.io/careers) - Worldwide
+- [Ably](https://www.ably.io) - Europe
+- [Absolventa](https://www.absolventa.de/jobs/channel/it) - Germany
+- [Abstract API](https://www.abstractapi.com) - Worldwide
+- [Acivilate](https://acivilate.com) - USA
+- [Acquia](https://www.acquia.com) - Worldwide
+- [Acsess](https://www.acsess.org) - Canada
+- [ActiveCampaign](https://www.activecampaign.com) - Dublin, Ireland; USA
+- [Ad Hoc](https://www.adhocteam.us) - USA
+- [Adaface](https://www.adaface.com) - Asia
+- [AddStructure](https://www.bazaarvoice.com) - USA
+- [Adecco CA](https://www.adecco.ca) - Canada
+- [Adecco CH](https://www.adecco.ch) - Switzerland
+- [Adria Solutions](http://www.adriasolutions.co.uk) - England
+- [Adzuna](http://www.adzuna.com.au) - Australia
+- [Adzuna](https://www.adzuna.co.uk) - Worldwide
+- [Aerolab](https://aerolab.co) - Latin America
+- [AgFlow](https://www.agflow.com) - Europe
+- [Aha!](https://www.aha.io) - Worldwide
+- [Aim India](https://www.aimincorp.com) - India
+- [AirGarage](https://www.airgarage.com) - USA
+- [AirTreks](https://www.airtreks.com) - USA
+- [Airbyte](https://airbyte.com) - Europe, North America, Latin America
+- [Aivitex](https://www.aivitex.de) - Germany
+- [Algorand](https://www.algorand.com) - USA
+- [Algorithmia](https://algorithmia.com) - the USA or Canada
+- [Alight Solutions](https://alight.com) - Worldwide
+- [All Star Jobs](https://www.allstarjobs.ca) - Canada
+- [Alley](https://alley.co) - USA, Canada, Western Europe
+- [AlphaSights](https://engineering.alphasights.com) - USA, UK, (EST, GMT)
+- [Amazon Jobs Virtual Locations](https://www.amazon.jobs/en/locations/virtual-locations) - Worldwide
+- [Ambaum](https://ambaum.com) - USA, Europe
+- [Andela](https://andela.com) - Worldwide
+- [Angel CO](http://www.angel.co) - WorldWide
+- [Animalz](https://www.animalz.co) - USA
+- [Anomali](https://www.anomali.com/company/careers) - USA, UK, Singapore
+- [Apinfo](http://www.apinfo.com/apinfo) - Brazil
+- [Appinio](https://appinio.com) - Europe
+- [Apply Now AU](http://www.applynow.com.au) - Australia
+- [Appstractor Corporation](https://www.appstractor.com) - USA, UK, Israel
+- [Appwrite](https://appwrite.io) - Worldwide
+- [Aquent](http://aquent.com/find-work) - EUA
+- [Arbeitsagentur](http://www.arbeitsagentur.de) - Germany
+- [Arkency](https://arkency.com) - Worldwide
+- [Art & Logic](https://artandlogic.com) - USA and Canada
+- [Artefactual Systems](https://www.artefactual.com) - UTC-8 to UTC+2
+- [Articulate](https://www.articulate.com) - Worldwide
+- [Astronomer](https://www.astronomer.io) - USA
+- [Audiense](https://www.audiense.com) ️- Worldwide
+- [Aula Education](https://aula.education) - Worldwide
+- [Auth0](https://auth0.com) - Worldwide
+- [Authentic Jobs](http://authenticjobs.com) - WorldWide
+- [Auto Jobs](https://www.auto-jobs.ca) - Canada
+- [Automattic](https://automattic.com) - Worldwide
+- [Axelerant](https://axelerant.com) - Worldwide
+- [Axios](https://axios.com) - USA
+- [BC Jobs](https://www.bcjobs.ca) - Canada
+- [BNE](https://www.bne.cl) - Chile
+- [Bairesdev](https://bairesdev.com) - Worldwide
+- [Balena](https://www.balena.io) - Worldwide
+- [Balsamiq](https://balsamiq.com) - Worldwide
+- [BandLab](https://bandlab.com) - Worldwide
+- [Bandcamp](https://bandcamp.com) - Worldwide
+- [Bandzoogle](https://bandzoogle.com) - Worldwide
+- [Baremetrics](https://baremetrics.com) - Worldwide
+- [Basecamp](https://basecamp.com) - Worldwide
+- [BeBanjo](https://bebanjo.com) - Worldwide
+- [BeBee](https://www.bebee.com) - WorldWide
+- [Bear Group](https://www.beargroup.com) - USA
+- [BeenVerified](https://www.beenverified.com) - Worldwide
+- [Behance Jobs](http://www.behance.net/joblist) - WorldWide
+- [Bep](https://www.bep.gov.pt/default.aspx) - POrtugal
+- [Berlin Statup Jobs](http://berlinstartupjobs.com) - Germany
+- [Best Jobs CA](https://www.bestjobsca.com) - Canada
+- [Best Practical Solutions](https://bestpractical.com) - Worldwide
+- [BetaPeak](https://betapeak.com) - Worldwide
+- [Betable](https://corp.betable.com) - USA, Europe
+- [Betalist](http://betalist.com/jobst) - WorldWide
+- [BetterUp](https://betterup.co) - USA
+- [BeyondPricing](https://beyondpricing.com) - USA, Europe
+- [Big Cartel](https://www.bigcartel.com) - USA
+- [Big Wheel Brigade](https://www.bigwheelbrigade.com) - USA
+- [Bill](https://www.bill.com) - USA
+- [Bit Zesty](https://bitzesty.com) - Worldwide
+- [Bitnami](https://bitnami.com) - Worldwide
+- [Bitovi](https://bitovi.com) - USA & Worldwide
+- [Bizink](https://bizinkonline.com) - Worldwide
+- [Blameless](https://www.blameless.com) - USA, WorldWide
+- [Bloc](https://www.bloc.io) - North America
+- [Blossom Bridge](https://blossombridge.com) - Portugal
+- [Bluespark](https://www.bluespark.com) - USA
+- [Boldare](https://boldare.com) - Worldwide
+- [Bonsai](https://www.hellobonsai.com) - Worldwide
+- [Bot Jobs](http://botjobs.io) - WorldWide
+- [Brave Investments](https://www.crunchbase.com/organization/brave-investment) - Brazil
+- [Bridges](https://www.bridges.com) - Canada
+- [Bright Funds](https://www.brightfunds.org) - USA
+- [BriteCore](https://britecore.com) - USA, Worldwide
+- [Buffer](https://buffer.com) - Worldwide
+- [Bugfender](https://bugfender.com) - Worldwide
+- [Bulut Yazilim](https://bulutyazilim.com) - Worldwide
+- [Bumeran](https://www.bumeran.com.ar) - Argentina
+- [Buscojobs](https://www.buscojobs.cl) - Chile
+- [BuySellAds](https://www.buysellads.com) - Worldwide
+- [CGI](https://cgi.njoyn.com) - WorldWide
+- [CV Keskus](https://www.cvkeskus.ee) - Estonia
+- [CV Library](https://www.cv-library.co.uk) - England
+- [CV.ee](https://www.cv.ee) - Estonia
+- [CVS Health](https://jobs.cvshealth.com) - USA
+- [CW Jobs UK](http://www.cwjobs.co.uk) - England
+- [Cabify](https://cabify.com) - Spain
+- [Calamari](https://calamari.io) - Poland
+- [Calibre](https://calibreapp.com) - Worldwide
+- [Canada Jobs](http://www.canadajobs.com) - Canada
+- [Canada infonet](http://www.canadainfonet.org) - Canada
+- [Canada job Expo](http://www.canadajobexpo.com) - Canada
+- [Canadainfonet](https://www.canadainfonet.org) - Canada
+- [Canadian Careers](http://www.canadiancareers.com) - Canada
+- [Canadian Jobs](http://www.canadianjobs.com) - Canada
+- [Canonical](https://www.canonical.com) - Worldwide
+- [Capchase](https://www.capchase.com) - Worldwide
+- [Capital One](https://www.capitalonecareers.com/tech) - USA
+- [Carbon Black](https://www.carbonblack.com) - USA, Offices in Boston, MA
+- [Cards Against Humanity](https://cardsagainsthumanity.com) - USA
+- [CareCru](https://carecru.com) - Worldwide
+- [CareMessage](https://caremessage.org/careers) - Worldwide
+- [Careego](http://www.careego.com) - Canada
+- [Career Beacon](https://www.careerbeacon.com) - Canada
+- [Career Builder](https://www.careerbuilder.ca) - Canada
+- [Career Edge](www.careeredge.ca) - Canada
+- [Career Junction](https://www.careerjunction.co.za) - South Africa
+- [Career Key](http://www.careerkey.com) - Canada
+- [Career Luxoft](https://career.luxoft.com) - Europe
+- [CareerJet PT](http://www.careerjet.pt) - Portugal
+- [Careeraim](http://www.careeraim.com) - Canada
+- [Careers 24](https://www.careers24.com) - South Africa
+- [Careers Google](http://www.careers.google.com) - WorldWide
+- [Carga de Trabalhos](http://www.cargadetrabalhos.net) - Portugal
+- [CartStack](https://www.cartstack.com) - Worldwide
+- [CartoDB](https://cartodb.com) - Worldwide
+- [Casumo](https://www.casumo.com) - Europe
+- [Celsius](https://celsius.network) - Worldwide
+- [Chargify](https://www.chargify.com) - USA
+- [Charity Village](http://www.charityvillage.com) - Canada
+- [ChatGen](https://chatgen.ai) - India, USA
+- [Checkly](https://www.checklyhq.com) - Europe (CET -3 / CET +3)
+- [Chef](https://www.chef.io) - USA, UK
+- [ChefsClub](https://www.chefsclub.com.br) - Brazil
+- [Chile Trabajos](https://www.chiletrabajos.cl) - Chile
+- [Chroma](https://hichroma.com) - Worldwide
+- [CircleCI](https://circleci.com) - Worldwide
+- [Circonus](https://circonus.com) - USA
+- [Cisystems](www.cisystems.com) - Canada
+- [CivicActions](https://civicactions.com) - Worldwide
+- [Clevertech](https://clevertech.biz) - Worldwide
+- [Close](https://close.com) - Worldwide
+- [CloudApp](https://getcloudapp.com) - North America
+- [CodePen](https://codepen.io) - Worldwide
+- [CodeSandbox](https://codesandbox.io) - Worldwide
+- [Codea IT](https://www.codeait.com) - Worldwide
+- [Codepen Jobs](https://codepen.io/job) - EUA
+- [Codeship](https://codeship.com) - Worldwide
+- [Codestunts](https://codestunts.com) - WorldWide
+- [Codestunts](https://codestunts.com) - Worldwide
+- [Cofense](https://cofense.com) - USA
+- [Coinbase](https://www.coinbase.com) - Worldwide
+- [Colivre](https://colivre.coop.br) - Worldwide
+- [Collabera](https://collabera.jobs.net) - EUA
+- [Collabora](https://www.collabora.com) - Worldwide
+- [College Recruiter](http://www.collegerecruiter.com) - EUA
+- [Comet](https://www.comet.co) - France
+- [Comoequetala](http://www.comoequetala.com.br) - Brazil
+- [Compose](https://www.compose.io) - Worldwide
+- [CompuTrabajo](https://www.computrabajo.cl) - Chile
+- [Compucorp](https://www.compucorp.co.uk)️ - Worldwide
+- [Computer Jobs](http://www.computerjobs.com) - EUA
+- [Computer World](https://www.computerworld.com.pt/emprego) - Portugal
+- [Connecticum](http://www.connecticum.de) - Germany
+- [Connexa](https://www.connexa.com) - Worldwide
+- [ConsenSys](https://consensys.net) - Worldwide
+- [Consumer Financial Protection Bureau](https://www.consumerfinance.gov) - USA
+- [Contact Point](http://www.contactpoint.ca) - Canada
+- [Continu](https://www.continu.co) - USA
+- [Conversio](https://conversio.com) - Worldwide
+- [Convert](https://www.convert.com) - Worldwide
+- [Cool Jobs Canada](http://www.cooljobscanada.com) - Canada
+- [Core Services Inc](http://www.coreservicesinc.com) - Canada
+- [Core-Apps](https://www.core-apps.com) - USA
+- [CoreOS](https://coreos.com) - USA
+- [Corgibytes](https://corgibytes.com) - USA East Coast
+- [Coroflot](http://www.coroflot.com/design-jobs) - EUA
+- [Coursera](https://www.coursera.org) - USA, Canada
+- [CraigList](http://berlin.craigslist.de) - Germany
+- [Creative City Berlim](http://www.creative-city-berlin.de/en/jobs) - Germany
+- [Crossover](https://www.crossover.com) - Worldwide
+- [CrowdTangle](https://crowdtangle.com) - USA
+- [Crowdstrike](https://www.crowdstrike.com) - Worldwide
+- [Crunch Board](http://www.crunchboard.com) - EUA
+- [Crypto Currency Jobs](http://cryptocurrencyjobs.co) - WorldWide
+- [Crypto Jobs List](https://cryptojobslist.com) - WorldWide
+- [CryptoJobs](https://crypto.jobs) - WorldWide
+- [Cueup](https://cueup.io) - Worldwide
+- [Customer.io](https://customer.io) - Worldwide
+- [Cyber Coders](http://www.cybercoders.com) - WorldWide
+- [Cyber Whale](https://cyberwhale.tech) - Europe
+- [DNSimple](https://dnsimple.com) - Worldwide
+- [Daily Jobs](https://daily.jobs) - EUA
+- [Dalenys](https://dalenys.com) - Europe
+- [DappRadar](https://dappradar.com) - Worldwide
+- [DareCode](https://darecode.com) - Europe
+- [DashboardHub](https://dashboardhub.io) - Worldwide
+- [Data Science Brigade](https://dsbrigade.com) - Worldwide
+- [DataCamp](https://www.datacamp.com) - Europe or comparable timezone
+- [DataStax](https://www.datastax.com) - Worldwide
+- [Datadog](https://www.datadoghq.com) - Worldwide
+- [Datica](https://datica.com) - USA
+- [DealDash](http://www.dealdash.com) - Worldwide
+- [Delighted](https://delighted.com) - Worldwide
+- [Dellent Consulting](https://dellentconsulting.com/careers) - Portugal
+- [Design made in Germany](http://www.designmadeingermany.de/jobs) - Germany
+- [Designcode](https://designcode.io) - Worldwide
+- [Deskpass](https://www.deskpass.com) - Worldwide
+- [Dev Spotlight](https://www.devspotlight.com) - Worldwide
+- [DevITjobs UK](https://devitjobs.uk) - England
+- [DevRemoto](https://devremoto.club) - Brazil
+- [Dgraph](https://dgraph.io) - Americas
+- [Dhire](http://www.dhire.com.br) - Brazil
+- [Dice](http://www.dice.com) - Canada
+- [DigitalOcean](https://www.digitalocean.com) - Worldwide
+- [Direct Jobs](http://www.directjobs.ca) - Canada
+- [Dis ag](http://www.dis-ag.com/dis/Pages/start.aspx) - Germany
+- [Discord](https://discord.com) - USA
+- [Discourse](https://www.discourse.org) - Worldwide
+- [Doc check](http://jobs.doccheck.com/de) - Germany
+- [Docker](https://www.docker.com) - USA
+- [Doist](https://doist.com) - Worldwide
+- [Dribbble](http://www.dribbble.com/jobs) - WorldWide
+- [DroneDeploy](https://www.dronedeploy.com) - Worldwide
+- [Drupal Jedi](https://drupaljedi.com) - Worldwide
+- [Dubai Job Plus](http://www.dubaijobsplus.com) - WorldWide
+- [DuckDuckGo](https://duckduckgo.com) - Worldwide
+- [DynaPictures](https://dynapictures.com) - Worldwide
+- [EBSCO Information Services](https://www.ebsco.com) - USA
+- [EFinancial Careers](https://www.efinancialcareers.co.uk) - WorldWide
+- [EU Recruit](https://eu-recruit.com) - England
+- [EVELO](https://evelo.com) - USA
+- [EarthOfDrones](https://earthofdrones.com) - Worldwide
+- [Eco-Mind](https://eco-mind.eu) - Italy
+- [Edgar](https://meetedgar.com) - USA & Canada
+- [Edify](https://edify.cr) - Costa Rica & Worldwide
+- [Edit Recrutamento](https://edit.com.pt/recrutamento) - Portugal
+- [Education Canada](https://www.educationcanada.com) - Canada
+- [Elastic](https://www.elastic.co) - Worldwide
+- [Eluta](https://www.eluta.ca) - Canada
+- [Empleate GOB ES](http://empleate.gob.es) - Spain
+- [Employ Remotely](https://www.employremotely.com/jobs) - WorldWide
+- [Employee IE](http://www.employee.ie) - Ireland
+- [Emprego Net](http://www.emprego.net) - Brazil
+- [Emprego PT](http://www.emprego.pt) - Portugal
+- [Emprego Sapo](http://emprego.sapo.pt) - Portugal
+- [Emprego XL PT](http://www.empregoxl.com) - Portugal
+- [Empregos ORG](http://www.empregos.org) - Portugal
+- [Empregos](http://www.empregos.com.br) - Brazil
+- [Emsisoft](https://www.emsisoft.com) - Worldwide
+- [EngineYard (Support Team)](https://www.engineyard.com) - Worldwide
+- [Enok](https://www.enok.co) - USA
+- [Entrision](https://entrision.com) - USA
+- [Envato](https://envato.com) - Worldwide
+- [Envoy](https://envoy.com) - USA, Canada & Colombia
+- [Epam](https://epam.com) - Worldwide
+- [Epic Games](https://www.epicgames.com/site/en-US/careers) - Worldwide
+- [Epilocal](https://www.epilocal.com) - Worldwide
+- [Episource](https://episource.com) - USA
+- [Equal Experts Portugal](https://www.equalexperts.com/contact-us/lisbon) - Europe
+- [Ergeon](https://www.ergeon.com) - Worldwide
+- [Espace-Emploi](https://www.espace-emploi.ch/job-search) - Switzerland
+- [Estately](https://www.estately.com) - USA
+- [Etch](https://www.etch.co) - UK, Europe
+- [Etsy](https://www.etsy.com) - Worldwide
+- [Euremote Jobs](https://euremotejobs.co) - Europe
+- [Evil Martians](https://evilmartians.com) - Worldwide
+- [Evrone](https://evrone.com) - Worldwide
+- [Expansion y Empleo](http://www.expansionyempleo.com) - Spain
+- [ExportData](https://www.exportdata.io) - Worldwide
+- [Eyeo (Adblock Plus)](https://eyeo.com) - Worldwide
+- [F6S](http://www.f6s.com/jobs) - WorldWide
+- [FAS](http://www.fas.ie/en) - Ireland
+- [FATMAP](https://about.fatmap.com/careers) - Europe
+- [FFW Agency](https://ffwagency.com) - Worldwide
+- [FMX](https://www.gofmx.com) - USA
+- [FactorialHR](https://www.factorialhr.com) - Worldwide
+- [Fairwinds](https://www.fairwinds.com) - North America
+- [Faithlife](https://www.faithlife.com) - USA, Mexico
+- [Fastly](https://www.fastly.com) - Worldwide
+- [Fauna](https://www.fauna.com) - Worldwide
+- [Featurist](https://www.featurist.co.uk) - Worldwide
+- [Fep Search Group](http://www.fepsearchgroup.com) - Canada
+- [Fetlife](https://fetlife.com) - Worldwide
+- [Fienst Jobs](http://www.finest-jobs.com) - Germany
+- [Filament Group](https://www.filamentgroup.com) - USA
+- [Find Bacon](https://findbacon.com) - WorldWide
+- [Findify](https://findify.io) - UTC +2
+- [FingerprintJS](https://fingerprintjs.com) - Worldwide
+- [Fire Engine Red](https://fire-engine-red.com) - Worldwide
+- [Fireball Labs](https://www.fireballlabs.com) - Germany
+- [FivexL](https://fivexl.io) - Worldwide
+- [Flat World](https://flatworld.co/jobs) - WorldWide
+- [Flex Jobs](http://www.flexjobs.com) - WorldWide
+- [Flexera](https://www.flexera.com) - USA
+- [FlightAware](https://flightaware.com) - USA
+- [Flowing](https://flowing.it) - Italy
+- [Focusnetworks](https://focusnetworks.com.br) - Worldwide
+- [Formidable](https://www.formidable.com) - USA, Canada, UK, Europe
+- [Formstack](https://www.formstack.com) - Worldwide
+- [Foss Jobs](http://www.fossjobs.net) - WorldWide
+- [Four Kitchens](https://fourkitchens.com) - North America, Latin America
+- [Foxtekrs](https://www.foxtekrs.com) - Netherlands
+- [Fraudio](https://www.fraudio.com) - Europe
+- [Frauen Jobs](https://frauenjobs.ch) - Switzerland
+- [Freeagent](https://www.freeagent.com) - Worldwide
+- [Freelancer](http://www.freelancer.com) - WorldWide
+- [Freelancermap](http://www.freelancermap.com) - WorldWide
+- [Freeletics](https://www.freeletics.com) - Germany, Poland, Portugal
+- [Fresh Gigs](http://www.freshgigs.ca) - Canada
+- [Front Jobs](http://frontjobs.com.br) - Canada
+- [Frontend Developer Job](http://frontenddeveloperjob.com) - WorldWide
+- [Frontend Vagas - Github](https://github.com/frontendbr/vagas) - Brazil
+- [Fuel Made](https://fuelmade.com) - Western North America
+- [FullFabric](https://fullfabric.com) - Europe
+- [Functional Jobs](http://functionaljobs.com) - WorldWide
+- [Functionize](https://www.functionize.com) - Worldwide
+- [GEO Jobe](https://www.geo-jobe.com) - USA
+- [Gaggle](https://www.gaggle.net) - USA
+- [Geckoboard](https://www.geckoboard.com) - UK
+- [Geek Hunter](http://www.geekhunter.com.br) - Brazil
+- [General Assembly](https://generalassemb.ly) - Worldwide
+- [Geography Jobs](http://www.geographyjobs.ca) - Canada
+- [German Jobs](http://www.germanjobs.net/index.php) - Germany
+- [GermanTech Jobs](https://germantechjobs.de) - Germany
+- [Get Graphic Design Jobs](http://www.getgraphicdesignjobs.com) - EUA
+- [Get Photography jobs](http://www.getphotographyjobs.com) - Germany
+- [Get on Board](http://www.getonbrd.cl) - Chile
+- [Ghost Foundation](https://ghost.org) - Worldwide
+- [Ghost Inspector](https://ghostinspector.com) - North America, Latin America, Caribbean
+- [Giant Swarm](https://giantswarm.io) - Europe
+- [Giant](https://giantmade.com) - UK
+- [GigSalad](https://www.gigsalad.com) - USA
+- [GitHub](https://github.com) - Worldwide
+- [GitLab](https://about.gitlab.com) - Worldwide
+- [GitPrime](https://gitprime.com) - Worldwide
+- [Gitbook](https://www.gitbook.com) - France
+- [Glassdoor](https://www.glassdoor.com) - WorldWide
+- [Glenn Website Design](https://glennwebsitedesign.com) - Worldwide
+- [Glitch](https://www.glitch.com) - Worldwide
+- [Gluware](https://gluware.com) - USA, United Kingdom
+- [Gnoma](http://gnoma.cl) - Chile
+- [GoHiring](https://www.gohiring.com) - Worldwide
+- [Gojob](https://gojob.com) - France
+- [Goldman Tech](http://www.goldmantech.co.za) - South Africa
+- [Goodland](https://en.goodland.io) - Canada
+- [Gorman Health Group](https://www.gormanhealthgroup.com) - USA
+- [GotSoccer](https://www.gotpro.com) - USA
+- [Grafana Labs](https://grafana.com) - USA and EMEA/EST Timezones
+- [Graylog](https://www.graylog.org) - Worldwide
+- [Gremlin](https://gremlin.com) - USA
+- [Gridium](https://gridium.com) - USA
+- [Groove](https://www.groovehq.com) - Worldwide
+- [Grou.ps](https://build.gr.ps) - Worldwide
+- [Growth Hackers](http://growthhackers.com/jobs) - WorldWide
+- [Grubhub](https://www.grubhub.com) - USA / Worldwide
+- [Gruenderluft](http://www.gruenderluft.de) - Germany
+- [Gruenderszene](https://recruiting.gruenderszene.de) - Germany
+- [Gruntwork](https://www.gruntwork.io) - Worldwide
+- [GuardianJobs](https://jobs.theguardian.com) - England
+- [GuideSmiths](https://www.guidesmiths.com) - Europe
+- [Gum Tree](http://www.gumtree.com/jobs) - England
+- [Gun](http://www.gun.io/#hacker) - WorldWide
+- [Gurulink](http://www.gurulink.ca) - Canada
+- [HE:labs](https://www.helabs.com) - Worldwide
+- [HUSL Digital](https://husldigital.com) - USA
+- [Hack Reactor Remote](https://www.hackreactor.com/remote) - Pacific Time Zone (PT)
+- [HackaJob](https://hackajob.co) - WorldWide
+- [Hacker Rank](https://www.hackerrank.com/jobs) - WorldWide
+- [HackerX](https://hackerx.org/jobs) - WorldWide
+- [Hanno](https://hanno.co) - Worldwide
+- [Hanzo](https://hanzo.co) - USA, UK, Europe
+- [Happy Cog](https://happycog.com) - USA
+- [Harvest](https://www.getharvest.com) - Worldwide
+- [HasJob](https://hasjob.co) - WorldWide
+- [HashiCorp](https://www.hashicorp.com) - USA, CA, UK, DE, FR, NL, AU, JPN
+- [Hays](http://www.hays.de) - Germany
+- [Head Hunters Directory](http://www.headhuntersdirectory.com) - Canada
+- [Headway](https://www.headway.io) - USA
+- [Healthfinch](https://www.healthfinch.com) - USA
+- [Heap](https://heapanalytics.com) - Worldwide
+- [Heetch](https://heetch.com) - Central Europe Time (CET) +/1h
+- [Help Scout](https://www.helpscout.net) - Worldwide
+- [Help Unlimited](http://www.helpunlimited.ca) - Canada
+- [Heroku](https://www.heroku.com) - USA, CA, UK, Europe
+- [Higher Bracket](http://www.higherbracket.ca) - Canada
+- [Higher Ed Jobs](https://www.higheredjobs.com) - WorldWide
+- [Hipsters Jobs](http://www.hipsters.jobs) - Brazil
+- [Hire Canada](http://www.hirecanada.ca) - Canada
+- [Hire Immigrants](http://www.hireimmigrants.ca) - Canada
+- [Hired](http://hired.com/jobs) - EUA
+- [Hireology](https://www.hireology.com) - USA
+- [Hnhiring](http://hnhiring.me) - WorldWide
+- [Hodes](http://www.hodes.com) - Canada
+- [Hogast Job](https://www.hogastjob.com) - Austria
+- [HomeFlicWeGrow](https://homevalet.co) - India
+- [HomeValet](https://www.homeflicwegrow.com) - USA
+- [Honest lance](https://www.honestlance.com) - WorldWide
+- [Honeybadger](https://www.honeybadger.io) - Worldwide
+- [Honeycomb](https://honeycomb.tv) - Worldwide
+- [Hopper](https://www.hopper.com) - USA, CA, UK, BG, PH, CO
+- [Hotjar](https://careers.hotjar.com) - Worldwide
+- [Hrinfodesk](http://www.hrinfodesk.com) - Canada
+- [Hudl](https://www.hudl.com) - USA & UK
+- [Hugo](https://hugo.events) - Worldwide
+- [Human Made](https://hmn.md) - Worldwide
+- [Hunt](http://www.hunt.ca) - Canada
+- [Hypergiant](https://www.hypergiant.com/contact) - Worldwide
+- [Hyperion](https://hyperiondev.com/jobs) - South Africa
+- [Hypothesis](https://hypothes.is) - Worldwide
+- [IDoneThis](https://idonethis.com) - Worldwide
+- [IOHK](https://iohk.io) - Worldwide
+- [IOpipe](https://www.iopipe.com) - USA
+- [IPInfo](https://ipinfo.io) - Worldwide
+- [IPS Group, Inc.](https://www.ipsgroupinc.com) - USA
+- [IT Job Board](http://www.itjobboard.de) - Germany
+- [IT Jobs PT](http://www.itjobs.pt) - Portugal
+- [Ianmartin](http://www.ianmartin.com) - Canada
+- [Icrunchdata](http://icrunchdata.com/jobs) - EUA
+- [Ictc-ctic](http://www.ictc-ctic.ca) - Canada
+- [Idea List.](http://www.idealist.org) - EUA
+- [Igalia](https://www.igalia.com) - Europe
+- [Impala](https://www.getimpala.com) - Europe
+- [Impira](https://www.impira.com) - USA
+- [Implisense](https://implisense.com) - Germany
+- [Impulso](https://impulso.work) - Brazil
+- [InQuicker](https://inquicker.com) - USA & CA
+- [InVision](https://www.invisionapp.com) - Worldwide
+- [Incsub](https://incsub.com) - Worldwide
+- [Indeed WorldWide](https://www.indeed.com/worldwide) - WorldWide
+- [Industria Criativa](https://industriacriativa.pt) - Portugal
+- [Infinite Red](https://infinite.red) - USA & CA
+- [InfluxData](https://influxdata.com) - USA, UK, DE, IT
+- [Info Empleo](http://www.infoempleo.com) - Spain
+- [Infojobs](http://www.infojobs.com.br) - Brazil
+- [Inpsyde](https://inpsyde.com/en) - Europe
+- [Instamobile](https://instamobile.io) - Worldwide
+- [Intellum](https://www.intellum.com) - USA
+- [Inteqna](https://www.inteqna.com) - Canada
+- [Interactive Intelligence](https://www.inin.com) - Worldwide
+- [Intercom](https://www.intercom.io) - Worldwide
+- [Intermediair](https://www.intermediair.nl/vacature) - Netherlands
+- [Interpersonal Frequency (I.F.)](https://ifsight.com) - Worldwide
+- [Intevity](https://www.intevity.com) ️- USA
+- [Intuition Machines, Inc](https://www.imachines.com) - Worldwide
+- [Investiere](https://www.investiere.ch/jobs) - Switzerland
+- [Irish Jobs](http://www.irishjobs.ie) - Ireland
+- [It Jobs](https://www.itjobs.ch) - Switzerland
+- [Iterative](https://www.iterative.ai) - Worldwide
+- [Its berlin](http://itsinberlin.com/jobs-in-berlin-startups) - Germany
+- [JBS Custom Software Solutions](https://www.jbssolutions.com) - USA
+- [JS Jobs](https://jsjobbs.com) - WorldWide
+- [JS Remotely](http://www.jsremotely.com) - WorldWide
+- [Jackson River](https://jacksonriver.com) - USA
+- [Javascript Works](https://javascript.works-hub.com/jobs) - World
+- [Jaya Tech](https://jaya.tech) - Worldwide
+- [Jitbit](https://www.jitbit.com) - Worldwide
+- [Jitera](https://iruuza-inc.com) - Worldwide
+- [Job Agent](https://www.jobagent.ch) - Switzerland
+- [Job Bank GC](https://www.jobbank.gc.ca) - Canada
+- [Job Borse](https://jobboerse.arbeitsagentur.de) - Germany
+- [Job Capitalone](https://jobs.capitalone.co.uk) - England
+- [Job Hunt](https://jobhunt.ai) - WorldWide
+- [Job Mail](http://www.jobmail.co.za) - South Africa
+- [Job Match](https://www.gov.uk/jobsearch) - England
+- [Job Monkey Jobs](http://www.jobmonkeyjobs.com/candidate) - EUA
+- [Job Poland](https://job-poland.com) - Poland
+- [Job Post Canada](http://www.jobpostcanada.com) - Canada
+- [Job Postings](http://www.jobpostings.ca) - Canada
+- [Job Rapido (Países no final da página)](https://br.jobrapido.com/)
+- [Job Rapido UK](http://www.jobrapido.co.uk) - England
+- [Job Scout24](https://www.jobscout24.ch) - Switzerland
+- [Job Site UK](http://www.jobsite.co.uk) - England
+- [Job Spresso](https://jobspresso.co) - WorldWide
+- [Job Suche](http://jobsuche.monster.de) - Germany
+- [Job Teaser](https://www.jobteaser.com/en) - Germany
+- [Job Tide PT](http://www.jobtide.pt) - Portugal
+- [Job Vecto](http://www.jobvector.de) - Germany
+- [Job View](http://jobview.careerone.com.au) - Australia
+- [Job Ware](http://www.jobware.de) - Germany
+- [Job Winner](https://jobwinner.ch) - Switzerland
+- [Job forum](http://www.jobforum.ca) - Canada
+- [Job is job](http://www.jobisjob.de) - Germany
+- [JobSuch Maschine](https://jobsuchmaschine.ch) - Switzerland
+- [Jobbatical](https://jobbatical.com) - WorldWide
+- [Jobillico](https://www.jobillico.com) - Canada
+- [Jobomas](https://cl.jobomas.com) - Chile
+- [Jobs Angular](http://www.angularjobs.com) - WorldWide
+- [Jobs BG](https://www.jobs.bg) - Bulgaria
+- [Jobs Ch](https://www.jobs.ch) - Switzerland
+- [Jobs Code for America](http://jobs.codeforamerica.org) - EUA
+- [Jobs Emplois](http://www.jobs-emplois.gc.ca) - Canada
+- [Jobs IE](https://www.jobs.ie/it_programming_jobs.aspx) - Ireland
+- [Jobs OG](https://www.jobsog.com) - Canada
+- [Jobs Open](https://www.jobs-open.ca) - Canada
+- [Jobs Press](https://www.jobspress.com) - Canada
+- [Jobs Today World](https://www.jobstoday.world/) - WorldWide
+- [Jobs Zalando](https://jobs.zalando.co) - Europe
+- [Jobs in Brussels](http://www.jobsinbrussels.com) - Belgium
+- [Jobs in Copenhagen](http://www.jobsincopenhagen.com) - Denmark
+- [Jobs to Click](http://www.jobstoclick.com) - EUA
+- [Jobs](http://www.jobs.ca) - Canada
+- [Jobs](http://www.jobs.de) - Germany
+- [Jobshark](http://www.jobshark.com) - Canada
+- [Jolly Good Code](https://www.jollygoodcode.com) - Worldwide
+- [Jooble](http://jooble-de.com) - Germany
+- [Joyent](https://www.joyent.com/careers) - USA, UK, Canada, SK, SG
+- [JupiterOne](https://www.jupiterone.com/careers) - USA
+- [Just Remote](https://justremote.co) - WorldWide
+- [Just Tech Jobs](https://justtechjobs.com/) - Canada
+- [Kaam.work](https://www.kaam.work/platform/findjobs) - WorldWide
+- [Kaggle](https://kaggle.com) - Worldwide
+- [Keen IO](https://keen.io) - WorldWide
+- [Kelly Services](http://www.kellyservices.ca) - Canada
+- [Kentik](https://www.kentik.com/careers) - USA, Europe, APAC
+- [Key Values](http://www.keyvalues.com) - WorldWide
+- [Khan Academy](https://www.khanacademy.org) - USA
+- [KickBack Rewards Systems](https://careers.kickbacksystems.com) - USA
+- [Kiprosh](https://kiprosh.com) - USA & India
+- [Kissmetrics](https://www.kissmetrics.com) - USA & Worldwide
+- [Klaviyo](https://www.klaviyo.com) - USA & UK
+- [Knack](https://www.knack.com) - USA
+- [Kodify](https://kodify.io) - EU & Worldwide
+- [Koding](https://koding.com) - Worldwide
+- [Komoot](https://www.komoot.com) - Worldwide
+- [Kona](https://www.heykona.com) - Worldwide
+- [Konkurenta](https://konkurenta.com) - EU
+- [Kraken](https://kraken.com) - Worldwide
+- [Krop](http://www.krop.com) - EUA
+- [Kuali](https://kuali.co) - USA
+- [LINE Plus Corporation](https://linepluscorp.com) - Republic of Korea
+- [Labelbox](https://labelbox.com) - Worldwide
+- [Laborum](http://www.laborum.cl) - Chile
+- [Lambda School](https://www.lambdaschool.com) - USA & Europe
+- [Lambert Labs](https://lambertlabs.com) - UK
+- [Landing Jobs](http://www.landing.job) - Europe
+- [Larajobs](http://www.larajobs.com) - WorldWide
+- [LaterPay](https://www.laterpay.net) - Worldwide
+- [Leadership Success](https://www.leadershipsuccess.co) - Worldwide
+- [Leadfeeder](https://www.leadfeeder.com) - Europe & North America
+- [Learn4Good](https://www.learn4good.com/jobs) - Argentine
+- [Let's Encrypt](https://letsencrypt.org) - USA and Canada
+- [Lifetime Value Company](https://www.ltvco.com) - Worldwide
+- [Lightbend](https://www.lightbend.com) - Worldwide
+- [Linaro](https://www.linaro.org) - Worldwide
+- [Lincoln Loop](https://lincolnloop.com) - USA
+- [Link11](https://www.link11.org) - Germany
+- [Linkedin](https://www.linkedin.com/jobs/) - WorldWide
+- [Linux Foundation](https://www.linuxfoundation.org) - Worldwide
+- [LionSher](https://lionsher.com/careers) - Worldwide
+- [Litmus](https://litmus.com) - Worldwide
+- [LivePerson](https://www.liveperson.com/company/careers) - Worldwide
+- [Loadsys Web Strategies](https://www.loadsys.com) - USA
+- [Local Solo](http://localsolo.com/worldwide/jobs) - EUA
+- [Localistico](https://localistico.com/team/#hiring) - Worldwide
+- [Locanto](https://www.locanto.at) - Autria
+- [LogDNA](https://logdna.com/culture-and-career/) - Worldwide
+- [Lullabot](https://www.lullabot.com) - Worldwide
+- [Luxoft](https://www.luxoft.com) - Worldwide
+- [Lyseon Tech](https://lt.coop.br) - Brazil
+- [Lytx](https://www.lytx.com/en-us/about-us/careers) - USA
+- [Madisoft](https://labs.madisoft.it) - Italy
+- [MailerLite](https://www.mailerlite.com) - Worldwide
+- [Make it in Germany](http://www.make-it-in-germany.com) - Germany
+- [Manifold](https://manifold.co) - UTC -9 to UTC +1
+- [Manpower](https://www.manpower.ch) - Switzerland
+- [Mapbox](https://www.mapbox.com) - Worldwide
+- [Marco Polo](https://marcopolo.me) - North America
+- [Marketade](https://www.marketade.com) ️- USA
+- [MarsBased](https://marsbased.com) - Worldwide
+- [Maxicus](https://maxicus.com) - India
+- [Mediacurrent](https://www.mediacurrent.com) - USA
+- [Mediavine](https://www.mediavine.com) - USA
+- [Medium](https://medium.com) - USA
+- [Memberful](https://memberful.com) - Worldwide
+- [Memory](https://memory.ai) - Worldwide
+- [Mercari](https://about.mercari.com/en) - Japan
+- [Merico](https://merico.dev) - Worldwide
+- [MetaLab](https://metalab.co) - Worldwide
+- [MetaMask](https://metamask.io) - Worldwide
+- [Microsoft](https://www.microsoft.com) - Worldwide
+- [Mixcloud](https://www.mixcloud.com) - Europe
+- [Mixmax](https://mixmax.com) - Worldwide
+- [Mobile Jazz](https://mobilejazz.com) - Worldwide
+- [Modern Tribe](https://tri.be) - Worldwide
+- [Modsquad](https://modsquad.com) - Worldwide
+- [Molteo](https://molteo.com) - Worldwide
+- [MongoDB](https://mongodb.com) - Worldwide
+- [Monthly](https://monthly.com) - North America
+- [Mozilla](https://www.mozilla.org) - North America
+- [Muck Rack](https://muckrack.com) - Worldwide
+- [Mux](https://mux.com) - Worldwide
+- [MySQL](https://www.mysql.com) - Worldwide
+- [NBCC Consulting](http://nbcc-consulting.com) - Portugal
+- [NHS Jobs](https://www.jobs.nhs.uk) - England
+- [National e Vacature bank](https://www.nationalevacaturebank.nl) - Netherlands
+- [Nationwide](https://www.nationwide.com) - USA
+- [Net Carreiras](https://www.netcarreiras.com.br) - Brazil
+- [Net Empregos](http://www.net-empregos.com) - Portugal
+- [Netguru](https://www.netguru.com) - Worldwide
+- [Netris](https://www.netris.ai)	- Worldwide
+- [Netsparker](https://www.netsparker.com) - Worldwide
+- [Nettl Edinburgh](https://www.webdesignedinburgh.com) - UK & Europe
+- [New Context](https://www.newcontext.com) - USA
+- [News Ycombinator](http://news.ycombinator.com/jobs) - WorldWide
+- [Next Trucking](https://www.nexttrucking.com) - USA
+- [No Code No Problem](https://www.nocodenoprob.com) - Worldwide
+- [No Fluff Jobs](https://nofluffjobs.com) - Poland
+- [NoRedInk](https://noredink.com) - UTC -8 to UTC +1
+- [NodeSource](https://nodesource.com) - Worldwide
+- [Nodesk Remote Jobs](http://nodesk.co/remote-jobs) - WorldWide
+- [Novoda](https://www.novoda.com) - UK & Europe
+- [Npm](https://www.npmjs.com) - USA
+- [Nuage](https://nuagebiz.tech) - India
+- [Nuna](https://www.nuna.com) - USA
+- [O'Reilly Media](https://www.oreilly.com) - USA, UK, JPN, CHN
+- [Octopus Deploy](https://octopus.com) - Worldwide
+- [Oddball](https://oddball.io) - USA
+- [Okta](https://www.okta.com) - Worldwide
+- [Olark](https://www.olark.com) - UTC -8 to UTC +1
+- [Olist](https://olist.com) - Brazil
+- [Ollie Order](https://ollieorder.com) - Canada
+- [Ollie](https://www.myollie.com) - USA
+- [Olo](https://www.olo.com) - USA
+- [OmbuLabs](https://www.ombulabs.com) - Worldwide
+- [OmniTI](https://omniti.com) - USA
+- [On Startup Jobs](http://www.onstartupjobs.com) - Germany
+- [OnTheGoSystems](https://onthegosystems.com) - Worldwide
+- [Onsite](http://onsite.io) - WorldWide
+- [Opcion Empleos](https://www.opcionempleo.cl) - Chile
+- [OpenCraft](https://opencraft.com) - Worldwide
+- [OpenZeppelin](https://openzeppelin.com) - Worldwide
+- [Optimhire](https://optimhire.com) - WorldWide
+- [Optoro](https://www.optoro.com) - Worldwide
+- [Oracle](https://www.oracle.com) - Worldwide
+- [Our-Hometown Inc.](https://our-hometown.com) - USA
+- [Outsourcely Remote Workers](http://www.outsourcely.com/remote-workers) - WorldWide
+- [OutsourcingDev](https://www.outsourcingdev.com) - Worldwide
+- [Over](https://www.madewithover.com) - Worldwide
+- [PHP Jobs](https://github.com/phpdevbr/vagas/issues) - Brazil
+- [PNC Financial Services](https://www.pnc.com) - USA
+- [PNET](https://www.pnet.co.za) - South Africa
+- [Pagepro](https://pagepro.co) - UK, PL, Europe
+- [PagerDuty](https://pagerduty.com) - USA
+- [Paktor](https://www.gopaktor.com) - Worldwide
+- [Palantir.net](https://www.palantir.net) - USA
+- [Panda Jobs](http://panda.jobs) - WorldWide
+- [Panther Labs](https://runpanther.io) - USA, Greece
+- [Parabol](https://www.parabol.co) - Worldwide
+- [Park Assist](https://tech.parkassist.com) - UTC -8 to UTC +2
+- [Parsely](https://www.parse.ly) - Worldwide
+- [Particular Software](https://particular.net) - Worldwide
+- [Pathable](https://pathable.com) - Worldwide
+- [PayScale](https://www.payscale.com) - USA
+- [PayU](https://corporate.payu.com) - Worldwide
+- [Payfully](https://www.payfully.co) - Worldwide
+- [Paylocity](https://www.paylocity.com) - USA
+- [Paytm Labs](https://paytmlabs.com) - Canada & USA
+- [Peachworks](https://www.getbeyond.com/peachworks-restaurant-management-software) - USA
+- [People per Hour](http://www.peopleperhour.com/freelance-jobs) - WorldWide
+- [PeopleDoc](https://www.people-doc.com) - Europe
+- [Percona](https://www.percona.com) - Worldwide
+- [Pex](https://pex.com) - Worldwide
+- [PicksCo](https://interchangehq.com) - UTC -7 to UTC +1
+- [Pitch ME](https://pitchme.co) - WorldWide
+- [Plai](https://plai.team) - Europe, North America
+- [Platform Builders](https://platformbuilders.io) - Worldwide
+- [Platform.sh](https://platform.sh) - Worldwide
+- [Pleo](https://www.pleo.io) - East American / European / African timezones
+- [Plex](https://plex.tv) - Worldwide
+- [Pluo jobs](https://pluo.jobs/) - WorldWide
+- [Polygon](https://polygon.technology/careers/#all-roles) - Worldwide
+- [Portland Tech](http://portlandtech.org) - EUA
+- [Porto for Talent](https://portofortalent.com/) - Portugal
+- [PowerSchool](https://www.powerschool.com) - North America
+- [Powertofly](http://www.powertofly.com/jobs) - WorldWide
+- [Pracuj Pl](https://www.pracuj.pl) - Poland
+- [Precision Nutrition](https://www.precisionnutrition.com) - Worldwide
+- [Predict Mobile](https://predictmobile.com) - UK
+- [Prelude](https://www.prelude.co) - USA
+- [PreviousNext](https://www.previousnext.com.au) - Australia
+- [Prezi](https://prezi.com/jobs) - Europe & North America
+- [Prezly](https://www.prezly.com) - Worldwide
+- [PricewaterhouseCoopers](https://www.pwc.com) - USA
+- [PrivacyCloud](https://www.privacycloud.com/en) - Spain
+- [Procenge Tecnologia](https://www.procenge.com.br) - Brazil
+- [Procurify](https://procurify.com/careers) - Canada
+- [ProgramaThor](http://www.programathor.com.br) - Brazil
+- [Progress Engine](https://www.progress-engine.com/en) - Worldwide
+- [Prominent Edge](https://prominentedge.com/careers) - Worldwide
+- [Provadis](https://www.provadis.de) - Germany
+- [Puppet](https://puppet.com) - Worldwide
+- [Python Jobs Board](http://pythonjobs.github.io) - WorldWide
+- [Python Jobs HQ](https://www.pythonjobshq.com) - WorldWide
+- [Python Org Jobs](https://www.python.org/jobs) - WorldWide
+- [Quaderno](https://quaderno.io) - Europe
+- [Quantify](https://quantifyhq.com) - Worldwide
+- [Quantum](https://www.quantum.ca/) - Canada
+- [Quora](https://www.quora.com) - Worldwide
+- [Rackspace](https://rackspace.com) - Worldwide
+- [Raft](https://goraft.tech) - USA
+- [Rainforest QA](https://www.rainforestqa.com/jobs) - Worldwide
+- [Ramp](https://www.ramp.com) - Worldwide
+- [Randstad](http://www.randstad.ca) - Canada
+- [ReCharge](https://rechargepayments.com) - Worldwide
+- [Reachr](http://www.reachr.com.br) - Brazil
+- [React jobs board](https://reactjobsboard.com) - WorldWide
+- [Reaction Commerce](https://reactioncommerce.com/careers) - Worldwide
+- [ReactiveOps, Inc.](https://www.reactiveops.com) - USA
+- [Real digital](https://www.real-digital.de) - Europe UTC -1 to UTC +2
+- [RealtimeCRM](https://realtimecrm.co.uk) - Worldwide
+- [RebelMouse](https://www.rebelmouse.com) - Worldwide
+- [Reboot Studio](https://www.reboot.studio) - Worldwide
+- [RecWorks](https://recworks.co.uk) - England
+- [Recruit Ireland](http://www.recruitireland.com) - Ireland
+- [Recruta Simples](https://www.recrutasimples.com.br) - Brazil
+- [Recurly](https://recurly.com) - USA
+- [Red Hat](https://www.redhat.com) - Worldwide
+- [RedMonk](https://redmonk.com) - Worldwide
+- [Reddit](https://www.redditinc.com) - USA
+- [Redox](https://www.redoxengine.com) - USA
+- [Reducer](https://reducer.co.uk) - UK
+- [Reed UK](http://www.reed.co.uk) - England
+- [RelocateMe](https://relocate.me) - WorldWide
+- [Remote Base](https://remotebase.io) - WorldWide
+- [Remote CO](http://remote.co) - WorldWide
+- [Remote Crew](https://www.remotecrew.io/jobs) - WorldWide
+- [Remote Garage](http://www.remotegarage.club) - India
+- [Remote List](https://remotelist.io) - WorldWide
+- [Remote More](https://remotemore.com) - WorldWide
+- [Remote Python Io](https://remotepython.io) - WorldWide
+- [Remote Python](https://www.remotepython.com) - WorldWide
+- [Remote Working](http://www.remoteworking.co) - WorldWide
+- [RemoteBase](https://remotebase.com) - Worldwide
+- [Remotees](https://remotees.com) - WorldWide
+- [Remoteok](http://www.remoteok.io) - WorldWide
+- [Remotive](http://remotive.io) - WorldWide
+- [RenoFi](https://renofi.com) - Worldwide
+- [Research Square](https://www.researchsquare.com) - USA
+- [Resumark](http://www.resumark.com) - Canada
+- [Roadtrippers](https://www.roadtrippers.com) - USA
+- [Robert Half](http://www.roberthalf.com) - EUA
+- [Rocket.Chat](https://rocket.chat) - Worldwide
+- [SUSE](https://www.suse.com) - Worldwide
+- [Safari Books Online](https://www.safaribooksonline.com) - Worldwide
+- [Sales force Search](http://www.salesforcesearch.com) - Canada
+- [Salesforce](https://www.salesforce.com) - Worldwide
+- [Sandhills Development](https://sandhillsdev.com) - Worldwide
+- [Scalac](https://scalac.io) - Worldwide
+- [Scandit](https://scandit.com) - Worldwide
+- [Scopic Software](https://scopicsoftware.com) - Worldwide
+- [ScrapingBee](https://www.scrapingbee.com) - Worldwide
+- [Scrapinghub](https://scrapinghub.com) - Worldwide
+- [ScyllaDB](https://scylladb.com) - Worldwide
+- [Seaplane](https://www.seaplane.io) - Worldwide
+- [SecurityScorecard](https://securityscorecard.com) - UTC -3 to -5
+- [Seek NZ](http://www.seek.co.nz) - New Zeland
+- [Seek](http://www.seek.com.au) - Autralia
+- [Seeq](https://www.seeq.com) - USA, Worldwide
+- [Semaphore](https://semaphoreci.com) - Europe
+- [Sensu](https://sensuapp.org) - USA and Canada
+- [SerpApi](https://serpapi.com) - Worldwide
+- [ServMask](https://servmask.com) - Worldwide
+- [Server Density](https://www.serverdensity.com) - Europe
+- [Session](https://getsession.com) - Worldwide
+- [Shareup](https://shareup.app) - Europe
+- [Shogun](https://getshogun.com) - Worldwide
+- [Shopify](https://www.shopify.com) - Worldwide
+- [SignEasy](https://getsigneasy.com) - Worldwide
+- [Silverfin](https://www.silverfin.com) - Worldwide
+- [SimpleTexting](https://simpletexting.com) - Worldwide
+- [Simple](https://www.simple.com) - USA
+- [Simply Hired (acessar final da pagina)](http://www.simplyhired.com) - Worldwide
+- [Sisystems](http://www.sisystems.com) - Canada
+- [Six to Start](https://sixtostart.com) - Worldwide
+- [Skillcrush](https://skillcrush.com) - Worldwide
+- [Skillshare](https://www.skillshare.com/teach) - Worldwide
+- [Skip the Drive](http://www.skipthedrive.com) - WorldWide
+- [Skyrocket Ventures](https://www.skyrocketventures.com) - Worldwide
+- [Slack jobs](https://slack.com/jobs) - WorldWide
+- [Slackatwork](http://slackatwork.com) - WorldWide
+- [SmartCash](https://www.smartcash.cc) - Worldwide
+- [Smashing Magazin](http://www.smashingmagazine.com/jobs) - EUA
+- [Smile.io](https://smile.io) - Worldwide
+- [SmugMug](https://www.smugmug.com) - Worldwide
+- [Socket Supply Co.](https://socketsupply.co) - Worldwide
+- [SoftwareMill](https://softwaremill.com) - Europe
+- [Soostone](https://www.soostone.com) - USA
+- [Soshace](https://www.soshace.com) - Worldwide
+- [Spoqa](https://www.spoqa.com) - Republic of Korea, Japan
+- [Spotify](https://www.spotify.com) - Worldwide
+- [Spreaker](https://spreaker.com) - US - Europe
+- [Spreedly](https://spreedly.com) - USA
+- [Sprint CV Jobs](https://www.sprintcv.com/it-jobs) - WorldWide
+- [Spruce](https://getspruce.com) - North America, Latin America
+- [Stack Exchange](https://stackexchange.com) - Worldwide
+- [Stackoverflow Jobs](http://www.stackoverflow.com/jobs) - WorldWide
+- [Stairlin](https://www.stairlin.com) - Worldwide
+- [Start-up Jobs Dublin](http://dublinstartupjobs.com) - Ireland
+- [Startup Jobs](https://startup.jobs) - WorldWide
+- [Startus Jobs](http://www.startus.cc/jobs) - WorldWide
+- [Status](https://www.status.im) - Worldwide
+- [Staufenbiel](http://staufenbiel.de) - Germany
+- [Stencil](https://getstencil.com) - USA and Canada
+- [Step Stone (acessar final da pagina)](http://www.stepstone.ch) - WorldWide
+- [Stitch Fix](https://www.stitchfix.com) - USA
+- [StoneCo](https://www.stone.co) - Brazil
+- [StormX](https://stormx.io) - Worldwide
+- [Strapi](https://strapi.io/careers) - Worldwide
+- [StreamNative](https://streamnative.io/careers) - Worldwide
+- [Stripe](https://stripe.com) - Worldwide
+- [StudySoup](https://studysoup.com) - Worldwide
+- [Superplayer & Co](https://www.superplayer.co) - Brazil, Latin America
+- [Surevine](https://www.surevine.com) - United Kingdom
+- [Sutherland CloudSource](https://www.sutherlandcloudsource.com) - Worldwide
+- [SweetRush](https://www.sweetrush.com) - Worldwide
+- [Swimlane](https://www.swimlane.com) - USA
+- [Swiss Dev Jobs](https://swissdevjobs.ch) - Switzerland
+- [Sysdig](https://www.sysdig.org)️ - WorldWide
+- [TED](https://www.ted.com) - USA, CA, Brazil
+- [Tag1 Consulting](https://tag1consulting.com) - Worldwide
+- [Taledo](https://taledo.com) - Europe
+- [Talent Hubstaff](http://talent.hubstaff.com/search/jobs) - WorldWide
+- [Talent IO](https://www.talent.io) - WorldWide
+- [Talent](https://br.talent.com/worldwide) - WorldWide
+- [Talentegg](http://www.talentegg.ca) - Canada
+- [Taplytics](https://taplytics.com) - USA, Canada
+- [Taskade](https://taskade.com) - Worldwide
+- [TatvaSoft](https://www.tatvasoft.com) - Worldwide
+- [TaxJar](https://www.taxjar.com) - USA
+- [TeamSnap](https://www.teamsnap.com) - USA
+- [TeamUltra](https://www.teamultra.net) - UK
+- [Teamflow](https://www.teamflow.com) - Worldwide
+- [Teamlyzer](https://pt.teamlyzer.com) - Portugal
+- [Tech Careers](https://www.techcareers.com) - Canada
+- [Tech me Abroad](http://techmeabroad.com) - WorldWide
+- [Tecla Io](https://dashboard.tecla.io/jobs) - EUA
+- [TecnoJobs](http://tecnojobs.pt) - Portugal
+- [Teleport](https://teleport.org) - USA, Europe
+- [Telerik](https://www.telerik.com) - Worldwide
+- [Telestax](https://telestax.com) - Worldwide
+- [Tenable](https://www.tenable.com) - Worldwide, Primarily USA
+- [Test Double](https://testdouble.com) - North America
+- [The Grid](https://thegrid.io) - Worldwide
+- [The Ladders](http://www.theladders.com) - Canada
+- [The Local](http://www.thelocal.de) - Germany
+- [The Muse](http://www.themuse.com/jobs) - WorldWide
+- [The Publisher Desk](https://www.publisherdesk.com) - UK and US
+- [The Scale Factory](https://www.scalefactory.com) - UK
+- [The Stamford Group](http://thestamfordgroup.com) - Switzerland
+- [The Wirecutter](https://thewirecutter.com) - Worldwide
+- [The hub](https://thehub.io/job) - Europe
+- [Thedrum Jobs](http://www.thedrum.com/jobs) - WorldWide
+- [Theorem](https://theorem.co) - UTC -10 to UTC +2
+- [Thinkful](https://www.thinkful.com) - WorldWide
+- [Third Iron](https://thirdiron.com) - USA
+- [Thorn](https://thorn.org) - USA
+- [Ti Jobs](http://www.tijobs.com.br) - Brazil
+- [TimeSpot](https://timespothq.com) - Worldwide
+- [Tipe](https://tipe.io) - USA
+- [Toast](https://pos.toasttab.com) - USA and Ireland
+- [Toptal](http://www.toptal.com) - Worldwide
+- [Toptal](https://www.toptal.com) - Worldwide
+- [Torre CO](https://torre.co) - WorldWide
+- [Total Jobs](http://www.totaljobs.com) - England
+- [Tower](https://www.git-tower.com) - Worldwide
+- [Trabajando](https://www.trabajando.cl) - Chile
+- [Trabalho Certo](http://www.trabalhocerto.pt) - Portugal
+- [Tractionboard](https://tractionboard.io) ️- USA
+- [Trade ME](http://www.trademe.co.nz) - New Zeland
+- [Trampos CO](http://www.trampos.co) - Brazil
+- [Transition Technologies - Advanced Solutions](https://www.ttas.pl) - Poland
+- [Transloadit](https://transloadit.com) - Worldwide
+- [Travis CI](https://travis-ci.org) - Worldwide
+- [Travis](https://travistravis.co) - Worldwide
+- [Treehouse](https://teamtreehouse.com) - USA
+- [Treff Punkt](https://www.treffpunkt-arbeit.ch/home/job-seeker) - Switzerland
+- [Trello](https://trello.com) - Asia, Europe, North America, Oceania
+- [Triga Consulting](http://www.triga-consulting.de) - Germany
+- [Truelogic](https://www.truelogicsoftware.com) - Latin America
+- [TrussWorks](https://truss.works) - USA
+- [Tuft & Needle](https://www.tuftandneedle.com) - USA
+- [Twilio](https://www.twilio.com) - Worldwide
+- [USAA](https://usaa.com) - USA
+- [Udacity](https://www.udacity.com) - Worldwide
+- [Uhuru](https://uhurunetwork.com) - Worldwide
+- [Uncapped](https://weareuncapped.com) - Europe, USA
+- [Underdog](http://underdog.io) - EUA
+- [Undutchables](https://undutchables.nl) - Netherlands
+- [Unicorn Hunt](https://unicornhunt.io) - Europe
+- [Upwork Pro](https://www.upwork.com) - North America
+- [Upwork](http://www.upwork.com) - WorldWide
+- [Upworthy](https://www.upworthy.com) - Worldwide, Time Zone: PST, PDT
+- [Ushahidi](https://www.ushahidi.com) - Worldwide
+- [VSHN](https://vshn.ch/jobs)️️ - Switzerland
+- [Vaga Colaborativa](http://www.vagacolaborativa.com.br) - Brazil
+- [Vagas POA](https://www.vagaspoa.com.br) - Brazil
+- [Vagas na Net](http://www.vagasnanet.com.br) - Brazil
+- [Vagas](http://www.vagas.com.br) - Brazil
+- [Valimail](https://www.valimail.com) - USA
+- [Vanchack](https://vanhack.com/jobs) - WorldWide
+- [Varnish Software](https://www.varnish-software.com/about-us) - Worldwide
+- [Venture Loop](http://ventureloop.com) - WorldWide
+- [Venture Village](http://venturevillage.eu/jobs) - Germany
+- [Vercel](https://vercel.com) - Worldwide
+- [Verizon](https://verizon.com/about/work) - EUA
+- [Veryfi](https://veryfi.com/about) - Worldwide
+- [Vettery](https://www.vettery.com) - WorldWide
+- [Viperdev](https://viperdev.io) - Worldwide
+- [Virtual Vocations](http://www.virtualvocations.com/jobs) - WorldWide
+- [Vivid Resourcing](https://www.vividresourcing.com/job-result) - Europe
+- [Vox Media (Product Team)](https://www.voxmedia.com) - USA, UK
+- [Voxy](https://boards.greenhouse.io/voxy)️️ - Brazil, USA
+- [Vtrac](http://www.vtrac.com) - Canada
+- [VueJs Jobs](https://vuejobs.com) - WorldWide
+- [WERK](https://www.werk.nl/werk_nl/werknemer/vacatures) - Netherlands
+- [WFH](http://www.wfh.io) - WorldWide
+- [WP Hired](http://www.wphired.com) - WorldWide
+- [WP-Media](https://wp-media.me) - Worldwide
+- [WalletHub](https://wallethub.com/jobs) - USA
+- [We Work Remotely](http://www.weworkremotely.com) - WorldWide
+- [WeJob.ch](https://wejob.ch) - Switzerland
+- [WeMakeMVP](https://www.wemakemvp.com) - Worldwide
+- [WebDevStudios](https://webdevstudios.com) - USA
+- [WebFX](https://www.webfx.com) - Worldwide
+- [Webikon](https://www.webikon.sk/en) - Worldwide
+- [Wells Fargo](https://www.wellsfargo.com) -WorldWide
+- [West force Canada](http://www.westforcecanada.com) - Canada
+- [Whitecap SEO](https://www.whitecapseo.com) - USA
+- [Whitespectre](https://whitespectre.com) - Worldwide
+- [WikiHow](https://www.wikihow.com/wikiHow:About-wikiHow) ️- PST Timezone
+- [Wikimedia Foundation](https://wikimediafoundation.org) - Worldwide
+- [Wildbit](https://wildbit.com) - USA & Worldwide
+- [Wizeline](https://www.wizeline.com) - Worldwide
+- [Wolfram](https://www.wolfram.com) - Worldwide
+- [Wombat Security Technologies](https://www.wombatsecurity.com) - USA
+- [Work BC](https://www.workbc.ca) - Canada
+- [Work in Denmark](https://www.workindenmark.dk) - Denmark
+- [Work in Estonia](https://www.workinestonia.com/latest-offers/?cat=41) - Estonia
+- [Workib](http://www.workib.cl) - Chile
+- [Working Nomads](http://www.workingnomads.co/jobs) - WorldWide
+- [Workintech CA](https://www.workintech.ca) - Canada
+- [Workopolis](https://www.workopolis.com) - Canada
+- [Workray](https://www.workray.com) - WorldWide
+- [Wow Jobs](http://www.wowjobs.ca) - Canada
+- [X-Team](https://x-team.com) - Worldwide
+- [X4 Technology](https://www.x4technology.co.uk) - England
+- [XP Inc](https://www.xpi.com.br) - Brazil
+- [Xapo](https://xapo.com/en) - Worldwide
+- [Xing Jobs](https://www.xing.com/jobs) - Germany
+- [Xpat Jobs](http://www.xpatjobs.de) - Germany
+- [YAZIO](https://www.yazio.com/en/jobs) - Europe
+- [Yandex](https://yandex.com) - Worldwide
+- [Yodo1](https://www.yodo1.com/en) - Worldwide
+- [Yonder](https://www.yonder.io) - Worldwide
+- [You Need A Budget](https://www.youneedabudget.com) - Worldwide
+- [YouCanBook.me Ltd](https://youcanbook.me) - Worldwide
+- [Zapier](https://zapier.com) - Worldwide
+- [Zeit.io](https://zeit.io) - Germany, The Netherlands, Spain, Chile
+- [Zero to one Search](https://jobs.zerotoonesearch.com/careers) - Germany
+- [Zignaly.com](https://zignaly.io) - Worldwide
+- [Zip Recruiter](http://www.ziprecruiter.com) - WorldWide
+- [Zip.co](https://zip.co/us) - USA, Canada
+- [Zona Jobs](https://www.zonajobs.com.ar) - Argentine
+- [Zup](https://zup.com.br) - Brazil
+- [abiturma](https://www.abiturma.de) - Germany
+- [acct](https://acct.global) - Worldwide
+- [allyDVM](https://www.allydvm.com) - USA
+- [apartment therapy](http://www.apartmenttherapy.com) - USA
+- [argyle](https://argyle.com) - Worldwide
+- [charity: water](https://www.charitywater.org) - USA, Offices in NY
+- [fohandboh](https://fohandboh.com) - Worldwide
+- [iClinic](https://iclinic.com.br) - Brazil
+- [iFit](https://www.ifit.com) - USA
+- [iOS App Templates](https://www.iosapptemplates.com) - Worldwide
+- [iRonin](https://www.ironin.it) - Worldwide
+- [iwantmyname](https://iwantmyname.com) - Worldwide
+- [journy.io](https://www.journy.io) - Europe
+- [kea](https://kea.ai) - North and Latin America
+- [madewithlove](https://madewithlove.com) - UTC -5 to UTC +3
+- [mtc.](https://www.mtcmedia.co.uk) - UK & Europe
+- [reinteractive](https://reinteractive.com/careers) - Worldwide
+- [rtCamp](https://rtcamp.com) - Worldwide
+- [simplabs](https://simplabs.com) - Europe and Americas
+- [toggl](https://toggl.com) - Worldwide
+- [uShip](https://www.uship.com) - USA
+- [vast limits](https://vastlimits.com) - Germany
+- [voiio](https://voiio.de) - Europe
+- [wemake.services](https://wemake.services) - Worldwide
