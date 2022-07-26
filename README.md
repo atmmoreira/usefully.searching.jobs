@@ -747,6 +747,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Ocado Group](https://www.ocadogroup.com/careers/search-and-apply?category=Engineering%20and%20technology)
 - [Octopus Deploy](https://octopus.com) - Worldwide
 - [Oddball](https://oddball.io) - USA
+- [OfferZen](https://www.offerzen.com/) - WorldWide
 - [Okta](https://www.okta.com) - Worldwide
 - [Olark](https://www.olark.com) - UTC -8 to UTC +1
 - [Olist](https://olist.com) - Brazil
