@@ -778,6 +778,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [PagerDuty](https://pagerduty.com) - USA
 - [Paktor](https://www.gopaktor.com) - Worldwide
 - [Palantir.net](https://www.palantir.net) - USA
+- [Pallet - The remote job club](https://theremotejobclub.pallet.com/jobs) - WorldWide
 - [Panda Jobs](http://panda.jobs) - WorldWide
 - [Panther Labs](https://runpanther.io) - USA, Greece
 - [Parabol](https://www.parabol.co) - Worldwide
