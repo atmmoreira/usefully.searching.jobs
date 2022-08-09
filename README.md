@@ -972,6 +972,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Sysdig](https://www.sysdig.org)️ - WorldWide
 - [TED](https://www.ted.com) - USA, CA, Brazil
 - [Tag1 Consulting](https://tag1consulting.com) - Worldwide
+- [Tailwindcss Jobs](https://jobs.tailwindcss.com) - WorldWide
 - [Taledo](https://taledo.com) - Europe
 - [Talent Hubstaff](http://talent.hubstaff.com/search/jobs) - WorldWide
 - [Talent IO](https://www.talent.io) - WorldWide
