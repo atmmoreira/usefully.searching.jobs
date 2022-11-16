@@ -10,7 +10,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 
 <br />
 
-# Empresas no Mundo para trabalhos remotos
+# Empresas no Mundo para trabalhos remotosng
 
 » [Remote Job Worldwide](https://github.com/remoteintech/remote-jobs)
 
@@ -79,7 +79,6 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Amazon Web Service](https://www.amazon.jobs/en)
 - [Ambaum](https://ambaum.com) - USA, Europe
 - [Andela](https://andela.com) - Worldwide
-- [Angel CO](http://www.angel.co) - WorldWide
 - [Animalz](https://www.animalz.co) - USA
 - [Anomali](https://www.anomali.com/company/careers) - USA, UK, Singapore
 - [Apartment therapy](http://www.apartmenttherapy.com) - USA
@@ -1017,8 +1016,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Tipe](https://tipe.io) - USA
 - [Toast](https://pos.toasttab.com) - USA and Ireland
 - [Toggl](https://toggl.com) - Worldwide
-- [Toptal](http://www.toptal.com) - Worldwide
-- [Toptal](https://www.toptal.com) - Worldwide
+- [Toptal](http://www.toptal.com) - WorldwideIa
 - [Torre CO](https://torre.co) - WorldWide
 - [Total Jobs](http://www.totaljobs.com) - England
 - [Tower](https://www.git-tower.com) - Worldwide
@@ -1050,8 +1048,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Underdog](http://underdog.io) - EUA
 - [Undutchables](https://undutchables.nl) - Netherlands
 - [Unicorn Hunt](https://unicornhunt.io) - Europe
-- [Upwork Pro](https://www.upwork.com) - North America
-- [Upwork](http://www.upwork.com) - WorldWide
+- [Upwork Pro](https://www.upwork.com) - WorldWide
 - [Upworthy](https://www.upworthy.com) - Worldwide, Time Zone: PST, PDT
 - [Urbanara](https://careers.jobscore.com/careers/urbanara)
 - [Usabillla](https://jobs.usabilla.com)
@@ -1093,6 +1090,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [WebDevStudios](https://webdevstudios.com) - USA
 - [WebFX](https://www.webfx.com) - Worldwide
 - [Webikon](https://www.webikon.sk/en) - Worldwide
+- [Well Found](http://wellfound.com) - WorldWide
 - [Wells Fargo](https://www.wellsfargo.com) -WorldWide
 - [Wemake.services](https://wemake.services) - Worldwide
 - [Werkspot](https://www.careersatwerkspot.com)
@@ -1104,7 +1102,6 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Wildbit](https://wildbit.com) - USA & Worldwide
 - [Wizeline](https://www.wizeline.com) - Worldwide
 - [Wolfram](https://www.wolfram.com) - Worldwide
-- [Wolfram](https://www.wolfram.com/company/careers/opportunities)
 - [Wombat Security Technologies](https://www.wombatsecurity.com) - USA
 - [Work BC](https://www.workbc.ca) - Canada
 - [Work in Denmark](https://www.workindenmark.dk) - Denmark
