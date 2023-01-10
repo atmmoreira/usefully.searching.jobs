@@ -689,6 +689,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Marco Polo](https://marcopolo.me) - North America
 - [Marketade](https://www.marketade.com) ️- USA
 - [MarsBased](https://marsbased.com) - Worldwide
+- [Mason Frank](https://www.masonfrank.com/) - Worldwide
 - [MaxMilhas](http://www.maxmilhas.com.br)
 - [Maxicus](https://maxicus.com) - India
 - [Mckinsey](https://www.mckinsey.com/careers/search-jobs)
