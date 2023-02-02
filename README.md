@@ -597,6 +597,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [JobSuch Maschine](https://jobsuchmaschine.ch) - Switzerland
 - [Jobbatical](https://jobbatical.com) - WorldWide
 - [Jobillico](https://www.jobillico.com) - Canada
+- [Jobs Vantech Jornal](https://jobs.vantechjournal.com) - Canada
 - [Jobomas](https://cl.jobomas.com) - Chile
 - [Jobs Angular](http://www.angularjobs.com) - WorldWide
 - [Jobs BG](https://www.jobs.bg) - Bulgaria
