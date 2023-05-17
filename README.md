@@ -394,6 +394,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Flowing](https://flowing.it) - Italy
 - [Focusnetworks](https://focusnetworks.com.br) - Worldwide
 - [Fohandboh](https://fohandboh.com) - Worldwide
+- [Force Talks](https://www.forcetalks.com/jobs) - Worldwide
 - [Formidable](https://www.formidable.com) - USA, Canada, UK, Europe
 - [Formstack](https://www.formstack.com) - Worldwide
 - [Foss Jobs](http://www.fossjobs.net) - WorldWide
