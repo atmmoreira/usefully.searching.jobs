@@ -33,13 +33,12 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [18F](https://18f.gsa.gov) - USA
 - [1Password](https://www.1password.com) - North America, UK
 - [42 Technologies](https://www.42technologies.com) - Worldwide
-- [6 Figures](http://www.6figures.com) - Canada
-- [6 Nomads](https://6nomads.com/resources/remotejob) - WorldWide
+- [6 Nomads](https://6nomads.com) - WorldWide
 - [99Freelas](https://www.99freelas.com.br) - Brazil
 - [ADP Jobs](https://jobs.adp.com) - WorldWide
 - [AE Studio](https://ae.studio) - USA, BR
 - [ALICE](https://aliceplatform.com) - Worldwide
-- [ARK](https://www.ark.io/careers) - Worldwide
+- [ARK](https://www.ark.io) - Worldwide
 - [Abiturma](https://www.abiturma.de) - Germany
 - [Ably](https://www.ably.io) - Europe
 - [About you](https://corporate.aboutyou.de/en/departments/tech)
@@ -61,14 +60,10 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Aerolab](https://aerolab.co) - Latin America
 - [AgFlow](https://www.agflow.com) - Europe
 - [Aha!](https://www.aha.io) - Worldwide
-- [Aim India](https://www.aimincorp.com) - India
 - [AirGarage](https://www.airgarage.com) - USA
 - [AirTreks](https://www.airtreks.com) - USA
 - [Airbyte](https://airbyte.com) - Europe, North America, Latin America
-- [Aivitex](https://www.aivitex.de) - Germany
-- [Algolia](https://www.algolia.com/careers)
 - [Algorand](https://www.algorand.com) - USA
-- [Algorithmia](https://algorithmia.com) - the USA or Canada
 - [Alight Solutions](https://alight.com) - Worldwide
 - [All Star Jobs](https://www.allstarjobs.ca) - Canada
 - [Alley](https://alley.co) - USA, Canada, Western Europe
@@ -100,10 +95,8 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Audiense](https://www.audiense.com) ️- Worldwide
 - [Aula Education](https://aula.education) - Worldwide
 - [Auth0](https://auth0.com) - Worldwide
-- [Auth0](https://auth0.com/careers/positions)
 - [Authentic Jobs](http://authenticjobs.com) - WorldWide
 - [Auto Jobs](https://www.auto-jobs.ca) - Canada
-- [Autodesk](https://autodesk.rolepoint.com)
 - [Automattic](https://automattic.com) - Worldwide
 - [Automattic](https://automattic.com/work-with-us)
 - [Axelerant](https://axelerant.com) - Worldwide
@@ -280,6 +273,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Data Science Brigade](https://dsbrigade.com) - Worldwide
 - [DataCamp](https://www.datacamp.com) - Europe or comparable timezone
 - [DataDog](https://www.datadoghq.com)
+- [DataRobot](https://algorithmia.com) - the USA or Canada
 - [DataStax](https://www.datastax.com) - Worldwide
 - [Datadog](https://www.datadoghq.com) - Worldwide
 - [Datica](https://datica.com) - USA
