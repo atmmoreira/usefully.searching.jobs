@@ -16,7 +16,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 
 <br />
 
-# Empresas no brasil para trabalhos remotos
+# Empresas no Brasil para trabalhos remotos
 
 » [Remote Job Brazil](https://github.com/lerrua/remote-jobs-brazil)
 
