@@ -63,6 +63,8 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [AirGarage](https://www.airgarage.com) - USA
 - [AirTreks](https://www.airtreks.com) - USA
 - [Airbyte](https://airbyte.com) - Europe, North America, Latin America
+- [Aivitex](https://www.aivitex.de) - Germany
+- [Algolia](https://www.algolia.com/careers)
 - [Algorand](https://www.algorand.com) - USA
 - [Alight Solutions](https://alight.com) - Worldwide
 - [All Star Jobs](https://www.allstarjobs.ca) - Canada
@@ -94,7 +96,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Astronomer](https://www.astronomer.io) - USA
 - [Audiense](https://www.audiense.com) ️- Worldwide
 - [Aula Education](https://aula.education) - Worldwide
-- [Auth0](https://auth0.com) - Worldwide
+- [Auth0](https://auth0.com/careers/positions) - Worldwide
 - [Authentic Jobs](http://authenticjobs.com) - WorldWide
 - [Auto Jobs](https://www.auto-jobs.ca) - Canada
 - [Automattic](https://automattic.com) - Worldwide
@@ -273,7 +275,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Data Science Brigade](https://dsbrigade.com) - Worldwide
 - [DataCamp](https://www.datacamp.com) - Europe or comparable timezone
 - [DataDog](https://www.datadoghq.com)
-- [DataRobot](https://algorithmia.com) - the USA or Canada
+- [DataRobot](https://www.datarobot.com/careers/) - the USA or Canada
 - [DataStax](https://www.datastax.com) - Worldwide
 - [Datadog](https://www.datadoghq.com) - Worldwide
 - [Datica](https://datica.com) - USA
