@@ -116,12 +116,10 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Basecamp](https://basecamp.com) - Worldwide
 - [BeBanjo](https://bebanjo.com) - Worldwide
 - [BeBee](https://www.bebee.com) - WorldWide
-- [Bear Group](https://www.beargroup.com) - USA
 - [BeenVerified](https://www.beenverified.com) - Worldwide
 - [Behance Jobs](http://www.behance.net/joblist) - WorldWide
 - [Bep](https://www.bep.gov.pt/default.aspx) - POrtugal
 - [Berlin Statup Jobs](http://berlinstartupjobs.com) - Germany
-- [Best Jobs CA](https://www.bestjobsca.com) - Canada
 - [Best Practical Solutions](https://bestpractical.com) - Worldwide
 - [BetaPeak](https://betapeak.com) - Worldwide
 - [Betable](https://corp.betable.com) - USA, Europe
@@ -232,6 +230,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Compucorp](https://www.compucorp.co.uk)️ - Worldwide
 - [Computer Jobs](http://www.computerjobs.com) - EUA
 - [Computer World](https://www.computerworld.com.pt/emprego) - Portugal
+- [Computrabajo](https://www.computrabajo.com/) - Canada
 - [Connecticum](http://www.connecticum.de) - Germany
 - [Connexa](https://www.connexa.com) - Worldwide
 - [ConsenSys](https://consensys.net) - Worldwide
