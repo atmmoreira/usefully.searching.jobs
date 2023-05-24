@@ -116,16 +116,13 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Basecamp](https://basecamp.com) - Worldwide
 - [BeBanjo](https://bebanjo.com) - Worldwide
 - [BeBee](https://www.bebee.com) - WorldWide
-- [Bear Group](https://www.beargroup.com) - USA
 - [BeenVerified](https://www.beenverified.com) - Worldwide
 - [Behance Jobs](http://www.behance.net/joblist) - WorldWide
 - [Bep](https://www.bep.gov.pt/default.aspx) - POrtugal
 - [Berlin Statup Jobs](http://berlinstartupjobs.com) - Germany
-- [Best Jobs CA](https://www.bestjobsca.com) - Canada
 - [Best Practical Solutions](https://bestpractical.com) - Worldwide
 - [BetaPeak](https://betapeak.com) - Worldwide
 - [Betable](https://corp.betable.com) - USA, Europe
-- [Betalist](http://betalist.com/jobst) - WorldWide
 - [BetterUp](https://betterup.co) - USA
 - [BeyondPricing](https://beyondpricing.com) - USA, Europe
 - [Big Cartel](https://www.bigcartel.com) - USA
@@ -136,12 +133,10 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Bitovi](https://bitovi.com) - USA & Worldwide
 - [Bizink](https://bizinkonline.com) - Worldwide
 - [Blameless](https://www.blameless.com) - USA, WorldWide
-- [Bloc](https://www.bloc.io) - North America
 - [Blossom Bridge](https://blossombridge.com) - Portugal
 - [Bluespark](https://www.bluespark.com) - USA
 - [Boldare](https://boldare.com) - Worldwide
 - [Bonsai](https://www.hellobonsai.com) - Worldwide
-- [Bot Jobs](http://botjobs.io) - WorldWide
 - [Bounteous](https://jobs.lever.co/bounteous)
 - [Brave Investments](https://www.crunchbase.com/organization/brave-investment) - Brazil
 - [Bridges](https://www.bridges.com) - Canada
@@ -149,7 +144,6 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [BriteCore](https://britecore.com) - USA, Worldwide
 - [Buffer](https://buffer.com) - Worldwide
 - [Bugfender](https://bugfender.com) - Worldwide
-- [Bulut Yazilim](https://bulutyazilim.com) - Worldwide
 - [Bumeran](https://www.bumeran.com.ar) - Argentina
 - [Buscojobs](https://www.buscojobs.cl) - Chile
 - [BuySellAds](https://www.buysellads.com) - Worldwide
@@ -232,6 +226,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Compucorp](https://www.compucorp.co.uk)️ - Worldwide
 - [Computer Jobs](http://www.computerjobs.com) - EUA
 - [Computer World](https://www.computerworld.com.pt/emprego) - Portugal
+- [Computrabajo](https://www.computrabajo.com/) - Canada
 - [Connecticum](http://www.connecticum.de) - Germany
 - [Connexa](https://www.connexa.com) - Worldwide
 - [ConsenSys](https://consensys.net) - Worldwide
