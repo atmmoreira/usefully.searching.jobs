@@ -156,7 +156,6 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Cabify](https://cabify.com) - Spain
 - [Calamari](https://calamari.io) - Poland
 - [Calibre](https://calibreapp.com) - Worldwide
-- [Canada Jobs](http://www.canadajobs.com) - Canada
 - [Canada infonet](http://www.canadainfonet.org) - Canada
 - [Canada job Expo](http://www.canadajobexpo.com) - Canada
 - [Canadainfonet](https://www.canadainfonet.org) - Canada
@@ -166,7 +165,6 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Canva](https://www.canva.com/careers/jobs)
 - [Capchase](https://www.capchase.com) - Worldwide
 - [Capital One](https://www.capitalonecareers.com/tech) - USA
-- [Carbon Black](https://www.carbonblack.com) - USA, Offices in Boston, MA
 - [Cards Against Humanity](https://cardsagainsthumanity.com) - USA
 - [CareCru](https://carecru.com) - Worldwide
 - [CareMessage](https://caremessage.org/careers) - Worldwide
@@ -561,6 +559,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Jaya Tech](https://jaya.tech) - Worldwide
 - [Jitbit](https://www.jitbit.com) - Worldwide
 - [Jitera](https://iruuza-inc.com) - Worldwide
+- [Job.Com](https://www.job.com/) - Worldwide
 - [Job Agent](https://www.jobagent.ch) - Switzerland
 - [Job Bank GC](https://www.jobbank.gc.ca) - Canada
 - [Job Borse](https://jobboerse.arbeitsagentur.de) - Germany
@@ -1073,6 +1072,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Voxy](https://boards.greenhouse.io/voxy)️️ - Brazil, USA
 - [Vtrac](http://www.vtrac.com) - Canada
 - [VueJs Jobs](https://vuejobs.com) - WorldWide
+- [Vware Security Solutions](https://www.vmware.com/security.html) - USA, Offices in Boston, MA
 - [WERK](https://www.werk.nl/werk_nl/werknemer/vacatures) - Netherlands
 - [WFH](http://www.wfh.io) - WorldWide
 - [WP Hired](http://www.wphired.com) - WorldWide
