@@ -171,21 +171,18 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Careego](http://www.careego.com) - Canada
 - [Career Beacon](https://www.careerbeacon.com) - Canada
 - [Career Builder](https://www.careerbuilder.ca) - Canada
-- [Career Edge](www.careeredge.ca) - Canada
+- [Career Edge](https://www.careeredge.ca/) - Canada
 - [Career Junction](https://www.careerjunction.co.za) - South Africa
-- [Career Key](http://www.careerkey.com) - Canada
 - [Career Luxoft](https://career.luxoft.com) - Europe
 - [CareerJet PT](http://www.careerjet.pt) - Portugal
-- [Careeraim](http://www.careeraim.com) - Canada
 - [Careers 24](https://www.careers24.com) - South Africa
-- [Careers Google](http://www.careers.google.com) - WorldWide
+- [Careers Google](https://careers.google.com/) - WorldWide
 - [Carga de Trabalhos](http://www.cargadetrabalhos.net) - Portugal
 - [CartStack](https://www.cartstack.com) - Worldwide
 - [CartoDB](https://cartodb.com) - Worldwide
 - [Casumo](https://www.casumo.com) - Europe
 - [Catho](http://www.catho.com.br)
 - [Celsius](https://celsius.network) - Worldwide
-- [Chargify](https://www.chargify.com) - USA
 - [Charity Village](http://www.charityvillage.com) - Canada
 - [Charity: water](https://www.charitywater.org) - USA, Offices in NY
 - [ChatGen](https://chatgen.ai) - India, USA
@@ -197,22 +194,16 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Chroma](https://hichroma.com) - Worldwide
 - [CircleCI](https://circleci.com) - Worldwide
 - [Circonus](https://circonus.com) - USA
-- [Cisystems](www.cisystems.com) - Canada
 - [CivicActions](https://civicactions.com) - Worldwide
 - [Clevertech](https://clevertech.biz) - Worldwide
 - [Close](https://close.com) - Worldwide
-- [CloudApp](https://getcloudapp.com) - North America
+- [CloudBees](https://www.cloudbees.com/careers/job) - Worldwide
 - [CloudFlare](https://www.cloudflare.com/careers)
-- [CodePen](https://codepen.io) - Worldwide
 - [CodeSandbox](https://codesandbox.io) - Worldwide
 - [Codea IT](https://www.codeait.com) - Worldwide
 - [Codepen Jobs](https://codepen.io/job) - EUA
-- [Codeship](https://codeship.com) - Worldwide
-- [Codestunts](https://codestunts.com) - WorldWide
-- [Codestunts](https://codestunts.com) - Worldwide
 - [Cofense](https://cofense.com) - USA
-- [Coinbase](https://www.coinbase.com) - Worldwide
-- [Coinbase](https://www.coinbase.com/careers/positions)
+- [Coinbase](https://www.coinbase.com/careers/positions) - Worldwide
 - [Colivre](https://colivre.coop.br) - Worldwide
 - [Collabera](https://collabera.jobs.net) - EUA
 - [Collabora](https://www.collabora.com) - Worldwide
@@ -684,6 +675,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Mason Frank](https://www.masonfrank.com/) - Worldwide
 - [MaxMilhas](http://www.maxmilhas.com.br)
 - [Maxicus](https://maxicus.com) - India
+- [Maxio](https://www.maxio.com/careers) - USA, EMEA, Poland
 - [Mckinsey](https://www.mckinsey.com/careers/search-jobs)
 - [Mediacurrent](https://www.mediacurrent.com) - USA
 - [Mediavine](https://www.mediavine.com) - USA
@@ -1123,6 +1115,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Zapier](https://zapier.com) - Worldwide
 - [Zeit.io](https://zeit.io) - Germany, The Netherlands, Spain, Chile
 - [Zero to one Search](https://jobs.zerotoonesearch.com/careers) - Germany
+- [Zight](https://zight.com/) - North America
 - [Zignaly.com](https://zignaly.io) - Worldwide
 - [Zip Recruiter](http://www.ziprecruiter.com) - WorldWide
 - [Zip.co](https://zip.co/us) - USA, Canada
