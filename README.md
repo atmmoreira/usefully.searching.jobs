@@ -210,18 +210,17 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [College Recruiter](http://www.collegerecruiter.com) - EUA
 - [Comet](https://www.comet.co) - France
 - [Comoequetala](http://www.comoequetala.com.br) - Brazil
-- [Compose](https://www.compose.io) - Worldwide
-- [CompuTrabajo](https://www.computrabajo.cl) - Chile
-- [Compucorp](https://www.compucorp.co.uk)️ - Worldwide
+- [Compose](https://compose.im/) - Worldwide
+- [Compuco](https://www.compuco.io/company-culture)️ - Worldwide
 - [Computer Jobs](http://www.computerjobs.com) - EUA
 - [Computer World](https://www.computerworld.com.pt/emprego) - Portugal
+- [CompuTrabajo](https://www.computrabajo.cl) - Chile
 - [Computrabajo](https://www.computrabajo.com/) - Canada
 - [Connecticum](http://www.connecticum.de) - Germany
 - [Connexa](https://www.connexa.com) - Worldwide
 - [ConsenSys](https://consensys.net) - Worldwide
 - [Consumer Financial Protection Bureau](https://www.consumerfinance.gov) - USA
 - [Conta.mobi](http://conta.mobi)
-- [Contact Point](http://www.contactpoint.ca) - Canada
 - [Continu](https://www.continu.co) - USA
 - [Conversio](https://conversio.com) - Worldwide
 - [Convert](https://www.convert.com) - Worldwide
@@ -229,7 +228,6 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Cool blue](https://www.careersatcoolblue.com)
 - [Core Services Inc](http://www.coreservicesinc.com) - Canada
 - [Core-Apps](https://www.core-apps.com) - USA
-- [CoreOS](https://coreos.com) - USA
 - [Corgibytes](https://corgibytes.com) - USA East Coast
 - [Coroflot](http://www.coroflot.com/design-jobs) - EUA
 - [Course Hero](https://www.coursehero.com/jobs/#positions)
@@ -241,7 +239,6 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [CrowdTangle](https://crowdtangle.com) - USA
 - [Crowdstrike](https://www.crowdstrike.com) - Worldwide
 - [Crunch Board](http://www.crunchboard.com) - EUA
-- [Crypsis](https://careers.crypsisgroup.com/job-search)
 - [Crypto Currency Jobs](http://cryptocurrencyjobs.co) - WorldWide
 - [Crypto Jobs List](https://cryptojobslist.com) - WorldWide
 - [CryptoJobs](https://crypto.jobs) - WorldWide
@@ -763,6 +760,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Paktor](https://www.gopaktor.com) - Worldwide
 - [Palantir.net](https://www.palantir.net) - USA
 - [Pallet - The remote job club](https://theremotejobclub.pallet.com/jobs) - WorldWide
+- [Paloalto Networks](https://jobs.paloaltonetworks.com/en/) - Worldwide
 - [Panda Jobs](http://panda.jobs) - WorldWide
 - [Panther Labs](https://runpanther.io) - USA, Greece
 - [Parabol](https://www.parabol.co) - Worldwide
