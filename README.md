@@ -365,6 +365,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [Flat World](https://flatworld.co/jobs) - WorldWide
 - [Flex Jobs](http://www.flexjobs.com) - WorldWide
 - [Flexera](https://www.flexera.com) - USA
+- [FlexWork Web](https://www.flexworkweb.com/) - WorldWide
 - [FlightAware](https://flightaware.com) - USA
 - [Flixbus](https://www.flixbus.com/company/jobs)
 - [Flohiring](https://flohiring.com/) - WorldWide
