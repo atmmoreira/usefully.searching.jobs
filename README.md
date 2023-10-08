@@ -603,6 +603,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - [JupiterOne](https://www.jupiterone.com/careers) - USA
 - [Just Remote](https://justremote.co) - WorldWide
 - [Just Tech Jobs](https://justtechjobs.com/) - Canada
+- [Js Remote](https://jsremote.jobs/) - Worldwide
 - [Kaam.work](https://www.kaam.work/platform/findjobs) - WorldWide
 - [Kaggle](https://kaggle.com) - Worldwide
 - [Kea](https://kea.ai) - North and Latin America
