@@ -26,11 +26,9 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 
 <br />
 
-- [&yet](https://andyet.com) - WorldWide
-- [10up](https://10up.com/) - WorldWide
-- [15Five](https://www.15five.com) - Europe, Americas
-- [17hats](https://www.17hats.com) - Worldwide
-- [18F](https://18f.gsa.gov) - USA
+- OK - [10up](https://10up.com/) - WorldWide
+- OK - [15Five](https://www.15five.com) - Europe, Americas
+- OK - [18F](https://18f.gsa.gov) - USA
 - [1Password](https://www.1password.com) - North America, UK
 - [42 Technologies](https://www.42technologies.com) - Worldwide
 - [6 Nomads](https://6nomads.com) - WorldWide
