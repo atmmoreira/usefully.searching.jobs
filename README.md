@@ -29,16 +29,12 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - OK - [10up](https://10up.com/) - WorldWide
 - OK - [15Five](https://www.15five.com) - Europe, Americas
 - OK - [18F](https://18f.gsa.gov) - USA
-- [1Password](https://www.1password.com) - North America, UK
-- [42 Technologies](https://www.42technologies.com) - Worldwide
-- [6 Nomads](https://6nomads.com) - WorldWide
-- [99Freelas](https://www.99freelas.com.br) - Brazil
-- [ADP Jobs](https://jobs.adp.com) - WorldWide
-- [AE Studio](https://ae.studio) - USA, BR
-- [ALICE](https://aliceplatform.com) - Worldwide
-- [ARK](https://www.ark.io) - Worldwide
-- [Abiturma](https://www.abiturma.de) - Germany
-- [Ably](https://www.ably.io) - Europe
+- OK - [1Password](https://www.1password.com) - North America, UK
+- OK - [6 Nomads](https://6nomads.com) - WorldWide
+- OK - [ADP Jobs](https://jobs.adp.com) - WorldWide
+- OK - [AE Studio](https://ae.studio) - USA, BR
+- OK - [ALICE](https://aliceplatform.com) - Worldwide
+- OK - [Ably](https://www.ably.io) - Europe
 - [About you](https://corporate.aboutyou.de/en/departments/tech)
 - [Absolventa](https://www.absolventa.de/jobs/channel/it) - Germany
 - [Abstract API](https://www.abstractapi.com) - Worldwide
