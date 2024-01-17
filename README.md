@@ -35,14 +35,12 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - OK - [AE Studio](https://ae.studio) - USA, BR
 - OK - [ALICE](https://aliceplatform.com) - Worldwide
 - OK - [Ably](https://www.ably.io) - Europe
-- [About you](https://corporate.aboutyou.de/en/departments/tech)
-- [Absolventa](https://www.absolventa.de/jobs/channel/it) - Germany
-- [Abstract API](https://www.abstractapi.com) - Worldwide
-- [Acct](https://acct.global) - Worldwide
-- [Acivilate](https://acivilate.com) - USA
-- [Acquia](https://www.acquia.com) - Worldwide
-- [Acsess](https://www.acsess.org) - Canada
-- [ActiveCampaign](https://www.activecampaign.com) - Dublin, Ireland; USA
+- OK - [About you](https://corporate.aboutyou.de/en/departments/tech) - Europe
+- OK - [Absolventa](https://www.absolventa.de/jobs/channel/it) - Germany
+- OK - [Acivilate](https://acivilate.com) - USA
+- OK - [Acquia](https://www.acquia.com) - Worldwide
+- OK - [Acsess](https://www.acsess.org) - Canada
+- OK - [ActiveCampaign](https://www.activecampaign.com) - Dublin, Ireland; USA
 - [Ad Hoc](https://www.adhocteam.us) - USA
 - [Adaface](https://www.adaface.com) - Asia
 - [AddStructure](https://www.bazaarvoice.com) - USA
