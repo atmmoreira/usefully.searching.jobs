@@ -41,7 +41,7 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - OK - [Acquia](https://www.acquia.com) - Worldwide
 - OK - [Acsess](https://www.acsess.org) - Canada
 - OK - [ActiveCampaign](https://www.activecampaign.com) - Dublin, Ireland; USA
-- [Ad Hoc](https://www.adhocteam.us) - USA
+- OK - [Ad Hoc](https://www.adhocteam.us) - USA
 - [Adaface](https://www.adaface.com) - Asia
 - [AddStructure](https://www.bazaarvoice.com) - USA
 - [Adecco CA](https://www.adecco.ca) - Canada
