@@ -3,13 +3,6 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 
 <br />
 
-# Se Desafiem...
-
-» [Frontend Challanges](https://github.com/felipefialho/frontend-challenges)\
-» [Backend Challanges](https://github.com/CollabCodeTech/backend-challenges)
-
-<br />
-
 # Empresas no mundo para trabalhos remotos.
 
 » [Remote Job Worldwide](https://github.com/remoteintech/remote-jobs)
