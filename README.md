@@ -31,18 +31,15 @@ Administrador » Anderson Martins » [atmmoreira.rj@gmail.com](mailto:atmmoreira
 - OK - [Acsess](https://www.acsess.org) - Canada
 - OK - [ActiveCampaign](https://www.activecampaign.com) - Dublin, Ireland; USA
 - OK - [Ad Hoc](https://www.adhocteam.us) - USA
-- [Adaface](https://www.adaface.com) - Asia
-- [AddStructure](https://www.bazaarvoice.com) - USA
-- [Adecco CA](https://www.adecco.ca) - Canada
-- [Adecco CH](https://www.adecco.ch) - Switzerland
-- [Adria Solutions](http://www.adriasolutions.co.uk) - England
-- [Adzuna](http://www.adzuna.com.au) - Australia
-- [Adzuna](https://www.adzuna.co.uk) - Worldwide
-- [Aerolab](https://aerolab.co) - Latin America
-- [AgFlow](https://www.agflow.com) - Europe
-- [Aha!](https://www.aha.io) - Worldwide
-- [AirGarage](https://www.airgarage.com) - USA
-- [AirTreks](https://www.airtreks.com) - USA
+- OK - [Adaface](https://www.adaface.com) - Asia
+- OK - [AddStructure](https://www.bazaarvoice.com) - USA
+- OK - [Adecco CA](https://www.adecco.ca) - Canada
+- OK - [Adecco CH](https://www.adecco.ch) - Switzerland
+- OK - [Adria Solutions](http://www.adriasolutions.co.uk) - England
+- OK - [Adzuna](http://www.adzuna.com.au) - Australia
+- OK - [Adzuna](https://www.adzuna.co.uk) - Worldwide
+- OK - [Aerolab](https://aerolab.co) - Latin America
+- OK - [Aha!](https://www.aha.io) - Worldwide
 - [Airbyte](https://airbyte.com) - Europe, North America, Latin America
 - [Aivitex](https://www.aivitex.de) - Germany
 - [Algolia](https://www.algolia.com/careers)
